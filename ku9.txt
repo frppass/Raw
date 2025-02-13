@@ -1,3 +1,241 @@
+NS-ID,#genre#
+DAAI TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
+NET TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
+ANTV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/31.m3u8
+SCTV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
+Trans TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
+Trans 7,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
+Rajawali TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
+NET TV FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+JTV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/135.m3u8
+Bali TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/889.m3u8
+Dunia Lain,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
+Trans TV FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+Trans 7 FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
+SCTV HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
+Indosiar,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+Hope Channel,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30183.m3u8
+Antara TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32586.m3u8
+TV ONE,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29.m3u8
+Kompas TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
+TVRI,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36.m3u8
+CNN Indonesia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
+Metro TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
+Aljazeera EN,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/89.m3u8
+Berita Satu News,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/136.m3u8
+DW TV Asia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/205.m3u8
+France 24,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/787.m3u8
+BBC World News HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/789.m3u8
+Channel News Asia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1191.m3u8
+CNN Int,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
+CNBC Indonesia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1512.m3u8
+Metro TV HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1697.m3u8
+CGTN News,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/15070.m3u8
+Thrill,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/4.m3u8
+Celestial Movies,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/5.m3u8
+KIX HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8.m3u8
+AXN,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9.m3u8
+HITS,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
+Paramount Network,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
+Hits Movies HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
+HBO HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+HBO Hits HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+HBO Family HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+Star Chinese Movies HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/780.m3u8
+Rock Entertainment HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/811.m3u8
+LifeTime HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/866.m3u8
+HBO Signature HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+Bioskop Indonesia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.m3u8
+Hits Movie SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/957.m3u8
+HITS HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1195.m3u8
+Hits Movies,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1478.m3u8
+HBO FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+HBO Signature FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
+Warner TV ID HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
+My Cinema Asia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1859.m3u8
+Cinemax ID,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+HBO Hits FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.m3u8
+My Family Channel,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14994.m3u8
+HBO SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26595.m3u8
+HBO Hits SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26596.m3u8
+HBO Signature SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
+HBO Family SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
+FLIK HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29592.m3u8
+Galaxy Premium SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29603.m3u8
+Galaxy SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
+ATV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.m3u8
+HBO Family FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
+Cinemax FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
+IMC SD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
+Celestial Classic Movies CCM,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36581.m3u8
+Discovery Channel HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/95.m3u8
+Nat Geo HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/96.m3u8
+Nat Geo Wild HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/97.m3u8
+Discovery Channel HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/165.m3u8
+Crime Investigation,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/332.m3u8
+Discovery Shed,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/333.m3u8
+Animal Planet HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/358.m3u8
+TechStorm,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/455.m3u8
+Discovery Turbo,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/462.m3u8
+History HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
+Discovery Asia,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/779.m3u8
+History FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
+Lingua Channel,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14944.m3u8
+Smithsonian Channel,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35998.m3u8
+Da Vinci Learning,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36729.m3u8
+Ruang Terampil,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36731.m3u8
+TV Edukasi,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36732.m3u8
+Love Nature 4K,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36767.m3u8
+Discovery Science HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37392.m3u8
+Aniplus,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.m3u8
+Animax,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
+My Kidz,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/213.m3u8
+Boomerang ID,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
+Nick Jr,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/341.m3u8
+Nick Jr ID,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/522.m3u8
+Cartoon Network ID HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
+Dunia Anak,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
+Nickelodeon,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/962.m3u8
+My Kidz,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1483.m3u8
+Indi Kids,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+Horee,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
+Dream Works HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
+Champions TV 1,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/51.m3u8
+Champions TV 2,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/101.m3u8
+FIGHT BOX,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/501.m3u8
+Golf Channel FHD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/561.m3u8
+BeIN Sport 1 ID,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/728.m3u8
+BeIN Sport 2 ID,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/729.m3u8
+Fight Sports,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/784.m3u8
+NBA TV HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
+Horizon Sports HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/46366.m3u8
+Fashion TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/280.m3u8
+TLC HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/352.m3u8
+HGTV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/537.m3u8
+TLC HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/766.m3u8
+AFN HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/807.m3u8
+Citra Drama,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.m3u8
+Rock Action HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
+Insert,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
+Eat & Go,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26979.m3u8
+.idku,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36730.m3u8
+BBC Lifestyle HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36766.m3u8
+K Plus,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
+Sony ONE,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/19.m3u8
+TVN ID,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
+S GEM HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/770.m3u8
+tVN Movies HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
+KBS World HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/15057.m3u8
+Drama Korea LBS,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35769.m3u8
+MTV Music,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/286.m3u8
+Prambors TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1157.m3u8
+ONE African TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1731.m3u8
+Citra Dangdut,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2207.m3u8
+MTV LIVE HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9110.m3u8
+i konser,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29594.m3u8
+Makkah TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/297.m3u8
+TV Mu,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1726.m3u8
+
+NS-MY,#genre#
+Sun Music,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2555.m3u8
+Zee Cinema HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37332.m3u8
+Love Nature,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37333.m3u8
+ASTRO OASIS HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37334.m3u8
+Global Trekker,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37335.m3u8
+TV ALHIJRAH,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37337.m3u8
+SPOTV 2,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37338.m3u8
+W Sport,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37339.m3u8
+ADITHYA,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37342.m3u8
+STAR VIJAY HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37345.m3u8
+COLORS TAMIL,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37346.m3u8
+SUN TV HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37347.m3u8
+Astro Premier,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37348.m3u8
+iQIYI HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37349.m3u8
+CELESTIAL HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37355.m3u8
+TVB JADE,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37356.m3u8
+AOD 351 HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37357.m3u8
+CTI ASIA,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37358.m3u8
+TVB E-NEWS,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37359.m3u8
+TVB XING HE HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37360.m3u8
+TVBS ASIA HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37361.m3u8
+CCTV4 HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37364.m3u8
+AOD 352 HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37365.m3u8
+AOD 353 HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37366.m3u8
+KBS World HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37369.m3u8
+ONE HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37370.m3u8
+tvN HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37372.m3u8
+HITS MOVIES HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37373.m3u8
+HBO HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37374.m3u8
+CINEMAX HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37375.m3u8
+tvN Movies,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37376.m3u8
+ASTRO AWANI,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37377.m3u8
+CGTN,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37379.m3u8
+AL JAZEERA HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37382.m3u8
+CNA HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37384.m3u8
+CNBC,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37385.m3u8
+BLOOMBERG TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37386.m3u8
+ABC AUSTRALIA,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37387.m3u8
+DISCOVERY HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37390.m3u8
+DISCOVERY ASIA,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37391.m3u8
+HISTORY HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37393.m3u8
+ANIMAL PLANET HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37394.m3u8
+CARTOON NTWK HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37403.m3u8
+NICKELODEON HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37404.m3u8
+NICK JR,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37405.m3u8
+AXN HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37406.m3u8
+HITS HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37409.m3u8
+TLC HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37410.m3u8
+FOOD NTWK HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37411.m3u8
+AFN HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.m3u8
+NATGEO PEOPLE,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37413.m3u8
+WARNER TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37414.m3u8
+HGTV HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37416.m3u8
+DMAX HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37417.m3u8
+MTV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37419.m3u8
+ASTRO ARENA HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37422.m3u8
+COLORS HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37427.m3u8
+Showcase Movies,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37428.m3u8
+HBO Family,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37429.m3u8
+Crime Investigation,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37430.m3u8
+HBO Hits,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37431.m3u8
+beIN SPORTS,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37432.m3u8
+bEIN Sports 3,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37433.m3u8
+EUROSPORT HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37434.m3u8
+WWE NETWORK,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37435.m3u8
+GOLF CHANNEL HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37436.m3u8
+ASTRO CRICKET,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37438.m3u8
+ANIPLUS HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37439.m3u8
+DW HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37441.m3u8
+Phoenix Info News HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37442.m3u8
+SPOTV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37443.m3u8
+LifeTime,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37444.m3u8
+TA-DAA,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37445.m3u8
+TV1,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37446.m3u8
+TV2,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37447.m3u8
+BBC Earth HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37449.m3u8
+BBC Lifestyle,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37450.m3u8
+BOO,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.m3u8
+PrimeTime,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37458.m3u8
+Moonbug Kids,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37460.m3u8
+Astro Rania HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37467.m3u8
+Astro Aura HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37468.m3u8
+Chutti TV,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48089.m3u8
+TVB Classic,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48090.m3u8
+CCM,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48091.m3u8
+CNN HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48093.m3u8
+BBC News HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48094.m3u8
+Sky News HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48095.m3u8
+Astro Tutor UPSR,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48097.m3u8
+Astro Tutor SMK,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48098.m3u8
+Bein Sports 2,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48099.m3u8
+KPlus HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48100.m3u8
+France 24 HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48101.m3u8
+KTV HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48102.m3u8
+Paramount Network HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48103.m3u8
+Phoenix Chinese Channel HD,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48104.m3u8
+TVS,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48105.m3u8
+PRemier Sports,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/48106.m3u8
+
 EXT ID,#genre#
 METRO TV HD,http://extraott.com/live/VYN3YK6L/YDHTSCSY/191798.ts
 Moonbug HD,http://extraott.com/live/VYN3YK6L/YDHTSCSY/191780.ts
@@ -843,452 +1081,452 @@ iHOT爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
 外一,#genre#
-Lifetime Movie,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a6554fa0003c32cd77bc1a751886599
-VH-1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a46716a00078e0d5ed31d3460da3911
-BBC America,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a01d8fc000a4ee752e0271350321283
-TBS,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b7c9a5f00076daa1a60a86359a531ea
-Destination America,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a4af6c60005abb5707bfcb6077937a0
-MTV US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b7cc0d40008b4961af6e1be0e8a0491
-OWN US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f90e140000e4e52bec2c31d768f133a
+Lifetime Movie,p3p://fccsen.dyndns.tv:29706/5a6554fa0003c32cd77bc1a751886599
+VH-1,p3p://fccsen.dyndns.tv:29706/5a46716a00078e0d5ed31d3460da3911
+BBC America,p3p://fccsen.dyndns.tv:29706/5a01d8fc000a4ee752e0271350321283
+TBS,p3p://fccsen.dyndns.tv:29706/5b7c9a5f00076daa1a60a86359a531ea
+Destination America,p3p://fccsen.dyndns.tv:29706/5a4af6c60005abb5707bfcb6077937a0
+MTV US,p3p://fccsen.dyndns.tv:29706/5b7cc0d40008b4961af6e1be0e8a0491
+OWN US,p3p://fccsen.dyndns.tv:29706/5f90e140000e4e52bec2c31d768f133a
 FashionTV HD,p3p://108.181.20.159:71421/64577742000d1a6986e1aac95b701e8b
-FashionTV HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=615276c1000841769af1921e0239571f
-Fashion TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a43e5ea0002d22c54e2300409a71dad
-GSN,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bd7adf4000e15bd7e2468267440101a
-Great American,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5db233aa000d382c7983c4501be10123
-Freeform,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a9e1feb000d44f1b55421701c633a29
-C+I US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a02116000082b1353bc6d2b2ae931ff
-Fuse,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ab3d751000ead120a2866c74cd96f23
-Me TV 23,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5acd60e600047cf16de99d001a3b4f7e
-FYI,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b7c9957000d63fb1a5ca2a840085e1a
-HGTV US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a91ad54000253e284b4a0ae39110fc8
-Cooking Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a824d59000df7e648a5c80057151ed6
-Food Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc7e11000b47f5585946df50305dc2
-Discovery Life,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b2c50dd000a1eb3e0c241e3759d22cb
-DIY Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bd1461f0003f8b3651ecd8a078e74fc
-Logo TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6ec2d20002e4d972132c2d3b57367f
-American Heroes,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c183b520001b64738127e491183292d
-Oxygen,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c183b75000024f43813069b204240f3
-TLC US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c5e47da0000bb2c49b3714d35d04474
-TV One,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6efa6c0000349172ec5d012a1216a7
-BET Her,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d8421fb00053029c58ed2714a465653
-BET Jams,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d8422100000a11dc58f234e43706dda
-BET Soul,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d842222000ef2dec58f6d494b17556d
-Comet,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5db23393000ef87479836aea17cc05a1
-Cozi TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e31d0a0000b13126c00b2fe0cce1afd
-FXM,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f5f799b000c2dcbfdc6094a128c03dd
-Ginx eSports,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e43489d00057424b03d5dc406ea2a36
-ION TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f28c3f300077a702810aa0817f10617
-KBS World,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e49b05d0008623bc942a477064225a9
-Daystar TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e0b91f000b1934c6a47c4630f946a1
-NASA TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c509c05000ddf47144c3c9e1c834bf1
-NASA 4K,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f2747090009bab62240b88a51ab7763
-Travelxp HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ffe5fc8000b05346a78de1410167cd0
-WildEarth,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=60ad9b300006855116f7e2477b9b5bbc
+FashionTV HD,p3p://fccsen.dyndns.tv:29706/615276c1000841769af1921e0239571f
+Fashion TV,p3p://fccsen.dyndns.tv:29706/5a43e5ea0002d22c54e2300409a71dad
+GSN,p3p://fccsen.dyndns.tv:29706/5bd7adf4000e15bd7e2468267440101a
+Great American,p3p://fccsen.dyndns.tv:29706/5db233aa000d382c7983c4501be10123
+Freeform,p3p://fccsen.dyndns.tv:29706/5a9e1feb000d44f1b55421701c633a29
+C+I US,p3p://fccsen.dyndns.tv:29706/5a02116000082b1353bc6d2b2ae931ff
+Fuse,p3p://fccsen.dyndns.tv:29706/5ab3d751000ead120a2866c74cd96f23
+Me TV 23,p3p://fccsen.dyndns.tv:29706/5acd60e600047cf16de99d001a3b4f7e
+FYI,p3p://fccsen.dyndns.tv:29706/5b7c9957000d63fb1a5ca2a840085e1a
+HGTV US,p3p://fccsen.dyndns.tv:29706/5a91ad54000253e284b4a0ae39110fc8
+Cooking Channel,p3p://fccsen.dyndns.tv:29706/5a824d59000df7e648a5c80057151ed6
+Food Network,p3p://fccsen.dyndns.tv:29706/59bc7e11000b47f5585946df50305dc2
+Discovery Life,p3p://fccsen.dyndns.tv:29706/5b2c50dd000a1eb3e0c241e3759d22cb
+DIY Network,p3p://fccsen.dyndns.tv:29706/5bd1461f0003f8b3651ecd8a078e74fc
+Logo TV,p3p://fccsen.dyndns.tv:29706/5d6ec2d20002e4d972132c2d3b57367f
+American Heroes,p3p://fccsen.dyndns.tv:29706/5c183b520001b64738127e491183292d
+Oxygen,p3p://fccsen.dyndns.tv:29706/5c183b75000024f43813069b204240f3
+TLC US,p3p://fccsen.dyndns.tv:29706/5c5e47da0000bb2c49b3714d35d04474
+TV One,p3p://fccsen.dyndns.tv:29706/5d6efa6c0000349172ec5d012a1216a7
+BET Her,p3p://fccsen.dyndns.tv:29706/5d8421fb00053029c58ed2714a465653
+BET Jams,p3p://fccsen.dyndns.tv:29706/5d8422100000a11dc58f234e43706dda
+BET Soul,p3p://fccsen.dyndns.tv:29706/5d842222000ef2dec58f6d494b17556d
+Comet,p3p://fccsen.dyndns.tv:29706/5db23393000ef87479836aea17cc05a1
+Cozi TV,p3p://fccsen.dyndns.tv:29706/5e31d0a0000b13126c00b2fe0cce1afd
+FXM,p3p://fccsen.dyndns.tv:29706/5f5f799b000c2dcbfdc6094a128c03dd
+Ginx eSports,p3p://fccsen.dyndns.tv:29706/5e43489d00057424b03d5dc406ea2a36
+ION TV,p3p://fccsen.dyndns.tv:29706/5f28c3f300077a702810aa0817f10617
+KBS World,p3p://fccsen.dyndns.tv:29706/5e49b05d0008623bc942a477064225a9
+Daystar TV,p3p://fccsen.dyndns.tv:29706/61e0b91f000b1934c6a47c4630f946a1
+NASA TV,p3p://fccsen.dyndns.tv:29706/5c509c05000ddf47144c3c9e1c834bf1
+NASA 4K,p3p://fccsen.dyndns.tv:29706/5f2747090009bab62240b88a51ab7763
+Travelxp HD,p3p://fccsen.dyndns.tv:29706/5ffe5fc8000b05346a78de1410167cd0
+WildEarth,p3p://fccsen.dyndns.tv:29706/60ad9b300006855116f7e2477b9b5bbc
 Festival 4k,p3p://108.181.20.159:71421/647c5502000692e116e32e9c46b45652
 Bellator MMA,p3p://108.181.20.159:71421/644ed90f000b74d86537dd0e70232024
 Red Bull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Red Bull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-BBC 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bb6bb320008c3b8fd705faa6a647667
-BBC 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bb6bb3f00077ecefd70921f13656e23
-BBC 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc7fe40002bfa9586064da5fe27f17
-BBC 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc801000090e075861125817955ece
-4 Seven,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fc8350400098fcf96e1e2fc391f40d5
-ITV 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ef279a1000a834953fe9f820c3a1e28
-ITV 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c67e1d00059c307f6961cb24ad3501
-ITV 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a21d67a000d3582cfd627334c8c2ac4
-ITV 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da515260002b0a746448df737ea317b
-Channel 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a4fc6a30000c6fe8347f2ba7b456d3d
-Channel 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a4fc6b8000a4344834847302d90644a
-Film 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a4fc6f9000c7c77834945aa62c55dd2
-More 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bf0817c000316d3df1e708d010a4787
-Drama,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9e803b00086ca32c8ee1e970232f56
-Alibi,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5028b5000ce1d084c70c1c77fb2cde
-Quest,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5028c6000d6b6e84c74ea702584daa
-Gold,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5028d80004694d84c792a90f466ae3
-ITVbe,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5028ea0009ec5d84c7da6221e13f41
-Home,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51b9e000e3265465dd5b1148d3edd
-Food Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51cc1000719a3466244991dfc4c94
-Yesterday,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a503add0004be13850df64c4e0e7ed9
-TLC UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51b58000255f9465cc13749aa2c6a
+BBC 1,p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
+BBC 2,p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
+BBC 3,p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
+BBC 4,p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
+4 Seven,p3p://fccsen.dyndns.tv:29706/5fc8350400098fcf96e1e2fc391f40d5
+ITV 1,p3p://fccsen.dyndns.tv:29706/5ef279a1000a834953fe9f820c3a1e28
+ITV 2,p3p://fccsen.dyndns.tv:29706/59c67e1d00059c307f6961cb24ad3501
+ITV 3,p3p://fccsen.dyndns.tv:29706/5a21d67a000d3582cfd627334c8c2ac4
+ITV 4,p3p://fccsen.dyndns.tv:29706/5da515260002b0a746448df737ea317b
+Channel 4,p3p://fccsen.dyndns.tv:29706/5a4fc6a30000c6fe8347f2ba7b456d3d
+Channel 5,p3p://fccsen.dyndns.tv:29706/5a4fc6b8000a4344834847302d90644a
+Film 4,p3p://fccsen.dyndns.tv:29706/5a4fc6f9000c7c77834945aa62c55dd2
+More 4,p3p://fccsen.dyndns.tv:29706/5bf0817c000316d3df1e708d010a4787
+Drama,p3p://fccsen.dyndns.tv:29706/5d9e803b00086ca32c8ee1e970232f56
+Alibi,p3p://fccsen.dyndns.tv:29706/5a5028b5000ce1d084c70c1c77fb2cde
+Quest,p3p://fccsen.dyndns.tv:29706/5a5028c6000d6b6e84c74ea702584daa
+Gold,p3p://fccsen.dyndns.tv:29706/5a5028d80004694d84c792a90f466ae3
+ITVbe,p3p://fccsen.dyndns.tv:29706/5a5028ea0009ec5d84c7da6221e13f41
+Home,p3p://fccsen.dyndns.tv:29706/5da51b9e000e3265465dd5b1148d3edd
+Food Network,p3p://fccsen.dyndns.tv:29706/5da51cc1000719a3466244991dfc4c94
+Yesterday,p3p://fccsen.dyndns.tv:29706/5a503add0004be13850df64c4e0e7ed9
+TLC UK,p3p://fccsen.dyndns.tv:29706/5da51b58000255f9465cc13749aa2c6a
 
 外二,#genre#
-Lifetime UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51d28000cae794663d85f554d3f9c
-E4 UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5045990007b58e8537e56c043e0517
-CBeebies UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ad9f000eb51e506829be07ce15df
-Horror Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f139cdf0007c7bcd57026d3180f7f58
-Dmax UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52adb0001a937469958c62dd95fa5
-CBS Drama,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a4fc7240002de418349eb2c44273f82
-Universal TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51b6c000ae4bd465d1188038c2952
-Syfy UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51b86000f421b465d78362c122cfb
-Comedy Central,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51c340006f7dc46601dc851d4236e
-Nat Geo Wild,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f139b730009c10dd56a997245464c2f
-Discovery Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51e5f000a557b4668969f5f0b0789
-Discovery Turbo,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51d91000b4fa14665722e0fcf3b63
-Discovery Science,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51de000049fab4666a51001703d65
-Crime +,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51e07000b872046673f2d37735085
-Discovery History,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51d740009296e466500593dfb7145
-National Geographic,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51e20000e402d4667a1875cf64269
-History UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51e35000d80214667f35e7d2a65b4
-Animal Planet,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51e490005df2446683f8a02a66ebe
-Sky Atlantic,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e937e9b000d211ee99027b522051eb7
-Sky Cinema Premiere,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da5265d000124534687cc6e64863e16
-Sky Cinema Hits,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da5267800053e83468836f3527a317f
-Sky Cinema Greats,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da5268e0007cd5a46888d8b4a030f75
-Sky Cinema Disney,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52a23000cd03546968ce03d10436d
-Sky Cinema Family,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52a3a0009a24d4696e5e831760737
-Sky Cinema Action,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52a4e0009dc414697341634494bf0
-Sky Cinema Comedy,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52a63000a4ce64697863b55733b22
-Sky Cinema Thriller,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52a7b000755af4697e3392145116d
-Romance,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52a8c000d95ce4698273b0d2576c1
-Sky Cinema Sci-Fi,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52aa1000cd5c3469879127d5c27a1
-Sky Cinema Select,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52ab80001ccea4698d01746601c1e
-MTV UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51d490005ed024664578d70665406
-MTV Rocks,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ad7100064ecc506773e725c50461
-MTV Hits,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=63433e7100084f612f7bf55b3d3b1e49
-MTV Classic,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ad24000a90e6506648362423296c
-MTV Music,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7acd7000496ae506519e6097a6f67
-Nick UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ac6e00098796506381011c8f27e3
-Nick Jr UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ac2a0001aa9d5062755e4b5e262a
-Boomerang,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7abcd00005d2a506109c006c62a60
-Cartoon Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7abac0005edf150608a4463c94ae2
-Pop UK,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ab5e000f35f9505f5bf40fdb7062
-Tiny Pop,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da7ab900003479f50601c3777804504
-Sky Sports Racing,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da51e77000af0554668f4872a89003b
-Racing TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da88bb300039f0c53cba50744e74fe0
+Lifetime UK,p3p://fccsen.dyndns.tv:29706/5da51d28000cae794663d85f554d3f9c
+E4 UK,p3p://fccsen.dyndns.tv:29706/5a5045990007b58e8537e56c043e0517
+CBeebies UK,p3p://fccsen.dyndns.tv:29706/5da7ad9f000eb51e506829be07ce15df
+Horror Channel,p3p://fccsen.dyndns.tv:29706/5f139cdf0007c7bcd57026d3180f7f58
+Dmax UK,p3p://fccsen.dyndns.tv:29706/5da52adb0001a937469958c62dd95fa5
+CBS Drama,p3p://fccsen.dyndns.tv:29706/5a4fc7240002de418349eb2c44273f82
+Universal TV,p3p://fccsen.dyndns.tv:29706/5da51b6c000ae4bd465d1188038c2952
+Syfy UK,p3p://fccsen.dyndns.tv:29706/5da51b86000f421b465d78362c122cfb
+Comedy Central,p3p://fccsen.dyndns.tv:29706/5da51c340006f7dc46601dc851d4236e
+Nat Geo Wild,p3p://fccsen.dyndns.tv:29706/5f139b730009c10dd56a997245464c2f
+Discovery Channel,p3p://fccsen.dyndns.tv:29706/5da51e5f000a557b4668969f5f0b0789
+Discovery Turbo,p3p://fccsen.dyndns.tv:29706/5da51d91000b4fa14665722e0fcf3b63
+Discovery Science,p3p://fccsen.dyndns.tv:29706/5da51de000049fab4666a51001703d65
+Crime +,p3p://fccsen.dyndns.tv:29706/5da51e07000b872046673f2d37735085
+Discovery History,p3p://fccsen.dyndns.tv:29706/5da51d740009296e466500593dfb7145
+National Geographic,p3p://fccsen.dyndns.tv:29706/5da51e20000e402d4667a1875cf64269
+History UK,p3p://fccsen.dyndns.tv:29706/5da51e35000d80214667f35e7d2a65b4
+Animal Planet,p3p://fccsen.dyndns.tv:29706/5da51e490005df2446683f8a02a66ebe
+Sky Atlantic,p3p://fccsen.dyndns.tv:29706/5e937e9b000d211ee99027b522051eb7
+Sky Cinema Premiere,p3p://fccsen.dyndns.tv:29706/5da5265d000124534687cc6e64863e16
+Sky Cinema Hits,p3p://fccsen.dyndns.tv:29706/5da5267800053e83468836f3527a317f
+Sky Cinema Greats,p3p://fccsen.dyndns.tv:29706/5da5268e0007cd5a46888d8b4a030f75
+Sky Cinema Disney,p3p://fccsen.dyndns.tv:29706/5da52a23000cd03546968ce03d10436d
+Sky Cinema Family,p3p://fccsen.dyndns.tv:29706/5da52a3a0009a24d4696e5e831760737
+Sky Cinema Action,p3p://fccsen.dyndns.tv:29706/5da52a4e0009dc414697341634494bf0
+Sky Cinema Comedy,p3p://fccsen.dyndns.tv:29706/5da52a63000a4ce64697863b55733b22
+Sky Cinema Thriller,p3p://fccsen.dyndns.tv:29706/5da52a7b000755af4697e3392145116d
+Romance,p3p://fccsen.dyndns.tv:29706/5da52a8c000d95ce4698273b0d2576c1
+Sky Cinema Sci-Fi,p3p://fccsen.dyndns.tv:29706/5da52aa1000cd5c3469879127d5c27a1
+Sky Cinema Select,p3p://fccsen.dyndns.tv:29706/5da52ab80001ccea4698d01746601c1e
+MTV UK,p3p://fccsen.dyndns.tv:29706/5da51d490005ed024664578d70665406
+MTV Rocks,p3p://fccsen.dyndns.tv:29706/5da7ad7100064ecc506773e725c50461
+MTV Hits,p3p://fccsen.dyndns.tv:29706/63433e7100084f612f7bf55b3d3b1e49
+MTV Classic,p3p://fccsen.dyndns.tv:29706/5da7ad24000a90e6506648362423296c
+MTV Music,p3p://fccsen.dyndns.tv:29706/5da7acd7000496ae506519e6097a6f67
+Nick UK,p3p://fccsen.dyndns.tv:29706/5da7ac6e00098796506381011c8f27e3
+Nick Jr UK,p3p://fccsen.dyndns.tv:29706/5da7ac2a0001aa9d5062755e4b5e262a
+Boomerang,p3p://fccsen.dyndns.tv:29706/5da7abcd00005d2a506109c006c62a60
+Cartoon Network,p3p://fccsen.dyndns.tv:29706/5da7abac0005edf150608a4463c94ae2
+Pop UK,p3p://fccsen.dyndns.tv:29706/5da7ab5e000f35f9505f5bf40fdb7062
+Tiny Pop,p3p://fccsen.dyndns.tv:29706/5da7ab900003479f50601c3777804504
+Sky Sports Racing,p3p://fccsen.dyndns.tv:29706/5da51e77000af0554668f4872a89003b
+Racing TV,p3p://fccsen.dyndns.tv:29706/5da88bb300039f0c53cba50744e74fe0
 ABC news  au,p3p://108.181.20.159:71421/616af6760009c76c78b2265b3bf645df
-Bloomberg,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a7e6aa2000db3e039783dac0a1c0882
-HBO 1 EU,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a7f5d8b0006c8863d2d1a0954875116
-HBO 2 EU,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a7f5df90002ac273d2ec6ad45e61251
-HBO 3 EU,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a7f5e14000964a73d2f31dd21593dab
+Bloomberg,p3p://fccsen.dyndns.tv:29706/5a7e6aa2000db3e039783dac0a1c0882
+HBO 1 EU,p3p://fccsen.dyndns.tv:29706/5a7f5d8b0006c8863d2d1a0954875116
+HBO 2 EU,p3p://fccsen.dyndns.tv:29706/5a7f5df90002ac273d2ec6ad45e61251
+HBO 3 EU,p3p://fccsen.dyndns.tv:29706/5a7f5e14000964a73d2f31dd21593dab
 Luxe TV,p3p://108.181.20.159:71421/6456af9600079b7483d5b18c11483d4c
-DAS DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69a660000e27d7fd7ddc05e8555ae
-ZDF DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69a4900037f0b7fd76d230a816ff2
-ARTE DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69acb0001841f7fd9687220d207dc
-KIKA DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69ae8000da9b37fd9dcd67ca10979
-BR DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69afb000870547fda25b87bc576f2
-HR DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69b28000c57137fdad6803d9c30fb
-Sat. 1 DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f5d3bb30009e00af5043eae65d148d2
-VOX DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f5d3b160008b486f501d9184cd37d8a
-3Sat DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69ab10009c4727fd904ff21773775
-RTL DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69a980001cec57fd8a14d3249082f
-MDR DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69b12000766dc7fda7f4c6c4f5db7
-Sport 1 DE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c69b4a000e211f7fdb5bc5581660db
-Rai Movie,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9bcf180006602b220af0b12c83628c
-Rai Yoyo,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9bcfc80008bfa1220da0cd4c251fbb
-Rai Gulp,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9bd044000133a9220f833f6e33072b
-Rai Sport,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ce55e530004917c59631c416da147ed
-Mediaset Italia,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f7674490007cbab5789312c5e2f2562
-TGCom 24,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f767321000e0fe35784ae85628f3c1d
-Sky Sport F1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=632925030006df29c988b98b40e91993
-Rai Italia,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e17f55f00015729070044dd79832d8f
-Canale 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5e438c00031f6fbbdfbf365aad3723
-Italia 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5e43a000094cd3bbe00eeb3ef504bb
-Rai 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5e436000002632bbdf1293798d6370
-Rai 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5e4370000ab56fbbdf53c726467b6a
-Rai 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5e4710000c985dbbed7d473bf0506f
-Rai 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9bd099000051af2210cf0e2c5b6ab7
-Rai 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9bd0ff000e04a3221260f04c1877ca
-Rai Premium,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fea8ac4000ac1b41d00cea27a0317bd
-Rete 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ce5640c0009c88a5979783666a766b6
-Sky Sport MotoGP,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=632924680004b369c9865b8446e26c14
-Sky Sport Football,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=6329271b000e5130c990e9333b502971
-Sky Sport NBA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=632927fa0008e670c9944ee718793acf
-Sky Sports Golf,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=635b4acd000ce1ed8d6c360018c45953
-TV 5 Monde,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59e2372a00027fafebb4062e1f3d7af5
-TF1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c6a37d00095b957ffb61bf7a9f3466
-M6,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c6cf64000d88e280a6e12e61086600
-France 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c6a4ad0005fd9b800004645bea0b77
-6TER,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c6a6510000fc1c80066bbd638739bb
-W9,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5baaaedb0003d171ce60400221e37b08
-ARTE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c6a69300082ec180076f653582249f
+DAS DE,p3p://fccsen.dyndns.tv:29706/59c69a660000e27d7fd7ddc05e8555ae
+ZDF DE,p3p://fccsen.dyndns.tv:29706/59c69a4900037f0b7fd76d230a816ff2
+ARTE DE,p3p://fccsen.dyndns.tv:29706/59c69acb0001841f7fd9687220d207dc
+KIKA DE,p3p://fccsen.dyndns.tv:29706/59c69ae8000da9b37fd9dcd67ca10979
+BR DE,p3p://fccsen.dyndns.tv:29706/59c69afb000870547fda25b87bc576f2
+HR DE,p3p://fccsen.dyndns.tv:29706/59c69b28000c57137fdad6803d9c30fb
+Sat. 1 DE,p3p://fccsen.dyndns.tv:29706/5f5d3bb30009e00af5043eae65d148d2
+VOX DE,p3p://fccsen.dyndns.tv:29706/5f5d3b160008b486f501d9184cd37d8a
+3Sat DE,p3p://fccsen.dyndns.tv:29706/59c69ab10009c4727fd904ff21773775
+RTL DE,p3p://fccsen.dyndns.tv:29706/59c69a980001cec57fd8a14d3249082f
+MDR DE,p3p://fccsen.dyndns.tv:29706/59c69b12000766dc7fda7f4c6c4f5db7
+Sport 1 DE,p3p://fccsen.dyndns.tv:29706/59c69b4a000e211f7fdb5bc5581660db
+Rai Movie,p3p://fccsen.dyndns.tv:29706/5d9bcf180006602b220af0b12c83628c
+Rai Yoyo,p3p://fccsen.dyndns.tv:29706/5d9bcfc80008bfa1220da0cd4c251fbb
+Rai Gulp,p3p://fccsen.dyndns.tv:29706/5d9bd044000133a9220f833f6e33072b
+Rai Sport,p3p://fccsen.dyndns.tv:29706/5ce55e530004917c59631c416da147ed
+Mediaset Italia,p3p://fccsen.dyndns.tv:29706/5f7674490007cbab5789312c5e2f2562
+TGCom 24,p3p://fccsen.dyndns.tv:29706/5f767321000e0fe35784ae85628f3c1d
+Sky Sport F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
+Rai Italia,p3p://fccsen.dyndns.tv:29706/5e17f55f00015729070044dd79832d8f
+Canale 5,p3p://fccsen.dyndns.tv:29706/5a5e438c00031f6fbbdfbf365aad3723
+Italia 1,p3p://fccsen.dyndns.tv:29706/5a5e43a000094cd3bbe00eeb3ef504bb
+Rai 1,p3p://fccsen.dyndns.tv:29706/5a5e436000002632bbdf1293798d6370
+Rai 2,p3p://fccsen.dyndns.tv:29706/5a5e4370000ab56fbbdf53c726467b6a
+Rai 3,p3p://fccsen.dyndns.tv:29706/5a5e4710000c985dbbed7d473bf0506f
+Rai 4,p3p://fccsen.dyndns.tv:29706/5d9bd099000051af2210cf0e2c5b6ab7
+Rai 5,p3p://fccsen.dyndns.tv:29706/5d9bd0ff000e04a3221260f04c1877ca
+Rai Premium,p3p://fccsen.dyndns.tv:29706/5fea8ac4000ac1b41d00cea27a0317bd
+Rete 4,p3p://fccsen.dyndns.tv:29706/5ce5640c0009c88a5979783666a766b6
+Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
+Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
+Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
+Sky Sports Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
+TV 5 Monde,p3p://fccsen.dyndns.tv:29706/59e2372a00027fafebb4062e1f3d7af5
+TF1,p3p://fccsen.dyndns.tv:29706/59c6a37d00095b957ffb61bf7a9f3466
+M6,p3p://fccsen.dyndns.tv:29706/59c6cf64000d88e280a6e12e61086600
+France 2,p3p://fccsen.dyndns.tv:29706/59c6a4ad0005fd9b800004645bea0b77
+6TER,p3p://fccsen.dyndns.tv:29706/59c6a6510000fc1c80066bbd638739bb
+W9,p3p://fccsen.dyndns.tv:29706/5baaaedb0003d171ce60400221e37b08
+ARTE,p3p://fccsen.dyndns.tv:29706/59c6a69300082ec180076f653582249f
 外三,#genre#
-France 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a517b700002dd6289f2340172f37971
-France 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a517b88000c46ed89f2942a34c436ca
-France 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a517ba20001e22a89f2f7113cc34513
-Cherie 25,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a51856e000dcc308a193f094831387f
-TMC,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a518baa0001c6128a31964d642739ba
-C8,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a52a27e0003f8e88e72b28a244e5f2c
-NRJ 12,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a52a296000e19438e7312e20e9d7640
-Guli,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a52a2aa0005fe658e735eef08f1393e
-Boing,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a52a2c00009fadc8e73b5e40afa02dd
-PLANETE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f8879240008c9349dec21087a720e4d
-TFX,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c460fe70007590ceb18e5c00fcb0ed0
-L Equipe,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ce4954900066af15651cda541f023fc
-BFM,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fc535c50004fd0f8b2cd3b328af18b1
-I24 News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5170e800076ff389c911f013481fb8
-BFM Business,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5de53fad000e283540ea91a440835a22
-FRANCE 24 Direct,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a7f52b400093c5c3d02c2d5213a441e
-France O,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fc6e5f0000a954691c4fd1644980108
-Monde Style,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c4a1634000df0cdfad1843218b64963
-Decouverte,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9f57c30002c3372fd8cbbc058420fa
-Series Films,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d9f5a100008a1b22fe1c9f818b34bdd
-Discovery Fr,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fce79ab0001e94aaf5e02bc0eb50c8a
-AB 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f887b09000087579df3857574a044b3
-E! France,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f887b7800030efa9df537b370b34106
-RTL 9,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fce701a000075cdaf38a3f97238584b
-AB 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fce70ca000a7343af3b56090b394cc8
-Histoire,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fce78f10004c7f4af5b2ce77b140349
-Piwi,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=605698e6000d9374c317f30e4fc57cdf
-Tiji,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ff750f1000e9a904ee6e7287bf25580
-Canal Cinema,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fcea9d3000318a0b01a1f45295d5ea1
-Canal Decale,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fceab6400040750b0203dec67983f01
-Canal Family,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fceac6700010b77b02430e110f94978
-Canal Series,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fcead2b00091e70b02730940da8251e
-Canal Plus,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fcec62f0004559fb088e6f97d44189f
-Cine Premier,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fcec8e30009988fb093777528cd273f
-Cine Classic,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fcec9730008f0ccb095a9ca11556113
-Cine Emotion,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fceca01000c6176b097d55c063c1bd9
-Cine Famiz,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fcecaad000e9cf4b09a75d01eb131e7
-Bloomberg,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e758680001022ae082a6d70c3062b9
-Zee World,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=614be3d6000446728143b55f3f6f422a
-Star Life,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=614be3e8000f04b88143fe7046ef68ea
-Fox HD Indian,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d66f8f4000241de53a6a0d07afd562a
-Color HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c509c39000e0843144d07c966c97f12
-SET HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c50d55a000cc20a152c30537e091b7f
-SET SAB HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c50d53f000e5e5b152bc745689b1314
-TLC IN,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61df83ca000c37c6c1ec28920bd3457d
-Sony Max HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c50f43e000d6d7c15a4db252fb419ec
-Food Network Asia,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61ed8d430002009af8c11e944a8c7167
-MTV Beats,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e9e5e90001efd6ea7b66fe67665743
-Zoom TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e9e758000b65d1ea8102fe734b70f5
-BBC Earth EU,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61ed8f90000b36e6f8ca1daa6314513d
-CNBC Awaaz,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c59a4b20000133a37961cd816a4385b
-Zee Cinema,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c4fa4b20000b67f10861d0914910d85
-UTV Movies,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61d64da5000f30939df0a8cc30b03142
-Star Utsav,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61d50bf30008b9e3990807d249f0124c
-B4U Movie,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c4fa54b00008d5b108872a839db0c17
-B4U Kadak,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61d51d3c00099e27994b8d3870424020
-UTV Action,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61d64e95000cda849df451a8228c6388
-Zee Bollywood,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c61c45100034c415751a2c03c607d84
-Zee Action,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c61ea5a0004971f57e6363b5ae6489e
-NDTV 24x7,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=611efa7500060f18d1d44b5d6a7740aa
-NDTV 24x7,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75e470001502ae09996053f4d7653
-Indian News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75cad000c2018e09357322a3b2682
-ABP News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75c53000db5cae091f81253823372
-India TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e7590e000388aae0852fe334ae4b05
-Zee News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75d9400019975e096dae246970f50
-Zee Business,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75bdb000a4b45e090226c5794049d
-News Nation,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75df9000b02e1e09867c52f7d642e
-Times Now,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75e850004fbdae09a891a7e723102
-ET Now,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c5636d6000f1dd62a30fd51342b4171
-ET Now,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6fe9f200052cd5769401bc71e5367e
-Aaj Tak,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e7565400089dd2e07a8aa05f9703cc
-CNBC TV 18,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6fe3f1000a0c1a767c8f1b021f54a3
-India Today,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75a18000594f8e0893f7d2a735434
-MTV Indian,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e9e8ca000ace1aea86a8230d7c3108
-MTV Live Indian,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e9e3ea000a0d31ea739cfc1edd723a
-Sun News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61f0af0a000def2104fd12f1607d0e7a
-Star Gold,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c61ea7c0008ff7c57e6bc2c4d7c62ae
-Al Jazeera HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e75f22000ebc02e09cf0e15b826f36
-FightBox HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61ea300b000f0d5feb9cff1e4a164352
-AND Xplor HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=621fb030000eff51bc997daa4d945dc5
-A Sports,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61ea3047000e4bbceb9de94d39d6504b
-Sports Extreme,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d7e6dd2000b41daaf4713cf230c71eb
-PTV Sports,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61ea318500087833eba2c1ff334012b1
-Sun TV HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61f0b048000921540501ebe16fd90594
-Zee Tamil HD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61f1cd3d0009f603095b092867dd4462
-Zing,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=61e9e597000cf96eea7a298261ca49fd
+France 3,p3p://fccsen.dyndns.tv:29706/5a517b700002dd6289f2340172f37971
+France 4,p3p://fccsen.dyndns.tv:29706/5a517b88000c46ed89f2942a34c436ca
+France 5,p3p://fccsen.dyndns.tv:29706/5a517ba20001e22a89f2f7113cc34513
+Cherie 25,p3p://fccsen.dyndns.tv:29706/5a51856e000dcc308a193f094831387f
+TMC,p3p://fccsen.dyndns.tv:29706/5a518baa0001c6128a31964d642739ba
+C8,p3p://fccsen.dyndns.tv:29706/5a52a27e0003f8e88e72b28a244e5f2c
+NRJ 12,p3p://fccsen.dyndns.tv:29706/5a52a296000e19438e7312e20e9d7640
+Guli,p3p://fccsen.dyndns.tv:29706/5a52a2aa0005fe658e735eef08f1393e
+Boing,p3p://fccsen.dyndns.tv:29706/5a52a2c00009fadc8e73b5e40afa02dd
+PLANETE,p3p://fccsen.dyndns.tv:29706/5f8879240008c9349dec21087a720e4d
+TFX,p3p://fccsen.dyndns.tv:29706/5c460fe70007590ceb18e5c00fcb0ed0
+L Equipe,p3p://fccsen.dyndns.tv:29706/5ce4954900066af15651cda541f023fc
+BFM,p3p://fccsen.dyndns.tv:29706/5fc535c50004fd0f8b2cd3b328af18b1
+I24 News,p3p://fccsen.dyndns.tv:29706/5a5170e800076ff389c911f013481fb8
+BFM Business,p3p://fccsen.dyndns.tv:29706/5de53fad000e283540ea91a440835a22
+FRANCE 24 Direct,p3p://fccsen.dyndns.tv:29706/5a7f52b400093c5c3d02c2d5213a441e
+France O,p3p://fccsen.dyndns.tv:29706/5fc6e5f0000a954691c4fd1644980108
+Monde Style,p3p://fccsen.dyndns.tv:29706/5c4a1634000df0cdfad1843218b64963
+Decouverte,p3p://fccsen.dyndns.tv:29706/5d9f57c30002c3372fd8cbbc058420fa
+Series Films,p3p://fccsen.dyndns.tv:29706/5d9f5a100008a1b22fe1c9f818b34bdd
+Discovery Fr,p3p://fccsen.dyndns.tv:29706/5fce79ab0001e94aaf5e02bc0eb50c8a
+AB 3,p3p://fccsen.dyndns.tv:29706/5f887b09000087579df3857574a044b3
+E! France,p3p://fccsen.dyndns.tv:29706/5f887b7800030efa9df537b370b34106
+RTL 9,p3p://fccsen.dyndns.tv:29706/5fce701a000075cdaf38a3f97238584b
+AB 1,p3p://fccsen.dyndns.tv:29706/5fce70ca000a7343af3b56090b394cc8
+Histoire,p3p://fccsen.dyndns.tv:29706/5fce78f10004c7f4af5b2ce77b140349
+Piwi,p3p://fccsen.dyndns.tv:29706/605698e6000d9374c317f30e4fc57cdf
+Tiji,p3p://fccsen.dyndns.tv:29706/5ff750f1000e9a904ee6e7287bf25580
+Canal Cinema,p3p://fccsen.dyndns.tv:29706/5fcea9d3000318a0b01a1f45295d5ea1
+Canal Decale,p3p://fccsen.dyndns.tv:29706/5fceab6400040750b0203dec67983f01
+Canal Family,p3p://fccsen.dyndns.tv:29706/5fceac6700010b77b02430e110f94978
+Canal Series,p3p://fccsen.dyndns.tv:29706/5fcead2b00091e70b02730940da8251e
+Canal Plus,p3p://fccsen.dyndns.tv:29706/5fcec62f0004559fb088e6f97d44189f
+Cine Premier,p3p://fccsen.dyndns.tv:29706/5fcec8e30009988fb093777528cd273f
+Cine Classic,p3p://fccsen.dyndns.tv:29706/5fcec9730008f0ccb095a9ca11556113
+Cine Emotion,p3p://fccsen.dyndns.tv:29706/5fceca01000c6176b097d55c063c1bd9
+Cine Famiz,p3p://fccsen.dyndns.tv:29706/5fcecaad000e9cf4b09a75d01eb131e7
+Bloomberg,p3p://fccsen.dyndns.tv:29706/61e758680001022ae082a6d70c3062b9
+Zee World,p3p://fccsen.dyndns.tv:29706/614be3d6000446728143b55f3f6f422a
+Star Life,p3p://fccsen.dyndns.tv:29706/614be3e8000f04b88143fe7046ef68ea
+Fox HD Indian,p3p://fccsen.dyndns.tv:29706/5d66f8f4000241de53a6a0d07afd562a
+Color HD,p3p://fccsen.dyndns.tv:29706/5c509c39000e0843144d07c966c97f12
+SET HD,p3p://fccsen.dyndns.tv:29706/5c50d55a000cc20a152c30537e091b7f
+SET SAB HD,p3p://fccsen.dyndns.tv:29706/5c50d53f000e5e5b152bc745689b1314
+TLC IN,p3p://fccsen.dyndns.tv:29706/61df83ca000c37c6c1ec28920bd3457d
+Sony Max HD,p3p://fccsen.dyndns.tv:29706/5c50f43e000d6d7c15a4db252fb419ec
+Food Network Asia,p3p://fccsen.dyndns.tv:29706/61ed8d430002009af8c11e944a8c7167
+MTV Beats,p3p://fccsen.dyndns.tv:29706/61e9e5e90001efd6ea7b66fe67665743
+Zoom TV,p3p://fccsen.dyndns.tv:29706/61e9e758000b65d1ea8102fe734b70f5
+BBC Earth EU,p3p://fccsen.dyndns.tv:29706/61ed8f90000b36e6f8ca1daa6314513d
+CNBC Awaaz,p3p://fccsen.dyndns.tv:29706/5c59a4b20000133a37961cd816a4385b
+Zee Cinema,p3p://fccsen.dyndns.tv:29706/5c4fa4b20000b67f10861d0914910d85
+UTV Movies,p3p://fccsen.dyndns.tv:29706/61d64da5000f30939df0a8cc30b03142
+Star Utsav,p3p://fccsen.dyndns.tv:29706/61d50bf30008b9e3990807d249f0124c
+B4U Movie,p3p://fccsen.dyndns.tv:29706/5c4fa54b00008d5b108872a839db0c17
+B4U Kadak,p3p://fccsen.dyndns.tv:29706/61d51d3c00099e27994b8d3870424020
+UTV Action,p3p://fccsen.dyndns.tv:29706/61d64e95000cda849df451a8228c6388
+Zee Bollywood,p3p://fccsen.dyndns.tv:29706/5c61c45100034c415751a2c03c607d84
+Zee Action,p3p://fccsen.dyndns.tv:29706/5c61ea5a0004971f57e6363b5ae6489e
+NDTV 24x7,p3p://fccsen.dyndns.tv:29706/611efa7500060f18d1d44b5d6a7740aa
+NDTV 24x7,p3p://fccsen.dyndns.tv:29706/61e75e470001502ae09996053f4d7653
+Indian News,p3p://fccsen.dyndns.tv:29706/61e75cad000c2018e09357322a3b2682
+ABP News,p3p://fccsen.dyndns.tv:29706/61e75c53000db5cae091f81253823372
+India TV,p3p://fccsen.dyndns.tv:29706/61e7590e000388aae0852fe334ae4b05
+Zee News,p3p://fccsen.dyndns.tv:29706/61e75d9400019975e096dae246970f50
+Zee Business,p3p://fccsen.dyndns.tv:29706/61e75bdb000a4b45e090226c5794049d
+News Nation,p3p://fccsen.dyndns.tv:29706/61e75df9000b02e1e09867c52f7d642e
+Times Now,p3p://fccsen.dyndns.tv:29706/61e75e850004fbdae09a891a7e723102
+ET Now,p3p://fccsen.dyndns.tv:29706/5c5636d6000f1dd62a30fd51342b4171
+ET Now,p3p://fccsen.dyndns.tv:29706/5d6fe9f200052cd5769401bc71e5367e
+Aaj Tak,p3p://fccsen.dyndns.tv:29706/61e7565400089dd2e07a8aa05f9703cc
+CNBC TV 18,p3p://fccsen.dyndns.tv:29706/5d6fe3f1000a0c1a767c8f1b021f54a3
+India Today,p3p://fccsen.dyndns.tv:29706/61e75a18000594f8e0893f7d2a735434
+MTV Indian,p3p://fccsen.dyndns.tv:29706/61e9e8ca000ace1aea86a8230d7c3108
+MTV Live Indian,p3p://fccsen.dyndns.tv:29706/61e9e3ea000a0d31ea739cfc1edd723a
+Sun News,p3p://fccsen.dyndns.tv:29706/61f0af0a000def2104fd12f1607d0e7a
+Star Gold,p3p://fccsen.dyndns.tv:29706/5c61ea7c0008ff7c57e6bc2c4d7c62ae
+Al Jazeera HD,p3p://fccsen.dyndns.tv:29706/61e75f22000ebc02e09cf0e15b826f36
+FightBox HD,p3p://fccsen.dyndns.tv:29706/61ea300b000f0d5feb9cff1e4a164352
+AND Xplor HD,p3p://fccsen.dyndns.tv:29706/621fb030000eff51bc997daa4d945dc5
+A Sports,p3p://fccsen.dyndns.tv:29706/61ea3047000e4bbceb9de94d39d6504b
+Sports Extreme,p3p://fccsen.dyndns.tv:29706/5d7e6dd2000b41daaf4713cf230c71eb
+PTV Sports,p3p://fccsen.dyndns.tv:29706/61ea318500087833eba2c1ff334012b1
+Sun TV HD,p3p://fccsen.dyndns.tv:29706/61f0b048000921540501ebe16fd90594
+Zee Tamil HD,p3p://fccsen.dyndns.tv:29706/61f1cd3d0009f603095b092867dd4462
+Zing,p3p://fccsen.dyndns.tv:29706/61e9e597000cf96eea7a298261ca49fd
 ADITHYA,p3p://108.181.20.159:71421/5fe7e570000a9b1990ca503d780e15ae
 Color Tamil,p3p://108.181.20.159:71421/61377dbc00057a97afa4ce8b133f165f       
 外四,#genre#
-MC Toddler Tunes,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e5720d3000b7b15fdc1f23d5149444e
-MC Hit List,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be36a41000da00fabfbcc18413a74d9
-MC 90s,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e572569000e4564fdd3dcd9137e3462
-MC Mexican,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be36b520005c6feabfff47e11681930
-MC Pop Country,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be36b8c0006fb34ac00d75e0c8558d0
-MC Pop Hits,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be36bfe00061afcac0294753d725144
-MC Rap,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be36c420003bba3ac039d7a31b15a3e
-MC Alternative,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be360250008c3fdabd44d763c2d0269
-MC Brits Hits,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be360a0000b7a95abd62ea06ed2581f
-MC HIP HOP,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be360d300066d2eabd6f48d792e2422
-MC Dance,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be369c8000c878babf9f3273be63f92
-MC Rap 2K,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d67257c000e68e6545497333e3050f2
-MC Urban,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be360a0000b7a95abd62ea06ed2581f
-MC Throwback Jamz,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5deea2980001ead06594f46d2281791b
-MC Kids Only,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d672536000b5b2b545384fa392e2164
-MC Rock,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6725190008bb175453130642ab77ab
-MC Today Country,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d672506000301555452c7575f8c47e3
-MC Y2K,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6724c5000735745451ca82618a5db2
-MC Tropicales,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d6724dd00030d8d54522732767556ad
-MC Pop Latino,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e5725fb00098534fdd615f37a00477f
-MC Teen Beats,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e5726130008757efdd6736d792f4865
-MC R and B Soul,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e572591000c57eafdd4789b077020e2
-Afro Music Pop,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ebca53300001a428a4ed37b0c9e6c79
-Mzansi Magic Music,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=63fd2cb3000a7d9105c63d6b79fb1883
-HBO 1 US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80a39f0007f7154226c7df693733ac
-HBO 2 US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80a6c0000554e44233001e438b75ab
-HBO Signature,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80bfb700059ffd42948508086841ca
-HBO Family,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80c1190001c0ab4299eadc7b933bf2
-HBO Comedy,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d44e194000bc15bce7b7c530ca97fd1
-ShowTime 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a808f940000089041d87ae6044e644c
-ShowTime 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a8091760001d8cf41dfd62037bd2bb3
-ShowCase US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80acc9000e4eff424a958a1d706ebe
-Showtime Extreme,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bdb7ae400054a528cfcd6af5e8c72f1
-Starz,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80a2230005918a4220fae0314d0fd3
-Starz Comedy,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80addb00090dff424ec2837a9571d3
-Starz Edge,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80b0fd0007d330425aff061ef457c9
-Starz Kids Family,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80a9f500054e06423f872865f708d3
-Starz Encore,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80be900002d257429003f717da70b9
-Starz Encore Westerns,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a8c37980006a8f56f60bb6e2f790247
-Starz in Black,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d699397000549715dd2ae4d6c5e36fb
-Cinemax US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80a7f800099fe84237c3f9277e4330
-5 Star Max,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80aad7000413f34242f999463d33f0
-Action Max,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a80afd1000b552142566c0a0df85cce
-More Max,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d535d6c00090956070f2eaa3acc5664
-Hallmark Movie,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e8a08370005aba0c499b7b2016638aa
-Hallmark Drama,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e8a0a07000641afc4a0cc5b0005022f
-Movie Network 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a823c86000538f848640d8675a36fe2
-Movie Network 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a823d1c00092e804866587b5eb5351a
-Movie Network 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a824324000647f7487de6f46fe732cf
-Movie Network 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be7a686000e833fbc8739de5a5c5300
+MC Toddler Tunes,p3p://fccsen.dyndns.tv:29706/5e5720d3000b7b15fdc1f23d5149444e
+MC Hit List,p3p://fccsen.dyndns.tv:29706/5be36a41000da00fabfbcc18413a74d9
+MC 90s,p3p://fccsen.dyndns.tv:29706/5e572569000e4564fdd3dcd9137e3462
+MC Mexican,p3p://fccsen.dyndns.tv:29706/5be36b520005c6feabfff47e11681930
+MC Pop Country,p3p://fccsen.dyndns.tv:29706/5be36b8c0006fb34ac00d75e0c8558d0
+MC Pop Hits,p3p://fccsen.dyndns.tv:29706/5be36bfe00061afcac0294753d725144
+MC Rap,p3p://fccsen.dyndns.tv:29706/5be36c420003bba3ac039d7a31b15a3e
+MC Alternative,p3p://fccsen.dyndns.tv:29706/5be360250008c3fdabd44d763c2d0269
+MC Brits Hits,p3p://fccsen.dyndns.tv:29706/5be360a0000b7a95abd62ea06ed2581f
+MC HIP HOP,p3p://fccsen.dyndns.tv:29706/5be360d300066d2eabd6f48d792e2422
+MC Dance,p3p://fccsen.dyndns.tv:29706/5be369c8000c878babf9f3273be63f92
+MC Rap 2K,p3p://fccsen.dyndns.tv:29706/5d67257c000e68e6545497333e3050f2
+MC Urban,p3p://fccsen.dyndns.tv:29706/5be360a0000b7a95abd62ea06ed2581f
+MC Throwback Jamz,p3p://fccsen.dyndns.tv:29706/5deea2980001ead06594f46d2281791b
+MC Kids Only,p3p://fccsen.dyndns.tv:29706/5d672536000b5b2b545384fa392e2164
+MC Rock,p3p://fccsen.dyndns.tv:29706/5d6725190008bb175453130642ab77ab
+MC Today Country,p3p://fccsen.dyndns.tv:29706/5d672506000301555452c7575f8c47e3
+MC Y2K,p3p://fccsen.dyndns.tv:29706/5d6724c5000735745451ca82618a5db2
+MC Tropicales,p3p://fccsen.dyndns.tv:29706/5d6724dd00030d8d54522732767556ad
+MC Pop Latino,p3p://fccsen.dyndns.tv:29706/5e5725fb00098534fdd615f37a00477f
+MC Teen Beats,p3p://fccsen.dyndns.tv:29706/5e5726130008757efdd6736d792f4865
+MC R and B Soul,p3p://fccsen.dyndns.tv:29706/5e572591000c57eafdd4789b077020e2
+Afro Music Pop,p3p://fccsen.dyndns.tv:29706/5ebca53300001a428a4ed37b0c9e6c79
+Mzansi Magic Music,p3p://fccsen.dyndns.tv:29706/63fd2cb3000a7d9105c63d6b79fb1883
+HBO 1 US,p3p://fccsen.dyndns.tv:29706/5a80a39f0007f7154226c7df693733ac
+HBO 2 US,p3p://fccsen.dyndns.tv:29706/5a80a6c0000554e44233001e438b75ab
+HBO Signature,p3p://fccsen.dyndns.tv:29706/5a80bfb700059ffd42948508086841ca
+HBO Family,p3p://fccsen.dyndns.tv:29706/5a80c1190001c0ab4299eadc7b933bf2
+HBO Comedy,p3p://fccsen.dyndns.tv:29706/5d44e194000bc15bce7b7c530ca97fd1
+ShowTime 1,p3p://fccsen.dyndns.tv:29706/5a808f940000089041d87ae6044e644c
+ShowTime 2,p3p://fccsen.dyndns.tv:29706/5a8091760001d8cf41dfd62037bd2bb3
+ShowCase US,p3p://fccsen.dyndns.tv:29706/5a80acc9000e4eff424a958a1d706ebe
+Showtime Extreme,p3p://fccsen.dyndns.tv:29706/5bdb7ae400054a528cfcd6af5e8c72f1
+Starz,p3p://fccsen.dyndns.tv:29706/5a80a2230005918a4220fae0314d0fd3
+Starz Comedy,p3p://fccsen.dyndns.tv:29706/5a80addb00090dff424ec2837a9571d3
+Starz Edge,p3p://fccsen.dyndns.tv:29706/5a80b0fd0007d330425aff061ef457c9
+Starz Kids Family,p3p://fccsen.dyndns.tv:29706/5a80a9f500054e06423f872865f708d3
+Starz Encore,p3p://fccsen.dyndns.tv:29706/5a80be900002d257429003f717da70b9
+Starz Encore Westerns,p3p://fccsen.dyndns.tv:29706/5a8c37980006a8f56f60bb6e2f790247
+Starz in Black,p3p://fccsen.dyndns.tv:29706/5d699397000549715dd2ae4d6c5e36fb
+Cinemax US,p3p://fccsen.dyndns.tv:29706/5a80a7f800099fe84237c3f9277e4330
+5 Star Max,p3p://fccsen.dyndns.tv:29706/5a80aad7000413f34242f999463d33f0
+Action Max,p3p://fccsen.dyndns.tv:29706/5a80afd1000b552142566c0a0df85cce
+More Max,p3p://fccsen.dyndns.tv:29706/5d535d6c00090956070f2eaa3acc5664
+Hallmark Movie,p3p://fccsen.dyndns.tv:29706/5e8a08370005aba0c499b7b2016638aa
+Hallmark Drama,p3p://fccsen.dyndns.tv:29706/5e8a0a07000641afc4a0cc5b0005022f
+Movie Network 1,p3p://fccsen.dyndns.tv:29706/5a823c86000538f848640d8675a36fe2
+Movie Network 2,p3p://fccsen.dyndns.tv:29706/5a823d1c00092e804866587b5eb5351a
+Movie Network 3,p3p://fccsen.dyndns.tv:29706/5a824324000647f7487de6f46fe732cf
+Movie Network 4,p3p://fccsen.dyndns.tv:29706/5be7a686000e833fbc8739de5a5c5300
 外五,#genre#
-HBO 1 CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a7f5b5f000c02e63d249f7d2b8c5ec8
-HBO 2 CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59ffcb9e000d31164adbf09e33000a19
-Crave 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a823c86000538f848640d8675a36fe2
-Crave 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a823d1c00092e804866587b5eb5351a
-Crave 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a824324000647f7487de6f46fe732cf
-Crave 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5be7a686000e833fbc8739de5a5c5300
-TCM,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fc871b60003291997cef8a3782a2050
-AMC,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=607f69cc000cd9d86287e0cc33602205
-FX CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=607f5d59000d72fb62573fbc254b1184
-FXX CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=607f5dfa000355746259b20e3ee208ae
-Disney,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=615bd05000046055bf775f3c6ca735d1
-YTV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=58a79b59000661ef4b875954421a1f92
-Family,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a90a8c80008e0a380badf7d32454d6b
-TreeHouse,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ba6e01600024161bf80a31a40da41b5
-Teletoon,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=58a79b40000f11fc4b86f9e61b6f5abb
-ABC Spark,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bfc4a16000e9ada0d25e9183f3a1b63
-Cartoon Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=615bcd6f000d0a9cbf6c228a724f214f
-Disney XD,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=615bd096000d518bbf7872fa7de40c90
-OLN,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a0112b8000bfb3b4fd9adde728a2528
-History CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=60b80f4f0009915d3fcd7c2b0cec645e
-History 2 CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e8785820007bb05bacb253036df3178
-Nat Geo Wild,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5e43703100062898b0d7f81255483ded
-Nat Geographic,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5dbc8a9400037b3ca1e73964363566a5
-Discovery,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bdce61a00068daa9287a1f60e68584f
-TLC CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=58ab8bce0002005c5aea91d24ea15bfb
-Love Nature,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f5550330007d5fcd614522b5d6972f3
-Smithsonian,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59e2ab3400085940ed794ecb7d945036
-LifeTime,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc1344000b4faf56b816163ede44e8
-ID Canada,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a01ced1000e0a7c52b8701303594b92
-Oprah Winfrey Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a01d1fe00087f0f52c4d67341664e1f
-HGTV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a66963e00030b02dc62b310138b2abe
-Food Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bb0f0ec000842c3e6d2539210061045
-Cooking Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bc933e40000e06f4597aa2c550151d8
-T+E,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a3026ab000021ea07bf40f035876200
-Arts and Entertainment,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a0b9bd1000f33a5790126cd78bf1239
-Bravo,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a0fd62200032b608984f02a05fc0840
-E!,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=607f615b0006fea46266e5ea25f418ca
-CTV Comedy,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d97de23000dfa8212a5bf441ba250bb
-CTV Sci-Fi (Space),http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a824f4b000d7cc148ad61231d697205
-Dtour,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a01e2a4000a021d5305df3b13627dc3
-Cottage Life,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a01e36e000f14615308f59841955835
-DIY,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=615bcff2000bb9c8bf75f1e90fad329a
-Crime Investigation,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5eab9d25000950d447c768f86d8507f7
-Much,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a83817900067ff64d59630f2a13081a
-MTV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=615bdeb3000754d8bfaf92bb35ea5472
-BBC Earth,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=58ab8c030006e5da5aeb621b23617da7
-ShowCase CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a824ba300070904489f1748478d74dd
-TCM,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fc871b60003291997cef8a3782a2050
-IFC,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c3251fb00007e8f9dfb02205f5f0c2a
+HBO 1 CA,p3p://fccsen.dyndns.tv:29706/5a7f5b5f000c02e63d249f7d2b8c5ec8
+HBO 2 CA,p3p://fccsen.dyndns.tv:29706/59ffcb9e000d31164adbf09e33000a19
+Crave 1,p3p://fccsen.dyndns.tv:29706/5a823c86000538f848640d8675a36fe2
+Crave 2,p3p://fccsen.dyndns.tv:29706/5a823d1c00092e804866587b5eb5351a
+Crave 3,p3p://fccsen.dyndns.tv:29706/5a824324000647f7487de6f46fe732cf
+Crave 4,p3p://fccsen.dyndns.tv:29706/5be7a686000e833fbc8739de5a5c5300
+TCM,p3p://fccsen.dyndns.tv:29706/5fc871b60003291997cef8a3782a2050
+AMC,p3p://fccsen.dyndns.tv:29706/607f69cc000cd9d86287e0cc33602205
+FX CA,p3p://fccsen.dyndns.tv:29706/607f5d59000d72fb62573fbc254b1184
+FXX CA,p3p://fccsen.dyndns.tv:29706/607f5dfa000355746259b20e3ee208ae
+Disney,p3p://fccsen.dyndns.tv:29706/615bd05000046055bf775f3c6ca735d1
+YTV,p3p://fccsen.dyndns.tv:29706/58a79b59000661ef4b875954421a1f92
+Family,p3p://fccsen.dyndns.tv:29706/5a90a8c80008e0a380badf7d32454d6b
+TreeHouse,p3p://fccsen.dyndns.tv:29706/5ba6e01600024161bf80a31a40da41b5
+Teletoon,p3p://fccsen.dyndns.tv:29706/58a79b40000f11fc4b86f9e61b6f5abb
+ABC Spark,p3p://fccsen.dyndns.tv:29706/5bfc4a16000e9ada0d25e9183f3a1b63
+Cartoon Network,p3p://fccsen.dyndns.tv:29706/615bcd6f000d0a9cbf6c228a724f214f
+Disney XD,p3p://fccsen.dyndns.tv:29706/615bd096000d518bbf7872fa7de40c90
+OLN,p3p://fccsen.dyndns.tv:29706/5a0112b8000bfb3b4fd9adde728a2528
+History CA,p3p://fccsen.dyndns.tv:29706/60b80f4f0009915d3fcd7c2b0cec645e
+History 2 CA,p3p://fccsen.dyndns.tv:29706/5e8785820007bb05bacb253036df3178
+Nat Geo Wild,p3p://fccsen.dyndns.tv:29706/5e43703100062898b0d7f81255483ded
+Nat Geographic,p3p://fccsen.dyndns.tv:29706/5dbc8a9400037b3ca1e73964363566a5
+Discovery,p3p://fccsen.dyndns.tv:29706/5bdce61a00068daa9287a1f60e68584f
+TLC CA,p3p://fccsen.dyndns.tv:29706/58ab8bce0002005c5aea91d24ea15bfb
+Love Nature,p3p://fccsen.dyndns.tv:29706/5f5550330007d5fcd614522b5d6972f3
+Smithsonian,p3p://fccsen.dyndns.tv:29706/59e2ab3400085940ed794ecb7d945036
+LifeTime,p3p://fccsen.dyndns.tv:29706/59bc1344000b4faf56b816163ede44e8
+ID Canada,p3p://fccsen.dyndns.tv:29706/5a01ced1000e0a7c52b8701303594b92
+Oprah Winfrey Network,p3p://fccsen.dyndns.tv:29706/5a01d1fe00087f0f52c4d67341664e1f
+HGTV,p3p://fccsen.dyndns.tv:29706/5a66963e00030b02dc62b310138b2abe
+Food Network,p3p://fccsen.dyndns.tv:29706/5bb0f0ec000842c3e6d2539210061045
+Cooking Channel,p3p://fccsen.dyndns.tv:29706/5bc933e40000e06f4597aa2c550151d8
+T+E,p3p://fccsen.dyndns.tv:29706/5a3026ab000021ea07bf40f035876200
+Arts and Entertainment,p3p://fccsen.dyndns.tv:29706/5a0b9bd1000f33a5790126cd78bf1239
+Bravo,p3p://fccsen.dyndns.tv:29706/5a0fd62200032b608984f02a05fc0840
+E!,p3p://fccsen.dyndns.tv:29706/607f615b0006fea46266e5ea25f418ca
+CTV Comedy,p3p://fccsen.dyndns.tv:29706/5d97de23000dfa8212a5bf441ba250bb
+CTV Sci-Fi (Space),p3p://fccsen.dyndns.tv:29706/5a824f4b000d7cc148ad61231d697205
+Dtour,p3p://fccsen.dyndns.tv:29706/5a01e2a4000a021d5305df3b13627dc3
+Cottage Life,p3p://fccsen.dyndns.tv:29706/5a01e36e000f14615308f59841955835
+DIY,p3p://fccsen.dyndns.tv:29706/615bcff2000bb9c8bf75f1e90fad329a
+Crime Investigation,p3p://fccsen.dyndns.tv:29706/5eab9d25000950d447c768f86d8507f7
+Much,p3p://fccsen.dyndns.tv:29706/5a83817900067ff64d59630f2a13081a
+MTV,p3p://fccsen.dyndns.tv:29706/615bdeb3000754d8bfaf92bb35ea5472
+BBC Earth,p3p://fccsen.dyndns.tv:29706/58ab8c030006e5da5aeb621b23617da7
+ShowCase CA,p3p://fccsen.dyndns.tv:29706/5a824ba300070904489f1748478d74dd
+TCM,p3p://fccsen.dyndns.tv:29706/5fc871b60003291997cef8a3782a2050
+IFC,p3p://fccsen.dyndns.tv:29706/5c3251fb00007e8f9dfb02205f5f0c2a
 Ginx eSports,p3p://108.181.20.159:71352/6452b6c900062fb47451fa3e235a3be3
-ABC East,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a22e3260003c777d3efa4a17ef52ed5
-NBC East,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a22e3a400031634d3f190a415e937b5
-FOX East,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a22e39200053125d3f14ade62795cb2
-CBS East,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a22e33a000dc3dbd3eff55062f41541
-ABC West,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f583e72000aa869e186f9000c746f19
-NBC West,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc11870006371156b14a7e4f582d4a
-FOX West,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc11980000166e56b18b555ee76179
-CBS West,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc11600005bced56b0b2076cdc03ae
-CW,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc123300005aaf56b3e8df3b070c65
-PBS,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc11a700021a2956b1c67179f0240c
-TNT US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59f68ffc0009666026cb12e01e7c444f
-A&E,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c5e4b01000f170749bfc5460676788f
-AMC,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a00f28d000c252b4f5c05f9598b19d0
-WGN,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc1fb60000069a56e8b0820f5b23a7
-E!,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d387ef3000308729e1a3e0e26241792
-Sundance TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d4cb2f9000820b0ed0564042b4c6eb6
-SYFY,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a0b98690005c2b878f3d62e580e119c
-FX US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc12dd0003597a56b681b402c25bb8
-FXX US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc19d70002e0eb56d1c21e32526605
-Bravo US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a88d0ae000df2096216cbfc17dc4630
-LifeTime US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b15d5510000a43b88efcbdc14995ff9
-Comedy Central,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bc7e700009adac585ab98e50c44181
-WE TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1494c00005157b9c0d78006afa26fc
-Paramount Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a47c3d4000c210263fd0c6d196b47ad
-USA Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f36e55f000051e05f432b9823245870
-Travel Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a20ac3a000aeb29cb491ca07e63492d
-Tru TV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a3c724e0009e51e37c6a846152756c9
-BET,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a88f8ff0009cd9962b447551fe4191d
-TV Land,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bd6416300025ca478944ec057621712
-Weather Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5fe7f6b800096eff12ee7f752cfe3c6d
-Hallmark Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bd5f0d7000465ab7759ac632ce15607
+ABC East,p3p://fccsen.dyndns.tv:29706/5a22e3260003c777d3efa4a17ef52ed5
+NBC East,p3p://fccsen.dyndns.tv:29706/5a22e3a400031634d3f190a415e937b5
+FOX East,p3p://fccsen.dyndns.tv:29706/5a22e39200053125d3f14ade62795cb2
+CBS East,p3p://fccsen.dyndns.tv:29706/5a22e33a000dc3dbd3eff55062f41541
+ABC West,p3p://fccsen.dyndns.tv:29706/5f583e72000aa869e186f9000c746f19
+NBC West,p3p://fccsen.dyndns.tv:29706/59bc11870006371156b14a7e4f582d4a
+FOX West,p3p://fccsen.dyndns.tv:29706/59bc11980000166e56b18b555ee76179
+CBS West,p3p://fccsen.dyndns.tv:29706/59bc11600005bced56b0b2076cdc03ae
+CW,p3p://fccsen.dyndns.tv:29706/59bc123300005aaf56b3e8df3b070c65
+PBS,p3p://fccsen.dyndns.tv:29706/59bc11a700021a2956b1c67179f0240c
+TNT US,p3p://fccsen.dyndns.tv:29706/59f68ffc0009666026cb12e01e7c444f
+A&E,p3p://fccsen.dyndns.tv:29706/5c5e4b01000f170749bfc5460676788f
+AMC,p3p://fccsen.dyndns.tv:29706/5a00f28d000c252b4f5c05f9598b19d0
+WGN,p3p://fccsen.dyndns.tv:29706/59bc1fb60000069a56e8b0820f5b23a7
+E!,p3p://fccsen.dyndns.tv:29706/5d387ef3000308729e1a3e0e26241792
+Sundance TV,p3p://fccsen.dyndns.tv:29706/5d4cb2f9000820b0ed0564042b4c6eb6
+SYFY,p3p://fccsen.dyndns.tv:29706/5a0b98690005c2b878f3d62e580e119c
+FX US,p3p://fccsen.dyndns.tv:29706/59bc12dd0003597a56b681b402c25bb8
+FXX US,p3p://fccsen.dyndns.tv:29706/59bc19d70002e0eb56d1c21e32526605
+Bravo US,p3p://fccsen.dyndns.tv:29706/5a88d0ae000df2096216cbfc17dc4630
+LifeTime US,p3p://fccsen.dyndns.tv:29706/5b15d5510000a43b88efcbdc14995ff9
+Comedy Central,p3p://fccsen.dyndns.tv:29706/59bc7e700009adac585ab98e50c44181
+WE TV,p3p://fccsen.dyndns.tv:29706/5a1494c00005157b9c0d78006afa26fc
+Paramount Network,p3p://fccsen.dyndns.tv:29706/5a47c3d4000c210263fd0c6d196b47ad
+USA Network,p3p://fccsen.dyndns.tv:29706/5f36e55f000051e05f432b9823245870
+Travel Channel,p3p://fccsen.dyndns.tv:29706/5a20ac3a000aeb29cb491ca07e63492d
+Tru TV,p3p://fccsen.dyndns.tv:29706/5a3c724e0009e51e37c6a846152756c9
+BET,p3p://fccsen.dyndns.tv:29706/5a88f8ff0009cd9962b447551fe4191d
+TV Land,p3p://fccsen.dyndns.tv:29706/5bd6416300025ca478944ec057621712
+Weather Channel,p3p://fccsen.dyndns.tv:29706/5fe7f6b800096eff12ee7f752cfe3c6d
+Hallmark Channel,p3p://fccsen.dyndns.tv:29706/5bd5f0d7000465ab7759ac632ce15607
 北美,#genre#
-MTV live,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59adf63f00089a1e1f96cf6523872643
-CNN International,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a20bffb0002906acb96445d76975880
-Beinsport FR1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5ef28d5e000ea60a544bbad142d06817
-Beinsport FR2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a98ef450005f615a10e26f24e4370bc
-Beinsport FR3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a98ef60000d6566a10e9251042026f2
-UFC pass,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c4a5ad2000ba3f2fbdd8ccf71297ceb
-WWE,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b987ab5000ef7018744e50174a621bd
-Bein Sports USA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c4a5e2a000ddac2fbea9d2420355926
-Bein Sport CA,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bd63729000b758e786c5e885c6634e3
-Euro News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a5170cc000e8c1389c8a661433d15f1
-Fight Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5b9878b100084486873d03b816881da0
-ESPN 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59d24815000bb22cad7630914a1924b3
-ESPN 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf1fd000b428d563618b379a53086
-ESPN U,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a88cf44000028fc621142635fc84be5
-ESPN News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5c5ccceb00083b8d43eb3d9232165684
-NBA TV US,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b702000419e9d1bd300979f803ab
-NBA Canada,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b6b600003de3d1bc062c6ca215ee
-Fox Sport 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf21600071468563679492664613f
-Fox Sport 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59e2b81e00049c3eedabbfe568a9573b
-Tennis,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=60b962030008c44344f88b155b45442f
-NFL Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf3f3000ef74f563dc29848a479f9
-NHL Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a4ae10a0001df28702715530b3e23dc
-CBS Sports,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a00e21b00058e784f1bc6f62dc403e6
-NBC Golf,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a6fa9f5000250ecffd7a5d26d0b1c97
-MLB Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf25c0002fe03563789ad321d31ef
-TSN 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b4440002e468d1b279875cc53184
-TSN 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b49f0004b838d1b3dd774be667a4
-TSN 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b529000804ebd1b5f9606eef3d87
-TSN 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b59600028129d1b7a1bf71b50a26
-TSN 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5d45b5f9000516c8d1b92521608c3d5d
-SportNet Onario,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a91a001000da01d8480975a091c2e97
-SportNet One,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a963c9e0005850496844a812ee772e1
-SportNet World,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bd63c310006787478800487439a602d
-SportNet 360,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a919d78000cca498476aff825dd1e95
-SportsNet Pacific,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a010fe5000bffa64fcea5b471a63932
-Sky Sport 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf34800086cb2563b24f202e31678
-Sky Sport 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf35f000c9fdb563b7fde3a4d1307
-Sky Sport 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf373000890ed563bccf43f3c5b45
-Sky Sport 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf38b00055cc7563c29e26168677c
-Sky Sport 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf3a100017e4d563c7ed4483777f8
-Sky Sport F1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59bbf3bc000ad51e563ceab13ecd1b97
-Sky Sp Football,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52b34000c1b45469ab71b318b6093
-Sky Sp Mix,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da52b4b0009e11d469b106164071071
-Sky Sp News,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da88b06000cd6cd53c9039a2e9d468e
-BT Sport 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59d2486d0006b186ad7787092c1d60d5
-BT Sport 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c67e480005fd5b7f6a09dd58e05390
-BT Sport 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=59c67ea30007574b7f6b6dad749b5b27
-Box Nation,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5da88b680004bc7853ca80576e5749ab
-Boxing PPV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bb2c40b00069f12edf2eebd5ee90f8e
-Sportsman,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bdb7bf8000ab3088d010e335cea74bd
-Outdoor Channel,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f09429b000cd96facff9af478c91021
-BTN,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5aaf028100050fa9f74917ca7a3253ae
-SEC Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bc2b56600073def2c39a4ba2dc5036b
-LongHorn Network,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5bc2b10500008a6d2c2888161d4270ba
-Euro Sport 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a21d4d80004d603cfcfc43c12066d47
-Euro Sport 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a21d4ed00032238cfd015d5794173ae
-MUTV,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5f7b32e5000e762d6a11bc6c06985c05
-Bein Sport 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f68cc00061b05c659b5aa2f9847d2
-Bein Sport 2,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f68e5000d96d2c65a193c00820b97
-Bein Sport 3,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f68fb000eb809c65a6f77129c27b7
-Bein Sport 4,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f69110000604ec65ac1bb33b85661
-Bein Sport 5,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f692c0002560ec65b2bb32e51613a
-Bein Sport 6,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f6942000115e4c65b81511ddf34a7
-Bein Sport 7,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f6957000a184ac65bd5a807cf26bc
-Bein Sport Prem 1,http://A/ku9/js/k9oh920.js?ip=fccsen.dyndns.tv&id=5a1f696e0005f6a2c65c2e7110023294
+MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
+CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
+Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
+Beinsport FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
+Beinsport FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
+UFC pass,p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
+WWE,p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
+Bein Sports USA,p3p://fccsen.dyndns.tv:29706/5c4a5e2a000ddac2fbea9d2420355926
+Bein Sport CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
+Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
+Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
+ESPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
+ESPN 2,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
+ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
+ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
+NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
+NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
+Fox Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
+Fox Sport 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
+Tennis,p3p://fccsen.dyndns.tv:29706/60b962030008c44344f88b155b45442f
+NFL Network,p3p://fccsen.dyndns.tv:29706/59bbf3f3000ef74f563dc29848a479f9
+NHL Network,p3p://fccsen.dyndns.tv:29706/5a4ae10a0001df28702715530b3e23dc
+CBS Sports,p3p://fccsen.dyndns.tv:29706/5a00e21b00058e784f1bc6f62dc403e6
+NBC Golf,p3p://fccsen.dyndns.tv:29706/5a6fa9f5000250ecffd7a5d26d0b1c97
+MLB Network,p3p://fccsen.dyndns.tv:29706/59bbf25c0002fe03563789ad321d31ef
+TSN 1,p3p://fccsen.dyndns.tv:29706/5d45b4440002e468d1b279875cc53184
+TSN 2,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
+TSN 3,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
+TSN 4,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
+TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
+SportNet Onario,p3p://fccsen.dyndns.tv:29706/5a91a001000da01d8480975a091c2e97
+SportNet One,p3p://fccsen.dyndns.tv:29706/5a963c9e0005850496844a812ee772e1
+SportNet World,p3p://fccsen.dyndns.tv:29706/5bd63c310006787478800487439a602d
+SportNet 360,p3p://fccsen.dyndns.tv:29706/5a919d78000cca498476aff825dd1e95
+SportsNet Pacific,p3p://fccsen.dyndns.tv:29706/5a010fe5000bffa64fcea5b471a63932
+Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
+Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
+Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
+Sky Sport 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
+Sky Sport 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
+Sky Sport F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
+Sky Sp Football,p3p://fccsen.dyndns.tv:29706/5da52b34000c1b45469ab71b318b6093
+Sky Sp Mix,p3p://fccsen.dyndns.tv:29706/5da52b4b0009e11d469b106164071071
+Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
+BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
+BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
+BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
+Box Nation,p3p://fccsen.dyndns.tv:29706/5da88b680004bc7853ca80576e5749ab
+Boxing PPV,p3p://fccsen.dyndns.tv:29706/5bb2c40b00069f12edf2eebd5ee90f8e
+Sportsman,p3p://fccsen.dyndns.tv:29706/5bdb7bf8000ab3088d010e335cea74bd
+Outdoor Channel,p3p://fccsen.dyndns.tv:29706/5f09429b000cd96facff9af478c91021
+BTN,p3p://fccsen.dyndns.tv:29706/5aaf028100050fa9f74917ca7a3253ae
+SEC Network,p3p://fccsen.dyndns.tv:29706/5bc2b56600073def2c39a4ba2dc5036b
+LongHorn Network,p3p://fccsen.dyndns.tv:29706/5bc2b10500008a6d2c2888161d4270ba
+Euro Sport 1,p3p://fccsen.dyndns.tv:29706/5a21d4d80004d603cfcfc43c12066d47
+Euro Sport 2,p3p://fccsen.dyndns.tv:29706/5a21d4ed00032238cfd015d5794173ae
+MUTV,p3p://fccsen.dyndns.tv:29706/5f7b32e5000e762d6a11bc6c06985c05
+Bein Sport 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
+Bein Sport 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
+Bein Sport 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
+Bein Sport 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
+Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
+Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
+Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
+Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 
 💫央卫,#genre#
@@ -1623,654 +1861,653 @@ RockE电影,p3p://173.208.176.178:31809/65ad27c7000dfceebd94ddb20bec19f4
 
 
 台湾,#genre#
-BBC Lifestyle,P2p://starvod.xyz:19806/6be00168ff204724a2e90ac0e5776d4f
-民视,P2p://starvod.xyz:19806/75d98c40a9f64743bdbf2ab59b8754d6
-台视,P2p://starvod.xyz:19806/d3ed62b7bad14191959cdac7a7089649
-Lifetime,P2p://starvod.xyz:19806/bf267c69754941cab169e38f370a996b
-大爱,P2p://starvod.xyz:19806/94bf79f72be3495baaf049580bc9eb0d
-KLT-靖天国际台,P2p://starvod.xyz:19806/e71f70338fc54d06beed350f6784ed81
-中视,P2p://starvod.xyz:19806/4cbf22fb54b84449bf67ff1208df14bf
-霹雳台湾台,P2p://starvod.xyz:19806/a0b26422b0684852a0a247b793caca27
-HGTV居家乐活频道,P2p://starvod.xyz:19806/67404d29000bfcbf23713b472f3642f5
-华视,P2p://starvod.xyz:19806/8828b16102ca45a886a038341a2e72eb
-Love Nature,P2p://starvod.xyz:19806/8d5f8fce07b346648e7f5083f10b5cf0
-公视,P2p://starvod.xyz:19806/bc57b395adf842b68ec650d13db17f8a
-美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
-亚洲美食频道,P2p://starvod.xyz:19806/8e79d973d3cc46c0984d7710bd7f8677
-好消息,P2p://starvod.xyz:19806/054e6b13c4b241a981e4efb7db29f2f4
-亚洲旅游台,P2p://starvod.xyz:19806/8947b18c8a3e43249a05817840e71049
-EYE TV旅游台,P2p://starvod.xyz:19806/fdc32e24ae824449aca65043435a72e5
-原住民电视台,P2p://starvod.xyz:19806/eb258578466c4c528e98dbdd4b8584c4
-好消息2台,P2p://starvod.xyz:19806/1ebea47ed71a415891c001c7d7f6f7a4
-三立综合台,P2p://starvod.xyz:19806/8b9e344befe449c5b5f4ebac6e68c04e
-靖天资讯台,P2p://starvod.xyz:19806/233b2871163140d3a88fee963efec7f7
-靖天综合台,P2p://starvod.xyz:19806/26100f2409c2436f899caee0a679b586
-靖天育乐台,P2p://starvod.xyz:19806/8e409f4614da4d1f832b4da9b0949251
-中视经典台,P2p://starvod.xyz:19806/33fb1a37e93d4e809f9e6ce6a40edc0b
-中视菁采台,P2p://starvod.xyz:19806/4a223997a6984c2183cbad68f56d4d03
-客家电视台,P2p://starvod.xyz:19806/dd47f6fb7129465caf6aceaabaadbb26
-TVBS精采台,P2p://starvod.xyz:19806/ded68df291bb403a9b077d0c6e27d965
-壹电视综合,P2p://starvod.xyz:19806/5766a2a191dd4b00bfeb3c30eacdd696
-纬来精采,P2p://starvod.xyz:19806/19a13942497b4a099f64eb8701a4abf3
-ETtoday综合台,P2p://starvod.xyz:19806/255f176eaad242b0a79a18d291b095ea
-台视综合台,P2p://starvod.xyz:19806/c307dd8b46cb4f46ad6251c27d66b6d9
-民视第一台,P2p://starvod.xyz:19806/cf4047da7541487fa312869564020ac7
-民视台湾台,P2p://starvod.xyz:19806/071c8c26a9a446768138a1b77825f6d8
-Nice TV靖天欢乐台,P2p://starvod.xyz:19806/8b6de069a0284829ac89c8faece75f2d
-探索频道,P2p://starvod.xyz:19806/0114387eb4ff442eb7bf650fb87e5ac7
-八大优频道,P2p://starvod.xyz:19806/7ea3a57791814022bc9e9b6fb140a8d8
-三立戏剧台,P2p://starvod.xyz:19806/f16f8870bf0a439f9c67baee200b2066
-龙华戏剧,P2p://starvod.xyz:19806/5498586f87cf4e28a2e02f3349536bf9
-靖天戏剧台,P2p://starvod.xyz:19806/d545395a5309407a9c9e06aefc7273d1
-靖洋戏剧台,P2p://starvod.xyz:19806/f6e466bc96234d1e9633c10ff0f8bc42
-靖天日本台,P2p://starvod.xyz:19806/7de37e8150904d51af697578eda84920
-i-Fun动漫台,P2p://starvod.xyz:19806/b9ce68ac44fb456c8da9060e6dc8a9ad
-韩国娱乐台,P2p://starvod.xyz:19806/c6fb33dfc4924f59a59cfca15a11d687
-达文西频道,P2p://starvod.xyz:19806/39f52db815944fb5b710d43ac22c2be7
-动物星球,P2p://starvod.xyz:19806/68b6ed5382b84c7e9fe6f412174f506c
-ROCK Extreme,P2p://starvod.xyz:19806/a5e6c7d4188e458fa1dbb0d727811504
-中视新闻台,P2p://starvod.xyz:19806/c4fabeb367b44cf3926454703f69a17a
-寰宇新闻台,P2p://starvod.xyz:19806/52a4ff0cb0f7452f82119dc0b580653d
-华视新闻,P2p://starvod.xyz:19806/c725337b582841a28c53bfab40756111
-CN卡通频道,P2p://starvod.xyz:19806/6bcb86ec8518457bba89c19283c2b929
-NHK新闻资讯台,P2p://starvod.xyz:19806/7ae323b1512f41bdae116a0081de3db0
-美亚电影台HD,P2p://starvod.xyz:19806/d1175643ed8547a089ff04eac30f8fb7
-龙华电影,P2p://starvod.xyz:19806/49aa099e0d6e4acda17fd7b4b21180f8
-Smart知识台,P2p://starvod.xyz:19806/1c881a6eefb04834b843098c7beab57e
-靖天映画,P2p://starvod.xyz:19806/02d53d73f3f448209ad9ef894e306701
-MOMO亲子台,P2p://starvod.xyz:19806/7fe32a4efe7c46008d320434ca22ebd7
-靖天电影台,P2p://starvod.xyz:19806/25482b37459944f4b17ca4415dc6598b
-WARNER TV,P2p://starvod.xyz:19806/037cd313675943049373c7e16318e669
-公视台语台,P2p://starvod.xyz:19806/d9f6adc0a7834932b86ecfaa28d99214
-amc电影台,P2p://starvod.xyz:19806/cd374528271b481b93d5f946ad801284
-东森幼幼台,P2p://starvod.xyz:19806/111ec43dbead45d78a0ce831efabd81e
-HBO Family,P2p://starvod.xyz:19806/741fb45c3c3c45ee9342501a46b3fa03
-CatchPlay电影台,P2p://starvod.xyz:19806/f92ea797a53d413787bdcd14e6eb184b
-CinemaWorld,P2p://starvod.xyz:19806/c15af256226347ac889af4ad329958f1
-壹电视电影台,P2p://starvod.xyz:19806/423c530a8d8e406b9e5ff5f84bb4717a
-纬来综合台,P2p://starvod.xyz:19806/f324964b23e44a349777ac812a863dcc
-采昌影剧台,P2p://starvod.xyz:19806/99653a96f1c24099aebcd1e5eea8bb34
-八大第一台,P2p://starvod.xyz:19806/480cb414334e45648eb2ea851401255f
-佛卫慈悲台,P2p://starvod.xyz:19806/d39e47f5198a48d88885289760a793e8
-八大综合台,P2p://starvod.xyz:19806/d19e6cf71a54439bb039dc0d6bf1236c
-三立台湾台,P2p://starvod.xyz:19806/29a0fbd5f4ba47d5ba0fea5d2b867489
-三立都会台,P2p://starvod.xyz:19806/f1783e8e2285494bb92e56fcc03b8bd2
-东森综合台,P2p://starvod.xyz:19806/f38d6f78755a4fc6801b4e970d4545e6
-超视,P2p://starvod.xyz:19806/1c8f8812e2ea4b4ea59aa4dc41cfe73a
-中天综合台,P2p://starvod.xyz:19806/74f7e2793ca746169b7aea295fe86a18
-中天娱乐台,P2p://starvod.xyz:19806/04df869d074f436583559dab86210613
-东森戏剧台,P2p://starvod.xyz:19806/cbe5f31727e84388807399c889aad1d3
-八大戏剧台,P2p://starvod.xyz:19806/62e59596c15a4e92a9b8c1c91e53a103
-TVBS欢乐台,P2p://starvod.xyz:19806/0252114e563f47b68663270b4cca4726
-纬来戏剧台,P2p://starvod.xyz:19806/2396ccb765774068bf00937cb2fd7bc8
-高点综合台,P2p://starvod.xyz:19806/5d7656b21e794b24a8ce14c1887fe1c3
-Bloomberg TV,P2p://starvod.xyz:19806/2d3d3948a6d54066bb24731d407c6908
-HITS,P2p://starvod.xyz:19806/ed9c868b64ab499f9c8c87ba3b9f7efc
-壹电视新闻台,P2p://starvod.xyz:19806/06b92ed63cce422ebaec6757d18b6c61
-东森新闻台,P2p://starvod.xyz:19806/7954fbb364fa4e8eb5d148f0ce27f899
-中天新闻台,P2p://starvod.xyz:19806/5101795d67f342359f9b60be98a6e360
-民视新闻台,P2p://starvod.xyz:19806/e816d53913e84fb78818a5913ab3ba04
-三立新闻台,P2p://starvod.xyz:19806/a1cd648fd7b5443eba7cf43f0da9bc7e
-TVBS新闻台,P2p://starvod.xyz:19806/2d8677ecc37c49819fa2a9a9e663fee5
-TVBS,P2p://starvod.xyz:19806/ba7cc8bc72374530afab9a7661bee93f
-东森财经新闻台,P2p://starvod.xyz:19806/361e2ff18be5489d9085014cce64dba7
-非凡新闻台,P2p://starvod.xyz:19806/0464715a85664461bb47ea15ad8b5355
-MOMO综合台,P2p://starvod.xyz:19806/32291d868d004153be82b6f6e23a796a
-东森电影台,P2p://starvod.xyz:19806/6ea3540369244d86a78a408fab7734de
-纬来电影台,P2p://starvod.xyz:19806/8d1e10e984d4494aab703ac006faf941
-龙祥电影,P2p://starvod.xyz:19806/a4cf0bd50e0e4c399cf5bc7f10d8b147
-HBO,P2p://starvod.xyz:19806/56bf3141615743a5b55585b4413790dd
-东森洋片台,P2p://starvod.xyz:19806/c96fcc121115445bbcb115f24d2a0a1a
-AXN,P2p://starvod.xyz:19806/fccae3ecae554287914ba7bd8b09e3c7
-好莱坞电影台,P2p://starvod.xyz:19806/b64cbaff0f5148d4a83e5001f023bd79
-CINEMAX,P2p://starvod.xyz:19806/5be82fe8dd954f35a6fa4f85e9c32b95
-纬来育乐台,P2p://starvod.xyz:19806/3f8d2096eeb34927910142e633e74b3c
-纬来体育台,P2p://starvod.xyz:19806/30a3b2a3966a408baea81859422cf070
-DAZN 1,P2p://starvod.xyz:19806/58405d91a62f498aab4dbe1b22bcdb22
-JET综合台,P2p://starvod.xyz:19806/4861156b455346ae8229261229f67b5b
-国兴卫视,P2p://starvod.xyz:19806/eb0a980797214010950a6d668edd9b6f
-Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
-Animax,P2p://starvod.xyz:19806/9230a656fd6245adbd2f74e9498e6d0c
-人间卫视,P2p://starvod.xyz:19806/0524623a90ed42f29896f1307fc577a0
-尼克儿童频道,P2p://starvod.xyz:19806/619967c39165486d9c43cac7632be0c8
-八大娱乐台,P2p://starvod.xyz:19806/86fe2553e787492cb8b09dea6b65936a
-三立iNEWS,P2p://starvod.xyz:19806/b0b63b81d7bd41e097d1d1c711e786d8
-龙华偶像,P2p://starvod.xyz:19806/d392d5b145814cafb5a4e57f2559cc2a
-tvN,P2p://starvod.xyz:19806/91da556b2aea4bfabaa7f4882c503e30
-France24,P2p://starvod.xyz:19806/2b7efe9e4ad942028196deae1cbb81db
-非凡商业台,P2p://starvod.xyz:19806/01b2f271b874465699c30992ac8259ed
-公视3台,P2p://starvod.xyz:19806/b8364fd0726c4c69ae60d91f9343d42e
-大爱2台,P2p://starvod.xyz:19806/9200c0315c7849639cf1dd041f3eed18
-ELTV生活英语台,P2p://starvod.xyz:19806/9578e78d85304ad692a5463e76b5e830
-靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/b0de3ee659e748058943003ed12aa674
+BBC Lifestyle,P2p://starvod.xyz:19806/27347d1bc804406482a87d2bab2669c9
+民视,P2p://starvod.xyz:19806/ce8fdea4216b40b09befe57f0d6e8d6c
+台视,P2p://starvod.xyz:19806/de04cba8e0804860b496f890a8c67c58
+Lifetime,P2p://starvod.xyz:19806/aa88bec22a9c492285d5767d3d18ad16
+大爱,P2p://starvod.xyz:19806/afb1b710812641ba9d3305db731357f4
+KLT-靖天国际台,P2p://starvod.xyz:19806/8d39d7cfe6d74224bc839477118b0675
+中视,P2p://starvod.xyz:19806/5377922caae64099b359685e49a2be94
+霹雳台湾台,P2p://starvod.xyz:19806/b5b764e44079436fa9f811fae65582bf
+HGTV居家乐活频道,P2p://starvod.xyz:19806/757d2271d10a46eba1301b5883f27cff
+华视,P2p://starvod.xyz:19806/7704edacec12476cac8bb31cc156aa54
+Love Nature,P2p://starvod.xyz:19806/d624948eccc54d84895767aaf7fda7e7
+公视,P2p://starvod.xyz:19806/a632b1799d814ec8a92eaf6dcac5dfcf
+美食星球,P2p://starvod.xyz:19806/810a4aeb30374147bb7c8c34ad663d2c
+亚洲美食频道,P2p://starvod.xyz:19806/599768848e21404ea43b2e2687427383
+好消息,P2p://starvod.xyz:19806/c70f224d9b884b55b12d262666ec065d
+亚洲旅游台,P2p://starvod.xyz:19806/9655708b3d9b449c8d5ade6b2aa430db
+EYE TV旅游台,P2p://starvod.xyz:19806/df2b42398f4043edba6e11ab10e2d837
+原住民电视台,P2p://starvod.xyz:19806/9966b797990f47119693c1db494c74a6
+好消息2台,P2p://starvod.xyz:19806/4f880566f5264d9fb2ad5526ad787581
+三立综合台,P2p://starvod.xyz:19806/7f86a0ccab984fb29a3785a624d77be2
+靖天资讯台,P2p://starvod.xyz:19806/c22f367801064d0eb7528287c995ac7b
+靖天综合台,P2p://starvod.xyz:19806/26931c6d1850461797b37822e1aefa92
+靖天育乐台,P2p://starvod.xyz:19806/f2afeb5eee634fce849341d664b66e84
+中视经典台,P2p://starvod.xyz:19806/0def3e81f17a40339853a8adbc580160
+中视菁采台,P2p://starvod.xyz:19806/8991dbb4bf954e5d943c2e164c3e9bae
+客家电视台,P2p://starvod.xyz:19806/2beee535dd694ae89c67c9d477f21079
+TVBS精采台,P2p://starvod.xyz:19806/25b73767a8b24341a0405db75d4c6387
+壹电视综合,P2p://starvod.xyz:19806/30fea66a771c466a9b673cb21e101d8e
+纬来精采,P2p://starvod.xyz:19806/4294e1fdac314ecdb22c0658735772e4
+ETtoday综合台,P2p://starvod.xyz:19806/77e9cf51197747038b515fcc0ebe5e6a
+台视综合台,P2p://starvod.xyz:19806/f73785a5a23d44e49480362553669faa
+民视第一台,P2p://starvod.xyz:19806/546bb2e3696a47cf909539a20cf5dd72
+民视台湾台,P2p://starvod.xyz:19806/8271759565c04b34a44c1717457182de
+Nice TV靖天欢乐台,P2p://starvod.xyz:19806/7113ebf6b4f244528ac15f03aa455842
+探索频道,P2p://starvod.xyz:19806/6bf686a8e3514b75b38fe7a4dbb813af
+八大优频道,P2p://starvod.xyz:19806/a0295dd3cc36418097d62066aae1a01c
+三立戏剧台,P2p://starvod.xyz:19806/77b3538a8215427497b3129f4373b81d
+龙华戏剧,P2p://starvod.xyz:19806/d194f3a991764a108841750dc81457ef
+靖天戏剧台,P2p://starvod.xyz:19806/4228fbd2137245b88e3d7062f2558322
+靖洋戏剧台,P2p://starvod.xyz:19806/515748f902854ef59250c303ebbdec12
+靖天日本台,P2p://starvod.xyz:19806/960a48c767ce416496ad510aa76057fe
+i-Fun动漫台,P2p://starvod.xyz:19806/7479b61608a2491babe648fa88b2910d
+韩国娱乐台,P2p://starvod.xyz:19806/015d929dae8140209fa5ec350dbe5181
+达文西频道,P2p://starvod.xyz:19806/856e50e9a7c249c0b3829cc952d7a04e
+动物星球,P2p://starvod.xyz:19806/e1b236b5a086437e9c190716425bd94e
+ROCK Extreme,P2p://starvod.xyz:19806/03b062ab2ce140aaa6afb20291f8ed64
+中视新闻台,P2p://starvod.xyz:19806/daddc13b4fdb48ed97eb3cff4979c570
+寰宇新闻台,P2p://starvod.xyz:19806/cadbcac691e049b3b0264413a6c24fef
+华视新闻,P2p://starvod.xyz:19806/bec268beeb064f84ad28d2eb07f164e1
+CN卡通频道,P2p://starvod.xyz:19806/7bb3d3e11e994c76a04b865e0aa939c1
+NHK新闻资讯台,P2p://starvod.xyz:19806/d8369af40473434397889cd5c271b3b6
+美亚电影台HD,P2p://starvod.xyz:19806/c160feecc40d442b8ab7d78e36fa32bd
+龙华电影,P2p://starvod.xyz:19806/dee6cc2dcb05467490c3ea5fa5335f6b
+Smart知识台,P2p://starvod.xyz:19806/7011a97983e74739a72c0b5259dd62a7
+靖天映画,P2p://starvod.xyz:19806/d7458b40801b4e09b10863b4e5b738c6
+MOMO亲子台,P2p://starvod.xyz:19806/b5c3d6a78d3e4d1c9d55bc898c06c297
+靖天电影台,P2p://starvod.xyz:19806/84b05eb1eedd4403adf456b9f21e10cc
+WARNER TV,P2p://starvod.xyz:19806/beac9d55fe9e4cde8c311c1f4ddc9722
+公视台语台,P2p://starvod.xyz:19806/26a7c760340c4fdda70978cb1df56fa9
+amc电影台,P2p://starvod.xyz:19806/b1a9ce70773442a09a7d48086cc87c36
+东森幼幼台,P2p://starvod.xyz:19806/712c05eb73ea47258ae6d0fd6f4c0647
+HBO Family,P2p://starvod.xyz:19806/550a15f859854dde86c5e0eb8f59aab6
+CatchPlay电影台,P2p://starvod.xyz:19806/35ccbbfe058f49d8a8797b8626751283
+CinemaWorld,P2p://starvod.xyz:19806/d99fc28633cc48abb18753c7b669b35d
+壹电视电影台,P2p://starvod.xyz:19806/0651dd087dde4e379add5f6e4e508f7c
+纬来综合台,P2p://starvod.xyz:19806/754447be82054b969c202786cf51ac72
+采昌影剧台,P2p://starvod.xyz:19806/826843b6efa4482f8dfbf23f0c46403e
+八大第一台,P2p://starvod.xyz:19806/2f86e55ef1ab414abee91c3091108d32
+佛卫慈悲台,P2p://starvod.xyz:19806/a85b40e681db4f99a2d063f22644d6c9
+八大综合台,P2p://starvod.xyz:19806/affc6203c9c4465291b8c5a11490bc85
+三立台湾台,P2p://starvod.xyz:19806/f0d2f7aa43bb4168927109b5ab7c802d
+三立都会台,P2p://starvod.xyz:19806/463b0a5ef8b84c6ba3ecab67a0d529cd
+东森综合台,P2p://starvod.xyz:19806/49ebde7b61f24404a020b421b1b8e381
+超视,P2p://starvod.xyz:19806/16a5b2a7cfdc453f98d665921b8221ec
+中天综合台,P2p://starvod.xyz:19806/d10034d952ad45aeb0e0bce47d197db3
+中天娱乐台,P2p://starvod.xyz:19806/388b574a22e14a17a5c241d467065029
+东森戏剧台,P2p://starvod.xyz:19806/3ec8e0d8b6404523951bb824aefa1e30
+八大戏剧台,P2p://starvod.xyz:19806/5831732de21640f68bf8dcb35e4fc6b6
+TVBS欢乐台,P2p://starvod.xyz:19806/d593cdf74e8e47798f7f6c23ebe338a4
+纬来戏剧台,P2p://starvod.xyz:19806/50b222848a47400098b820c6fa619abd
+高点综合台,P2p://starvod.xyz:19806/27fe3138f6674d8a8fdcd47b20759b98
+Bloomberg TV,P2p://starvod.xyz:19806/712f24e740244820a103847493e77ae8
+HITS,P2p://starvod.xyz:19806/d702858c1e4f43739a01d63b99c25ff3
+壹电视新闻台,P2p://starvod.xyz:19806/7d0175cfd00b434490fadd0669e98c82
+东森新闻台,P2p://starvod.xyz:19806/66292b30096b4454a0f6fd971cf5bf44
+中天新闻台,P2p://starvod.xyz:19806/3d9a34e6a2fc40e994d6c4866d380804
+民视新闻台,P2p://starvod.xyz:19806/926721ae54a84f18a2704749da847df2
+三立新闻台,P2p://starvod.xyz:19806/c24aefac23f1449081118a116630d484
+TVBS新闻台,P2p://starvod.xyz:19806/8d04636e0a7e4a03801641d680b57917
+TVBS,P2p://starvod.xyz:19806/3753e2c4ff31478c84bbde0e93e1fb0e
+东森财经新闻台,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
+非凡新闻台,P2p://starvod.xyz:19806/6dd2e2dfddc14417a8e17e09fa560034
+MOMO综合台,P2p://starvod.xyz:19806/65ec2552e4c34c56a16d326ad4bc39bb
+东森电影台,P2p://starvod.xyz:19806/b59a828c6615442f8e84a92f98f2a639
+纬来电影台,P2p://starvod.xyz:19806/1fe860684a4a4bdba10241a0d875cec2
+龙祥电影,P2p://starvod.xyz:19806/28d63cf498464e80b5878ccf7c27f9ed
+HBO,P2p://starvod.xyz:19806/8001ad8f9cef4014b5a42c3565b94d5a
+东森洋片台,P2p://starvod.xyz:19806/a1cff1d8503f49dfbc5c69dbbe56ac3d
+AXN,P2p://starvod.xyz:19806/24b68d9ea90c45f0bb479d94a6cd864a
+好莱坞电影台,P2p://starvod.xyz:19806/d8cb07c40ca0491a8df79a4ff8d8f240
+CINEMAX,P2p://starvod.xyz:19806/a42505fa7901405f9840d25bf596f626
+纬来育乐台,P2p://starvod.xyz:19806/0210b5121f1b4e84a025f357bfa1e7db
+纬来体育台,P2p://starvod.xyz:19806/cb745d56b29746389196e8a9d70aa713
+DAZN 1,P2p://starvod.xyz:19806/41934b50bf4c4257a8aeeaf3dec9993a
+JET综合台,P2p://starvod.xyz:19806/328a45e71eaa413ea193a365c8483f91
+国兴卫视,P2p://starvod.xyz:19806/017d28d9a6e14623be7ec320af3a28c7
+Z频道,P2p://starvod.xyz:19806/4c5efc113a1e45f981a451621fa850d9
+Animax,P2p://starvod.xyz:19806/0010b46e0a6f44ac9cfcd38d8a5c4051
+人间卫视,P2p://starvod.xyz:19806/da038bb8efac463484d79e388dfa54fa
+尼克儿童频道,P2p://starvod.xyz:19806/6338ff418737400890c8ed76771b23e7
+八大娱乐台,P2p://starvod.xyz:19806/4c3181482fb046feb46902f29efe3edb
+三立iNEWS,P2p://starvod.xyz:19806/4adf9f965029490bb58cf8603413c212
+龙华偶像,P2p://starvod.xyz:19806/a34a52e630064e30bcb84e19f349cc8e
+tvN,P2p://starvod.xyz:19806/16b6a05036c34fe0b401ffbaa80782ce
+France24,P2p://starvod.xyz:19806/53794c7a8e44448fb9b8463f98eb419a
+非凡商业台,P2p://starvod.xyz:19806/ae8ee061dee047da98d4e753e3c31712
+公视3台,P2p://starvod.xyz:19806/26447a717eb7455db5da4db6b5b66afe
+大爱2台,P2p://starvod.xyz:19806/9d78143d086642b7bf8bbb9775481715
+ELTV生活英语台,P2p://starvod.xyz:19806/961fbccf107640299c0d771384d72203
+靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/cea23629d2be4b57a0a6bd7bd41cef25
 靖天卡通台,P2p://starvod.xyz:19806/0198c0e2e5364fa2a1b7505b3b88d52d
-Nick Jr.,P2p://starvod.xyz:19806/6c9e4d4d1f424ab58037f4d605c57fa4
-Mezzo Live,P2p://starvod.xyz:19806/579c60c59cd44a8db25cead2ebcd1daf
-CLASSICA 古典乐,P2p://starvod.xyz:19806/6c795662057d4545ac27e18f809d3bca
-爱尔达体育1台(备),P2p://starvod.xyz:19806/37c379e252234844aa42f95e9866a959
-爱尔达体育2台,P2p://starvod.xyz:19806/b5d4ef8309684058b3013ff510ae7fc5
-TRACE Sport Stars,P2p://starvod.xyz:19806/81e836eade1442338fe63f679dbcfcde
-博斯高球,P2p://starvod.xyz:19806/20a1ef236547406e8a012f43abb672a5
-博斯高球二台,P2p://starvod.xyz:19806/621564410f8646bd8a443ee42c6f2053
-博斯网球台,P2p://starvod.xyz:19806/34eebcbccfa44763a28afa6f55a64395
-博斯魅力网,P2p://starvod.xyz:19806/3845c54b10aa43dea99f3edd7da7febb
-博斯无限台,P2p://starvod.xyz:19806/882ac6b6dc434433bc775a88053ff3d3
-博斯无限二台,P2p://starvod.xyz:19806/b7e3a978655240d0a5fa2b0d4c7f762b
-博斯运动,P2p://starvod.xyz:19806/f823fb8641af4f9cac59f59529c8fd53
-DAZN 2,P2p://starvod.xyz:19806/b78c4a54a9cf47629cad693ff087331f
-智林体育台,P2p://starvod.xyz:19806/3002f2b00d31470182395bf58242d97d
-博斯运动二台,P2p://starvod.xyz:19806/17e150217d5a46ffbf8e3a37b0845d55
+Nick Jr.,P2p://starvod.xyz:19806/0f5b1be36f394e1faf807e113b0d1d5e
+Mezzo Live,P2p://starvod.xyz:19806/69a484234c8a4880bd3977c54743d33e
+CLASSICA 古典乐,P2p://starvod.xyz:19806/2579ea34e7384a3a851e4106db5192a1
+爱尔达体育1台(备),P2p://starvod.xyz:19806/609def8d0f114476830f4d0fbf9232fa
+爱尔达体育2台,P2p://starvod.xyz:19806/b8016431fa4149bba983243dc1bc93bd
+TRACE Sport Stars,P2p://starvod.xyz:19806/da2cea39b9c5401fb0e667429acb1423
+博斯高球,P2p://starvod.xyz:19806/555435039c85446db7e6a6dd0412139a
+博斯高球二台,P2p://starvod.xyz:19806/78d1bfbf2e694df39fcfd2671732257a
+博斯网球台,P2p://starvod.xyz:19806/5840f4001425418fb95b857be4062c9e
+博斯魅力网,P2p://starvod.xyz:19806/140dc1a23c914b9eaa69a5e59da8d8d6
+博斯无限台,P2p://starvod.xyz:19806/c27117ba47a54497b21a3e87d128d18a
+博斯无限二台,P2p://starvod.xyz:19806/dab27ef8334d45aaa23ed36bf71e0238
+博斯运动,P2p://starvod.xyz:19806/c35478967e7c482a8b71974e2ea837e8
+DAZN 2,P2p://starvod.xyz:19806/1872d7245447487788babe62db52ee45
+智林体育台,P2p://starvod.xyz:19806/b1f593f9121b47f6afcb7bd48fba64de
+博斯运动二台,P2p://starvod.xyz:19806/76b2c9ef9ffb4a818122bbf843ed1dc1
 HBO强档巨献,P2p://starvod.xyz:19806/0e1f3763c81b4129abbe07590c4c8e17
 HBO原创巨献,P2p://starvod.xyz:19806/d99641dc9e24460ab5209a760947b893
-BBC Earth,P2p://starvod.xyz:19806/4c1787f2c8fa4b7eb12a492b55eef37b
-Discovery Asia,P2p://starvod.xyz:19806/ad1c8a9c17094acdaa2b4ba81d82a1e8
-Discovery科学频道,P2p://starvod.xyz:19806/ddbf07a5349c4273809f63824771e212
-DMAX,P2p://starvod.xyz:19806/1630c9fe054343c993c8f934a27604f2
-EVE,P2p://starvod.xyz:19806/ef743b41cc2c4381821f0df839db8b47
-历史频道,P2p://starvod.xyz:19806/14fe755fa76042dcb78b036004806cb2
-罪案侦缉频道,P2p://starvod.xyz:19806/207f68a4fd0142a3851c3f943aa4556c
-EYE TV戏剧台,P2p://starvod.xyz:19806/be468864a87a45d5b5427d2dd44022c1
-台视新闻台,P2p://starvod.xyz:19806/879a9ce8c43a48f49ed38ad685d7a5bb
-寰宇新闻台湾台,P2p://starvod.xyz:19806/fbf5f4564104482a9504c9ada69ea6e9
-台视财经台,P2p://starvod.xyz:19806/6c06b74ad8ca493fa6c2c05c78e3b545
-纬来日本,P2p://starvod.xyz:19806/00d49f677983415189cf9827d2de3e8e
-爱尔达影剧台,P2p://starvod.xyz:19806/219618e8e4864ea3bc02e066a53e77d5
-影迷数位电影台,P2p://starvod.xyz:19806/d613d16093fa446382be58edde88eeba
-爱尔达体育1台,P2p://starvod.xyz:19806/02c482b5dc18454fa60e8cbdc995b1f9
-爱尔达体育3台,P2p://starvod.xyz:19806/df8a12732c4f41a985c78c30524e311a
-爱尔达体育4台,P2p://starvod.xyz:19806/2510822fe6314729aa0475e475abf7fd
-镜新闻,P2p://starvod.xyz:19806/e49d9edb1be74375b43138bccc1fd5ed
-东森购物1台,P2p://starvod.xyz:19806/a4b68427ef214113bc94475d32cc4428
-东森购物2台,P2p://starvod.xyz:19806/20401a7d32c445a787aecd170440e390
+BBC Earth,P2p://starvod.xyz:19806/3971cd0f3c7a4e8f8cf180a28c32db74
+Discovery Asia,P2p://starvod.xyz:19806/d07aa520d12d4998acf7f0483453fd94
+Discovery科学频道,P2p://starvod.xyz:19806/568dd96a990d41eb882e444e886548ad
+DMAX,P2p://starvod.xyz:19806/3609a24123ad423aa2af1149262a0334
+EVE,P2p://starvod.xyz:19806/a793ed8cc9d947be8e27bcf870747daa
+历史频道,P2p://starvod.xyz:19806/af5f9d7165964b1396cae33aa32e8371
+罪案侦缉频道,P2p://starvod.xyz:19806/e7ee71b7e20b41f0bedd86fb81ca3c69
+EYE TV戏剧台,P2p://starvod.xyz:19806/48d5552976144f7c8d43075cbb55f0fe
+台视新闻台,P2p://starvod.xyz:19806/08bbe86c8d4148e2b9a58b9d4e1cac4b
+寰宇新闻台湾台,P2p://starvod.xyz:19806/9d323a7c10594e408473082989a087b0
+台视财经台,P2p://starvod.xyz:19806/83dc28880d16492f8be4a34da7ab6537
+纬来日本,P2p://starvod.xyz:19806/50efc289084b498f9ce6cf3176a6c092
+爱尔达影剧台,P2p://starvod.xyz:19806/2c2af02e0d5a4fdab3e93a55baf0cf48
+影迷数位电影台,P2p://starvod.xyz:19806/fef728c9e1c548e2ac126b37cda494b1
+爱尔达体育1台,P2p://starvod.xyz:19806/aa5aa81fbe7d4c7daae116a35c321948
+爱尔达体育3台,P2p://starvod.xyz:19806/9e665630abc0455a87e23f321d47af0e
+爱尔达体育4台,P2p://starvod.xyz:19806/8d0b0ffee633497d986144d7d636fe3d
+镜新闻,P2p://starvod.xyz:19806/1b5e4d624d9c4a06ae73c61d9d354b6b
+东森购物1台,P2p://starvod.xyz:19806/50e83fdd8a814dc4948599a17c64c219
+东森购物2台,P2p://starvod.xyz:19806/025c1848c3914848afd2d6b043f3e6cc
 TechStorm,P2p://starvod.xyz:19806/3ecd80281514495bbc4adb297da6fe6a
-年代新闻,P2p://starvod.xyz:19806/fd9796184bb741ef80e20dc404088625
-中天新闻台(备),P2p://starvod.xyz:19806/2e904818dbeb4583b43e3e016a7cf8d9
-东风卫视,P2p://starvod.xyz:19806/6740a0340004d55624b59c6a7c6c53e8
-东森新闻台(备),P2p://starvod.xyz:19806/a0b6c435056c4071b832f7ce232110ae
-爱尔达体育2台(备),P2p://starvod.xyz:19806/64e8429912474474a4f78017a88b7abc
-爱尔达体育3台(备),P2p://starvod.xyz:19806/d28eb80eb7dc4fe691b4327d7984b7e5
+年代新闻,P2p://starvod.xyz:19806/57e990049b8e4c27806ae7654afb621c
+中天新闻台(备),P2p://starvod.xyz:19806/e938ce7207b94725920970b72d1db8a5
+东风卫视,P2p://starvod.xyz:19806/564c69615f704251a67586ef2f1a0852
+东森新闻台(备),P2p://starvod.xyz:19806/ded042b8bc444459b0b2ff357c71c32f
+爱尔达体育2台(备),P2p://starvod.xyz:19806/0453a412e18545ffa1694fb136335069
+爱尔达体育3台(备),P2p://starvod.xyz:19806/661615a74d454268923b4125bad4195d
 中国大陆,#genre#
-CCTV1,P2p://starvod.xyz:19806/ac5be134279f461e95e69bbd29b57606
-CCTV2,P2p://starvod.xyz:19806/86a434fef18648adba904e5fdeb8771f
-CCTV3,P2p://starvod.xyz:19806/072e93b0f7b74910a1bc6a0ca2c472d5
-CCTV4,P2p://starvod.xyz:19806/9ff66c1c5d6648c3b638b7220d517c10
-CCTV5,P2p://starvod.xyz:19806/c680ec780ff54c4eb1e51253b666f530
-CCTV5+,P2p://starvod.xyz:19806/e0621ccbb3a14ebab8275d7d181b2948
-CCTV6,P2p://starvod.xyz:19806/4d59650a21c74de69b6d9029c90b938a
-CCTV7,P2p://starvod.xyz:19806/7f5b1916858b4a69a3dbe70eb2f771e5
-CCTV8,P2p://starvod.xyz:19806/32e92998580b4098b34490a95a8c9f4e
-CCTV9,P2p://starvod.xyz:19806/6432e45689f44151ad3e783f66f0ce75
-CCTV10,P2p://starvod.xyz:19806/e5b4176a203a4ccb814114ad5bac622b
-CCTV11,P2p://starvod.xyz:19806/041e52a7862c4f3d905c2cbef4b8ed7d
-CCTV12,P2p://starvod.xyz:19806/6f9e873c5f064a7d84c57efab95f0f6e
-CCTV13,P2p://starvod.xyz:19806/c069d3ebc6ba46099df477862caf269d
-CCTV14,P2p://starvod.xyz:19806/f52d68e9411b433ca7bf0a2c305ec0a8
-CCTV15,P2p://starvod.xyz:19806/ee410cb2a1a242c5bf27d8b1f1361bea
-北京卫视,P2p://starvod.xyz:19806/14bd0b0702984b4fa6cd4ab8d40cb177
-天津卫视,P2p://starvod.xyz:19806/14c28cb8484e48018dffe525f8f45511
-河北卫视,P2p://starvod.xyz:19806/5c2cd5c9c108470bb4353f2a184c8f60
-黑龙江卫视,P2p://starvod.xyz:19806/a10e9f9e23f24d78a5f72d185bcdadfe
-辽宁卫视,P2p://starvod.xyz:19806/231fa8a57da44c7895c11c16d304c8cb
-东方卫视,P2p://starvod.xyz:19806/e7993599cbd74e268f6fbb1923873aa4
+CCTV1,P2p://starvod.xyz:19806/9ceaa547a0a940f9b4525825ccc94d17
+CCTV2,P2p://starvod.xyz:19806/4e77234901bf4800b387710bac2a9da6
+CCTV3,P2p://starvod.xyz:19806/63d134b8dd5e4e1c856d612cf58b9d00
+CCTV4,P2p://starvod.xyz:19806/7dc071c6b7e4494b8f396aeb47392763
+CCTV5,P2p://starvod.xyz:19806/75ea87ba60d44befa39571a56cb7c759
+CCTV5+,P2p://starvod.xyz:19806/0287cdee4ad24d9f8ded436cce0b0e0b
+CCTV6,P2p://starvod.xyz:19806/312db12514924cde944294871e5a7cf0
+CCTV7,P2p://starvod.xyz:19806/84ba2a3bd64f4d00854dc9eb06ab791b
+CCTV8,P2p://starvod.xyz:19806/4777cd73565743f4865090cde3769013
+CCTV9,P2p://starvod.xyz:19806/f739319fda194167867fdfce3f5bc0c0
+CCTV10,P2p://starvod.xyz:19806/b0b19b905c9e4e079856754ce7607eb9
+CCTV11,P2p://starvod.xyz:19806/b2a6121c23264b3b902a86311451f14a
+CCTV12,P2p://starvod.xyz:19806/00ed762e9d6f49248b605aa75820ec04
+CCTV13,P2p://starvod.xyz:19806/63fe10e97134413486f02e407839a647
+CCTV14,P2p://starvod.xyz:19806/78ca5fe33cbd44b6853f6ecb15b7b9e9
+CCTV15,P2p://starvod.xyz:19806/95e3d3ac1c3341b5be12d9602035ac3b
+北京卫视,P2p://starvod.xyz:19806/fbdf3e15cbb8417ca7563d2c838a4e2a
+天津卫视,P2p://starvod.xyz:19806/68128f688d8c47ce83d0aebce06f41ae
+河北卫视,P2p://starvod.xyz:19806/1118bbdc4c424501a24c76b5c754ae3e
+黑龙江卫视,P2p://starvod.xyz:19806/463e078f0ca94c5e84fbbd38502fd295
+辽宁卫视,P2p://starvod.xyz:19806/e4be6b865bf44113bfde93506fa8b8e6
+东方卫视,P2p://starvod.xyz:19806/f368263ec2ea4c6cbbf010f3956192ef
 江苏卫视,P2p://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a
-浙江卫视,P2p://starvod.xyz:19806/a533b4bba601482b8558e0de6669aa00
-江西卫视,P2p://starvod.xyz:19806/5b03ac37b47d45e1af92c852532e246f
-山东卫视,P2p://starvod.xyz:19806/599b89dae6be4de9987f9fb9f544763d
-厦门卫视,P2p://starvod.xyz:19806/958297ee75694eaeacd681df31a8b744
-湖北卫视,P2p://starvod.xyz:19806/377d48ab44da47478caad1b16ab5eda7
-湖南卫视,P2p://starvod.xyz:19806/55c7aeee5e1143ddb8aa8a78016d8cd0
-深圳卫视,P2p://starvod.xyz:19806/de7c751b5dfd44d9a04e167d0b0f7086
-广东卫视,P2p://starvod.xyz:19806/c6847e0398b24b8da6c4d89ca8811d0f
-广西卫视,P2p://starvod.xyz:19806/27385ddbf7c84bf5b6a553ab7c4ea932
-重庆卫视,P2p://starvod.xyz:19806/53c34fad703a43a9980f11503e688895
-云南卫视,P2p://starvod.xyz:19806/b7f12a07905843ed8aa4084450cb8b6f
-星空卫视,P2p://starvod.xyz:19806/e8fc863e98694c568c1abf29190c149c
-大湾区卫视,P2p://starvod.xyz:19806/e9390e6a7e784965962fc65e3d6f33cc
-珠江台,P2p://starvod.xyz:19806/5c2bed5a14c64b58b62bfd97e829d3f1
-快乐垂钓,P2p://starvod.xyz:19806/4a29369a5b5444d6b1eb360516cd34f4
-魅力足球,P2p://starvod.xyz:19806/67403d0100002e0323321bf93a4436bb
-新视觉体育,P2p://starvod.xyz:19806/c1a4b5b8b8cb47eba634733dc821c94d
-广东体育,P2p://starvod.xyz:19806/2acfe64553fd41109e24edabf49924c0
-广东民生,P2p://starvod.xyz:19806/c58a470a4040479a80488b880ec09da3
-私人影院,P2p://starvod.xyz:19806/e470af6cc237474192f90c44042d46dc
-深圳电视剧,P2p://starvod.xyz:19806/5d4912a1925749e386720076372ead5d
-风云足球,P2p://starvod.xyz:19806/e20d11b8913e4c54a5a4eb33579592d0
+浙江卫视,P2p://starvod.xyz:19806/0afbcf21e62442f2a94f312409a3195c
+江西卫视,P2p://starvod.xyz:19806/dded7059146b4b1e8ec7e9769350076a
+山东卫视,P2p://starvod.xyz:19806/5fe5206252964bfc9fdb316183bc8707
+厦门卫视,P2p://starvod.xyz:19806/12d74cdf62234e92b2c799d7f8c4f3d1
+湖北卫视,P2p://starvod.xyz:19806/277622ba85884bc0acf1bf921b867192
+湖南卫视,P2p://starvod.xyz:19806/0a573c0d4bd74d249f16441c9f7716e0
+深圳卫视,P2p://starvod.xyz:19806/44ba12b0797b4b1683314574906f8179
+广东卫视,P2p://starvod.xyz:19806/200112957e7944769dd5f3b8df0dd014
+广西卫视,P2p://starvod.xyz:19806/1cf5b21d6de54c14aa80dc3c32d16197
+重庆卫视,P2p://starvod.xyz:19806/7a7b8112b2f34da6842b7c1cd3afcf0f
+云南卫视,P2p://starvod.xyz:19806/dba7f874ca3f470ea247b32336166781
+星空卫视,P2p://starvod.xyz:19806/9dfa4962760b47fa8be31e485e95a3bb
+大湾区卫视,P2p://starvod.xyz:19806/54dc89e3cb80450ba9ec6432af9bb8a8
+珠江台,P2p://starvod.xyz:19806/9948514cd9b54740907358241b8ff64e
+快乐垂钓,P2p://starvod.xyz:19806/a7e27ad037af4ed0a424de1fe4c7bbaa
+魅力足球,P2p://starvod.xyz:19806/50e970cc587c4cb5bb910b1d255bb1d0
+新视觉体育,P2p://starvod.xyz:19806/556b6ade571940f9a5f0f824d93a3b57
+广东体育,P2p://starvod.xyz:19806/a65b1740e49747d6ac675765eb4ee0d2
+广东民生,P2p://starvod.xyz:19806/209f0a9e29ca457db4bab644191160a8
+私人影院,P2p://starvod.xyz:19806/3c441307542940208f361c935501e643
+深圳电视剧,P2p://starvod.xyz:19806/23fd527ab5484a22b456efeb613defd1
+风云足球,P2p://starvod.xyz:19806/5a2bb8458dbb4f5aaa5af0e1d2c4018e
 广州综合,P2p://starvod.xyz:19806/67210bab000ce3b2a9595f2751324544
-广州新闻,P2p://starvod.xyz:19806/05ded4130e7a40f6b34dacf8a7e239b4
-深圳都市,P2p://starvod.xyz:19806/b77d42e088c04e918a337227a291d5d6
-Channel [V],P2p://starvod.xyz:19806/6ad94bee08a8436ab2488e75bf871a08
-CHC动作电影,P2p://starvod.xyz:19806/d6ba9841c8cc4447b529627c683d97e3
-广东影视,P2p://starvod.xyz:19806/c70a7b740bad4280a5d20588db5cf28f
-CHC高清电影,P2p://starvod.xyz:19806/506c22b29f21447faf2da37aebcaeabd
-CHC家庭影院,P2p://starvod.xyz:19806/757359b5a8df43f3b8a8ffa9335517f9
-五星体育,P2p://starvod.xyz:19806/9f40a95a3c534f3db49e13576c27fad4
-CCTV16,P2p://starvod.xyz:19806/f128232ea4a54c2f8f374cd9dcdf6ee4
-CCTV17,P2p://starvod.xyz:19806/5bce009c0d4947e29d0d6c9d15dd2ed2
-重温经典频道,P2p://starvod.xyz:19806/0338c93f83b3408f85938abf21562c3e
+广州新闻,P2p://starvod.xyz:19806/fa252ca3e738423ca06f9d13315a759d
+深圳都市,P2p://starvod.xyz:19806/143f596db0fb452dbd7f6785a69e8d4f
+Channel [V],P2p://starvod.xyz:19806/edc83685418a4e4ead0484f13f6439fa
+CHC动作电影,P2p://starvod.xyz:19806/f26cea79629640ab93ea728d6fbcf383
+广东影视,P2p://starvod.xyz:19806/4277b6beae57445388c33a0d1999fb68
+CHC高清电影,P2p://starvod.xyz:19806/78bcfd70e99742caa9cbe9a5d0068a30
+CHC家庭影院,P2p://starvod.xyz:19806/fa9f578c3c094a1b9a17102f1889fadf
+五星体育,P2p://starvod.xyz:19806/34f5c73f6f4649249cb608ab704d7b1f
+CCTV16,P2p://starvod.xyz:19806/e8166678ff764d84a9ef288956e0b541
+CCTV17,P2p://starvod.xyz:19806/f251d017879545038ac4d2fc2caa4b4d
+重温经典频道,P2p://starvod.xyz:19806/81b5be9e62d74f3fb1c20a3907c5de05
 港澳,#genre#
-港台电视31,P2p://starvod.xyz:19806/7271242365e5408c8c6f188d61e7c475
-港台电视32,P2p://starvod.xyz:19806/6516aa83adc24ea4a612d5d141d9525b
-HOY TV,P2p://starvod.xyz:19806/36d3594f0c184c0ea5fa239d41bd7e15
-TVB Plus,P2p://starvod.xyz:19806/4e77f973d7b44ab1b6601a23a7570460
-无线新闻台(备),P2p://starvod.xyz:19806/d1201eea6f3242f7814bdebe912fb6a7
-TVB娱乐新闻台,P2p://starvod.xyz:19806/c24dcce1643342cbaf7c04592950e57b
-无线新闻台,P2p://starvod.xyz:19806/a66874c481794af299aa1226b99cbadb
-PopC,P2p://starvod.xyz:19806/38daa884192e4a1c957070103137866b
-ViuTVsix,P2p://starvod.xyz:19806/54a6176051e942248e03923372d24a2e
-ViuTV,P2p://starvod.xyz:19806/4033930a5c32429e8a56dce5d66a0d85
-凤凰中文台,P2p://starvod.xyz:19806/e812370ec3d5425a96fa10fa59312380
-凤凰资讯台,P2p://starvod.xyz:19806/c110f54316ee493f8554db97e9a0593e
-凤凰香港台,P2p://starvod.xyz:19806/b57de3aa854d4b49895fe4244d8132b9
-TVB星河,P2p://starvod.xyz:19806/490b1e7498944105b39a7948967e20d6
-澳门-MACAU,P2p://starvod.xyz:19806/00ee59f193504c1a8b6c6225858a2835
-澳门莲花,P2p://starvod.xyz:19806/6f6d12b575c3468da907a21b25a17a5a
-港台电视34,P2p://starvod.xyz:19806/5d9ed587089446729a6857d2ba197941
-HKC 18,P2p://starvod.xyz:19806/6c5238b068ca4115bbba31d0d3e29fd2
-戏曲台,P2p://starvod.xyz:19806/957ab5c4e11440b3a399950aaa7b17cf
-翡翠台,P2p://147.135.39.171:9906/673c3f77000a676e03217518685346e2
-千禧经典台,P2p://starvod.xyz:19806/4f92fe3319104c928b756198d8a56402
-Thrill,P2p://starvod.xyz:19806/f53f968579c1414ba1eb7c5f3eb775dc
-明珠台,P2p://starvod.xyz:19806/5a054b8d7ab74c3680e3b32cfcedf269
-now财经台,P2p://starvod.xyz:19806/b7a2e449c0ea4e558963a5a112fb4756
-美亚电影台(粤语),P2p://starvod.xyz:19806/6515a7376fd64cadb0e420fce5699870
-18台,P2p://starvod.xyz:19806/a7a1270448d14a89a5f8a990bd109970
-HOY资讯台,P2p://starvod.xyz:19806/6b3daf9be0ff4a2d88c9080d95567e3a
-SUPER Kids,P2p://starvod.xyz:19806/1b634eb546ad4513bd6f84a0d179920e
-粤语片台,P2p://starvod.xyz:19806/14204040d6054c9899058fe7ce1be39a
-亚洲剧台,P2p://starvod.xyz:19806/1f266b46f7244970898dcf1315dc0080
-功夫台,P2p://starvod.xyz:19806/2bc427ed3eb84257b6810f66016dd81e
-now新闻台,P2p://starvod.xyz:19806/30ab8ab546ef4727a5466a2e87a6853f
-香港国际财经台,P2p://starvod.xyz:19806/25fc1ea0ee6f4da2962c97ac20146863
+港台电视31,P2p://starvod.xyz:19806/3d4038002c1648318f52b3e9bf1a2fa9
+港台电视32,P2p://starvod.xyz:19806/63a9d7aff27a4b7fb34e1c6b37831934
+HOY TV,P2p://starvod.xyz:19806/2797104ecb0b42cebec200291753e812
+TVB Plus,P2p://starvod.xyz:19806/8f060c3767f744b1a1625bd8be76fdac
+无线新闻台(备),P2p://starvod.xyz:19806/73007555d75d4f7d86952f03ca2a30ef
+TVB娱乐新闻台,P2p://starvod.xyz:19806/84c1353eaf9a41b7b19368cd615ff684
+无线新闻台,P2p://starvod.xyz:19806/311b4f8e7844463f9f16cc5e530a6dd4
+PopC,P2p://starvod.xyz:19806/d5d2d5fff90e4463aa0d286259a37964
+ViuTVsix,P2p://starvod.xyz:19806/232795435b7346239225690ebe74a50a
+ViuTV,P2p://starvod.xyz:19806/bc65f28f9f54425382767232fb0cce78
+凤凰中文台,P2p://starvod.xyz:19806/e639ee04ce064accb555465efda877dc
+凤凰资讯台,P2p://starvod.xyz:19806/3fe1f50971824378ade442963fdfed61
+凤凰香港台,P2p://starvod.xyz:19806/783f37f450a54b219429dcaf1783f0b5
+TVB星河,P2p://starvod.xyz:19806/cf159dce09d742c19e0549c8918f2435
+澳门-MACAU,P2p://starvod.xyz:19806/d0dc768217db45c48927733d2335e650
+澳门莲花,P2p://starvod.xyz:19806/3b31982da9184ad7923cab20ccaaab2a
+港台电视34,P2p://starvod.xyz:19806/39ddff19452941feb9a61369d936ae3e
+HKC 18,P2p://starvod.xyz:19806/35cf3456625848e28bf00522601e88ba
+戏曲台,P2p://starvod.xyz:19806/36ab88ff3b3f49abbcc63989d7b938c9
+翡翠台,P2p://147.135.39.171:9906/6763d686000bd4b39dc7adf53eb36f55
+千禧经典台,P2p://starvod.xyz:19806/e0a923a3dfec43499b09f9a0a3a002cf
+Thrill,P2p://starvod.xyz:19806/223c78877367436a917585523b400765
+明珠台,P2p://starvod.xyz:19806/b4fbc2f0b60f4db5897d82b6c371c970
+now财经台,P2p://starvod.xyz:19806/1c0918a85001487cb0c2b0214e5560dd
+美亚电影台(粤语),P2p://starvod.xyz:19806/96d0682c8ff847729b749930385aa521
+18台,P2p://starvod.xyz:19806/79c356dc01f849ca8d4b713a2b5af6f4
+HOY资讯台,P2p://starvod.xyz:19806/ff5db7e3185044e1b29273ef7d7e14ea
+SUPER Kids,P2p://starvod.xyz:19806/d4c220d6cdf140678603378ca48cf050
+粤语片台,P2p://starvod.xyz:19806/7bb0c0e33d8445e886d8eb8a014cfbd6
+亚洲剧台,P2p://starvod.xyz:19806/623350e53f034ed28ff3cf504379d104
+功夫台,P2p://starvod.xyz:19806/14aa8e9678bd41ebad713c916ca30acf
+now新闻台,P2p://starvod.xyz:19806/6933a4a4e6514a89abaeb70d02b1a712
+香港国际财经台,P2p://starvod.xyz:19806/7a523ec459fd4f6db5f5b16ad3c26666
 黄金翡翠台,P2p://starvod.xyz:19806/1ce6cad822f54b5ba5a6bad081157d9b
-翡翠台(备),P2p://starvod.xyz:19806/b289aea8a10c439fb0c61f6bb35869d3
+翡翠台(备),P2p://starvod.xyz:19806/2289698d8b964c2eac53ad129142557d
 马来西亚,#genre#
-beIN Sports,P2p://starvod.xyz:19806/a0bab1dbdb354ec99109bd49dee0321b
-TLC旅游生活,P2p://starvod.xyz:19806/185bd5201e774858a0111560082db07b
-TVB娱乐新闻台,P2p://starvod.xyz:19806/c24dcce1643342cbaf7c04592950e57b
-TV1,P2p://starvod.xyz:19806/6e8555c259324887ace72b445072f025
-TV2,P2p://starvod.xyz:19806/4954ea558a8b44fcbb736b34ad7efb1a
-TV3,P2p://starvod.xyz:19806/646a52db469045589fb2d07153c50794
-NTV7,P2p://starvod.xyz:19806/bbff160eaf9f40118049e57119fc154a
-八度空间,P2p://starvod.xyz:19806/6720b3f30002fa56a802b5d70d7a33da
-TV9,P2p://starvod.xyz:19806/6e92faa465ac4305906456e82bf8260d
-Astro Oasis HD,P2p://starvod.xyz:19806/b7ee1c6c8e48446db193062a9ba71487
-Al-Hijrah,P2p://starvod.xyz:19806/49f6537706ca476388d64b636e949c33
-SUN TV,P2p://starvod.xyz:19806/90f1fe80f1c64355a6f260716dc7f300
-爱奇艺,P2p://starvod.xyz:19806/45c9e31547e84bf084a0829c2c661f4c
-Astro Arena 2,P2p://starvod.xyz:19806/2da37af33f0d4f0fb9c685c332a65baa
-天映频道,P2p://starvod.xyz:19806/de35dcefd74244ae9bbbb83566d6222c
-翡翠台,P2p://starvod.xyz:19806/4a58dd3f9ad4431797828b387c49e9d1
-Astro AOD HD 311,P2p://starvod.xyz:19806/323123ea3ce343c3b28b4e0fad03e0b9
-中天亚洲台,P2p://starvod.xyz:19806/bdaf344d9bdd4bbda970fa492a77acdf
-TVB星河,P2p://starvod.xyz:19806/490b1e7498944105b39a7948967e20d6
-天映经典,P2p://starvod.xyz:19806/1f10286d7bb14bcda455836cb9e4c5e9
-Astro欢喜台,P2p://starvod.xyz:19806/f49c42d3120245e6b9cd1e83d27cde96
-KBS World,P2p://starvod.xyz:19806/3f1b42dfc73f484c9b00bb552c232a2e
-tvN Movies HD,P2p://starvod.xyz:19806/32516a348c3c4adfa5122d975368efa6
-Astro Awani,P2p://starvod.xyz:19806/fa3521b0cf894b229c9c2cf34d21fbf4
+beIN Sports,P2p://starvod.xyz:19806/61cbf448494144ada3f75f4ab099f128
+TLC旅游生活,P2p://starvod.xyz:19806/2505b704672a424aa9355f15c11e7596
+TVB娱乐新闻台,P2p://starvod.xyz:19806/84c1353eaf9a41b7b19368cd615ff684
+TV1,P2p://starvod.xyz:19806/4c52dcac3db64579b5104ed411656bf8
+TV2,P2p://starvod.xyz:19806/02680bd65e5844a7a08e890c0566d0f2
+TV3,P2p://starvod.xyz:19806/c9ec71f108814da08a19e2a05834d0e4
+NTV7,P2p://starvod.xyz:19806/1f0c960dec6b4a5ea71bdf66b0f12ddd
+八度空间,P2p://starvod.xyz:19806/fee1d98126f147cbb5d183a3dbd55456
+TV9,P2p://starvod.xyz:19806/dc219f80bc0c4025a6fcbb78eed90722
+Astro Oasis HD,P2p://starvod.xyz:19806/0ad4c26ff54d476cafb8470c37f241ad
+Al-Hijrah,P2p://starvod.xyz:19806/1ca9795d622343b69a203420f7b27d26
+SUN TV,P2p://starvod.xyz:19806/637f4884e952456a8e781d0314eb1915
+爱奇艺,P2p://starvod.xyz:19806/db59345d5e6a4dc4be922a05258f220f
+Astro Arena 2,P2p://starvod.xyz:19806/f481b29d428b416190d440987e2783b2
+天映频道,P2p://starvod.xyz:19806/d42eb59a701444d8b0d804f475682092
+翡翠台,P2p://starvod.xyz:19806/867db4aec8af4c6897ad16f0eca29466
+Astro AOD HD 311,P2p://starvod.xyz:19806/4b0c1e74ce4748719d497d69965cf282
+中天亚洲台,P2p://starvod.xyz:19806/761e3fb682e6459ca4dbafa0e9739187
+TVB星河,P2p://starvod.xyz:19806/cf159dce09d742c19e0549c8918f2435
+天映经典,P2p://starvod.xyz:19806/103e7ffb39794fc0b2b15f6bb2b0051d
+Astro欢喜台,P2p://starvod.xyz:19806/c76e101f7bb24d28ab2bd164e8ac350a
+KBS World,P2p://starvod.xyz:19806/f5373fd4d9224213a84809ffef30ab3e
+tvN Movies HD,P2p://starvod.xyz:19806/f400835a12764b11be20a0702c661a1b
+Astro Awani,P2p://starvod.xyz:19806/24855b3b0761447387697962830fe8d8
 CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a
-BBC World News,P2p://starvod.xyz:19806/afb2542b69eb42f9944956ea02bc8206
-CNBC,P2p://starvod.xyz:19806/f29fcd16e20841a1a34095faf56cbb05
-Bloomberg TV,P2p://starvod.xyz:19806/2d3d3948a6d54066bb24731d407c6908
-Astro Ceria,P2p://starvod.xyz:19806/46e55b6ce85647d5996810d24e71916a
-Boomerang,P2p://starvod.xyz:19806/ff9e043016c2480aad5de16fc7a7cf15
-KIX,P2p://starvod.xyz:19806/6740a3c200024c7e24c37e6e40924dc5
-HITS,P2p://starvod.xyz:19806/ed9c868b64ab499f9c8c87ba3b9f7efc
-Astro Arena,P2p://starvod.xyz:19806/6c6fbea094b74b2a847fbd9c844101c1
-Astro Premier League,P2p://starvod.xyz:19806/336dda98e688426c91a6a328f3db1661
-Astro Premier League 2,P2p://starvod.xyz:19806/879bc764ea624a12a09ea1ce34c08f0d
-Astro Grandstand,P2p://starvod.xyz:19806/69125085f6cf453e9e7ff163448de51b
-Astro Football,P2p://starvod.xyz:19806/12b65db26e984890bcb99a81cec6de1f
-beIN Sports 3,P2p://starvod.xyz:19806/7fa3195fa8184f93b0b7ebe994aa21ce
-WWE,P2p://starvod.xyz:19806/40c9d6acf787424486bf93e4a0196ba7
-Sky News,P2p://starvod.xyz:19806/a9fc802bd0504d688b1ebc1b33ffaf11
-France24,P2p://starvod.xyz:19806/2b7efe9e4ad942028196deae1cbb81db
-SPOTV,P2p://starvod.xyz:19806/afae7193d7e64b9f944cb5f5a2d10894
-Astro AEC,P2p://starvod.xyz:19806/24221442e84b42178ffb4b7b7d11ab58
-Awesome TV,P2p://starvod.xyz:19806/7480326b719549028c859368346e8c3f
-BOO,P2p://starvod.xyz:19806/040d9d48c4964e4088dd073a6c71c25b
-千禧经典台,P2p://starvod.xyz:19806/4f92fe3319104c928b756198d8a56402
-ABC Australia,P2p://starvod.xyz:19806/57b60a7de7f34f7faaf1bbaa4a75cca3
-Eurosport HD,P2p://starvod.xyz:19806/ecb150246417471f9e313154d93b2e93
-Star Vijay,P2p://starvod.xyz:19806/9d3a8e1a1ecd403686d7b446afb180fe
-Zee Tamil,P2p://starvod.xyz:19806/89f3d969ba8b40ff80b19b8a94ffb6a0
-TVBS亚洲,P2p://starvod.xyz:19806/bb0d63ea06744a7ea50e477f9f0186f6
-HITS Movies,P2p://starvod.xyz:19806/e55c2251c67b48d0a69e2b8da225e4e8
-beIN Sports 2,P2p://starvod.xyz:19806/d8590775327e4524a13a5b9e177b034a
-Golf Channel,P2p://starvod.xyz:19806/fd5fe8249a114b3b95ace8877ffb86d0
-TV Okey,P2p://starvod.xyz:19806/e199fa3498674f3c9065608e97fb3aa5
-Astro Badminton,P2p://starvod.xyz:19806/7382234ebfc74873a2f339699e17c099
+BBC World News,P2p://starvod.xyz:19806/e83e36626974430a8e426edd35ace5f3
+CNBC,P2p://starvod.xyz:19806/8ee887d811ef4fe99906f1a0a26acc93
+Bloomberg TV,P2p://starvod.xyz:19806/712f24e740244820a103847493e77ae8
+Astro Ceria,P2p://starvod.xyz:19806/555e31688aa14801bbfe82eba4c2547b
+Boomerang,P2p://starvod.xyz:19806/5e53fa85030546de928bae0d6fb2e495
+KIX,P2p://starvod.xyz:19806/274abbab9a2943969715aec463043883
+HITS,P2p://starvod.xyz:19806/d702858c1e4f43739a01d63b99c25ff3
+Astro Arena,P2p://starvod.xyz:19806/812e36d5b4784adda7327bf8924035a2
+Astro Premier League,P2p://starvod.xyz:19806/a5b66fedb9304aa0ab9a6484da8d4fba
+Astro Premier League 2,P2p://starvod.xyz:19806/8c7b103d31434042b04004fb0ba977b2
+Astro Grandstand,P2p://starvod.xyz:19806/7ba22f9bd2594ac5b962fafd9e44035a
+Astro Football,P2p://starvod.xyz:19806/1eed23ce952940969e68e1bb4a97fd50
+beIN Sports 3,P2p://starvod.xyz:19806/8f493633d3c74184a9c1247d669331da
+WWE,P2p://starvod.xyz:19806/c39f543ae00843cc99f05a92e7f05b7b
+Sky News,P2p://starvod.xyz:19806/bd65bd90cc8a4b4c94ff7f05e93a8752
+France24,P2p://starvod.xyz:19806/53794c7a8e44448fb9b8463f98eb419a
+SPOTV,P2p://starvod.xyz:19806/2041f4ee5cec41d79ca86574d3ca30f5
+Astro AEC,P2p://starvod.xyz:19806/bed786d45d0742cd8066ce0dc49eb402
+Awesome TV,P2p://starvod.xyz:19806/55cbf871f69b49c9a8825678f9b59d13
+BOO,P2p://starvod.xyz:19806/af177f79c24440c5b22a1982240fc9a3
+千禧经典台,P2p://starvod.xyz:19806/e0a923a3dfec43499b09f9a0a3a002cf
+ABC Australia,P2p://starvod.xyz:19806/6f58c32b75ab424cbc6e4c61c7e474fe
+Eurosport HD,P2p://starvod.xyz:19806/7f7952b0a583400592c40a007e31e986
+Star Vijay,P2p://starvod.xyz:19806/ed2e2d9e2677442892c84ff495ab2fb4
+Zee Tamil,P2p://starvod.xyz:19806/f6017454e80848b29751712ab54bba2d
+TVBS亚洲,P2p://starvod.xyz:19806/677bd4ff00021f0f0bfbfbd6470d51cf
+HITS Movies,P2p://starvod.xyz:19806/953cb313c8ac49a7a55fd9873597f455
+beIN Sports 2,P2p://starvod.xyz:19806/170089b08d9446eb8a094a043f5f6b40
+Golf Channel,P2p://starvod.xyz:19806/7447b6d520db49119510134f47206b20
+TV Okey,P2p://starvod.xyz:19806/ff9005ae7c1e4415ab02308db10b8887
+Astro Badminton,P2p://starvod.xyz:19806/00eda22491524502abda5efdfb7e747f
 新加坡,#genre#
-beIN Sports,P2p://starvod.xyz:19806/a0bab1dbdb354ec99109bd49dee0321b
-中天亚洲台,P2p://starvod.xyz:19806/bdaf344d9bdd4bbda970fa492a77acdf
-KBS World,P2p://starvod.xyz:19806/3f1b42dfc73f484c9b00bb552c232a2e
+beIN Sports,P2p://starvod.xyz:19806/61cbf448494144ada3f75f4ab099f128
+中天亚洲台,P2p://starvod.xyz:19806/761e3fb682e6459ca4dbafa0e9739187
+KBS World,P2p://starvod.xyz:19806/f5373fd4d9224213a84809ffef30ab3e
 CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a
-Bloomberg TV,P2p://starvod.xyz:19806/2d3d3948a6d54066bb24731d407c6908
-HITS,P2p://starvod.xyz:19806/ed9c868b64ab499f9c8c87ba3b9f7efc
-beIN Sports 3,P2p://starvod.xyz:19806/7fa3195fa8184f93b0b7ebe994aa21ce
-Mediacorp 5,P2p://starvod.xyz:19806/1f937509e4ff40809a9e76b2ae91ebf7
-Mediacorp 8,P2p://starvod.xyz:19806/dec9442229784496b6a3d573b1fb2a15
-Suria,P2p://starvod.xyz:19806/67404d2a0009948423713e9240fc3361
+Bloomberg TV,P2p://starvod.xyz:19806/712f24e740244820a103847493e77ae8
+HITS,P2p://starvod.xyz:19806/d702858c1e4f43739a01d63b99c25ff3
+beIN Sports 3,P2p://starvod.xyz:19806/8f493633d3c74184a9c1247d669331da
+Mediacorp 5,P2p://starvod.xyz:19806/a35881fd237042acaedef7d8b16612bf
+Mediacorp 8,P2p://starvod.xyz:19806/149642b34013493e8946717513b702eb
+Suria,P2p://starvod.xyz:19806/f45678a017f449beabf147a86c5b634a
 Vasantham,P2p://starvod.xyz:19806/67404d2b000163c22371405704f225ff
-CNA,P2p://starvod.xyz:19806/73ad6030035c4d18ae0934becafb4580
-Mediacorp U,P2p://starvod.xyz:19806/930a6830a1b240bd828d4feeafb9aed5
-Euronews,P2p://starvod.xyz:19806/14833880f61b455fa45f63a7639ae73b
-Fight Sports,P2p://starvod.xyz:19806/c00ca72030c7444a910f0817a9bc3e98
-Fox News,P2p://starvod.xyz:19806/6740a2b7000777b824bf6cce2fdf25c7
-东森亚洲卫视,P2p://starvod.xyz:19806/27209c6fdef94a839fb337269c2eaa76
-TVBS亚洲,P2p://starvod.xyz:19806/bb0d63ea06744a7ea50e477f9f0186f6
-NBA,P2p://starvod.xyz:19806/5cf32fc2a6334a3b9646836169087e46
+CNA,P2p://starvod.xyz:19806/796eca8dc0f94c37b43d78420ed379e6
+Mediacorp U,P2p://starvod.xyz:19806/4eee7acfc52748a58e4dfdd8d85af5d4
+Euronews,P2p://starvod.xyz:19806/b83d783e62e54280851f4ce9a7d0b999
+Fight Sports,P2p://starvod.xyz:19806/157b2288ec054863ac3449ffe224ccfd
+Fox News,P2p://starvod.xyz:19806/22f238c5082a4ba8b7bb1f9d0cf7b8da
+东森亚洲卫视,P2p://starvod.xyz:19806/e452adc943f44b7d90f2ce712d470535
+NBA,P2p://starvod.xyz:19806/8c639ea13d9d459a901bb2af7037963f
 日本,#genre#
-NHK-G综合,P2p://starvod.xyz:19806/aa31da04f9de41969fb4f3882f5bfba2
-NHK-E教育,P2p://starvod.xyz:19806/79a1794383e145ee82f62c6d213bf323
-日本テレビ,P2p://starvod.xyz:19806/8d5b5983fd68484c93305c2fb89c4b06
-TBSテレビ,P2p://starvod.xyz:19806/88e1dd0d870f449680ab30b032e3d708
-テレビ東京,P2p://starvod.xyz:19806/05035aa74b504568a8cca1d75edb1a3a
-フジテレビ,P2p://starvod.xyz:19806/d3b039d14ee94e038601a533a628cdf3
-読売テレビ,P2p://starvod.xyz:19806/46828c10dfde4e3e811a77dcb7144084
-関西テレビ,P2p://starvod.xyz:19806/f8ec7c3691094d21a4e09e95bc642fc5
-KBS京都,P2p://starvod.xyz:19806/d80ec6f8145440c1b061d243d4dbc0c9
-毎日放送,P2p://starvod.xyz:19806/b3128d38230143b8b9932b635e510738
-朝日放送,P2p://starvod.xyz:19806/272cffbda90c49758c217823f1ff51f6
-テレビ大阪,P2p://starvod.xyz:19806/b3cd766268e0438ca7b328fb094877b7
-BS-1,P2p://starvod.xyz:19806/6723553ae2554916bead7b50f14a40f9
-BS日テレ,P2p://starvod.xyz:19806/1b48910f92c244439ac9e8f5c9c3af36
-BS朝日,P2p://starvod.xyz:19806/814fe858de0c4eaca9962bc831d74b71
-BS-TBS,P2p://starvod.xyz:19806/41aac3ee6a8d440e82ab1a6653b079dd
+NHK-G综合,P2p://starvod.xyz:19806/5683ac0ebe1f4523b0326b0dd1fe5b21
+NHK-E教育,P2p://starvod.xyz:19806/42009d5e1c224c3d84b3bdfb5a36eace
+日本テレビ,P2p://starvod.xyz:19806/dbb5e8fc42e748ca82ef290140ae9d29
+TBSテレビ,P2p://starvod.xyz:19806/b4b67ac3159046958c9123d56c4c95c5
+テレビ東京,P2p://starvod.xyz:19806/39ffbdf00d0a42e0bdb85323eb9ff855
+フジテレビ,P2p://starvod.xyz:19806/4bcbc7ed45f9431ca21afa1cd5b6186f
+読売テレビ,P2p://starvod.xyz:19806/71e502523d3c456b8a0b8895bbb7fd75
+関西テレビ,P2p://starvod.xyz:19806/75ac56528c50474fb02cb433b1ac2d03
+KBS京都,P2p://starvod.xyz:19806/ed8008edd2ac41d2bfda89b37a928dcb
+毎日放送,P2p://starvod.xyz:19806/b376153a7ae3429a8057eae4520f672b
+朝日放送,P2p://starvod.xyz:19806/c30b15deca834941b9deeea3dc875fd7
+テレビ大阪,P2p://starvod.xyz:19806/5b2788b536e848508502b84a6a3653e1
+BS-1,P2p://starvod.xyz:19806/d622742e8efb4b429942aa16a5ef0b4c
+BS日テレ,P2p://starvod.xyz:19806/ac9aad30ea6a4ae7bf9e896b48e1a5c1
+BS朝日,P2p://starvod.xyz:19806/cbc080534bc244febf72df73336b139e
+BS-TBS,P2p://starvod.xyz:19806/3c4a25c647a5482fa389492b37b2e8f8
 BS11,P2p://starvod.xyz:19806/d78d2131aed0465cb02b34c387d6b16a
-BSフジ,P2p://starvod.xyz:19806/d5195f844ae946e59d5653a353ab9460
-WOWOWプライム,P2p://starvod.xyz:19806/4285b71985b4421dbec66ee81064fbcf
-WOWOWライブ,P2p://starvod.xyz:19806/495f9fb91a0d4cf0991cdfd424228505
-WOWOWシネマ,P2p://starvod.xyz:19806/d45064f2fbbe4c2d88d298ffa24a408f
-スター・チャンネル1,P2p://starvod.xyz:19806/0db5e6a0bd31479db3111372355918fd
-BSアニマックス,P2p://starvod.xyz:19806/58007a67ad254def9025e55448bff419
-J Sports 1,P2p://starvod.xyz:19806/44abc7a200dd4e50b8b092f14baebfeb
-J Sports 2,P2p://starvod.xyz:19806/dbbd0a1cf397413b8743236548670f6c
-J Sports 3,P2p://starvod.xyz:19806/d2a45f639698489f88b17a6903e45630
-J Sports 4,P2p://starvod.xyz:19806/3835d0f168f34b01a06a9d8bbbb27a10
-Green Channel,P2p://starvod.xyz:19806/daf19c35061b4d39a3b5efd4d782a920
-ゴルフネットワークHD,P2p://starvod.xyz:19806/cbebe3f802124926a3a17c5c7dce3413
-時代劇専門チャンネル,P2p://starvod.xyz:19806/e90b54eb79fe4dc0922449f4e440d6b5
-Music Japan TV,P2p://starvod.xyz:19806/0e038e39f5144954908e115bb817ca2e
-キッズステーションHD,P2p://starvod.xyz:19806/23a35005c1ca497eb888b77eac5f459b
-ディスカバリーチャンネル,P2p://starvod.xyz:19806/ba98a9caa75b435cabbd132c72c1c291
-ナショナルジオグラフィック,P2p://starvod.xyz:19806/4a5f533766f743b4a98e2ea952245e0d
+BSフジ,P2p://starvod.xyz:19806/3177614c609d429db40f9377c29e7de0
+WOWOWプライム,P2p://starvod.xyz:19806/8c3936e5fabb42b9b8d99ad3ec9ec3a2
+WOWOWライブ,P2p://starvod.xyz:19806/395999af5aea45ebb36f03a01f658d74
+WOWOWシネマ,P2p://starvod.xyz:19806/bb4b93e10062432a830484e398f78484
+スター・チャンネル1,P2p://starvod.xyz:19806/27314946f4514494bee9a4ca9465eb03
+BSアニマックス,P2p://starvod.xyz:19806/fcdf6ef2367844a2b2177b8318c4a3e4
+J Sports 1,P2p://starvod.xyz:19806/1ce4ee35da9e41c6b10b29b2ecfea9f7
+J Sports 2,P2p://starvod.xyz:19806/59ce0e9ed54d4c1e9fb83d6e73738eef
+J Sports 3,P2p://starvod.xyz:19806/79d96d19318f4596b2c14a785b11e6d6
+J Sports 4,P2p://starvod.xyz:19806/77374a63fca04b3aae6c0ccf6dd7166e
+Green Channel,P2p://starvod.xyz:19806/07adc2eabbb34e34a60023ee3a0d97d5
+ゴルフネットワークHD,P2p://starvod.xyz:19806/3c46558c36fa437684b2f4c18defeb46
+時代劇専門チャンネル,P2p://starvod.xyz:19806/e1d26c70128145af8bf787fd41dbee4a
+Music Japan TV,P2p://starvod.xyz:19806/c2c7eed4e40346b38f3d7b28fbb44c61
+キッズステーションHD,P2p://starvod.xyz:19806/b43773ee1e3046a59f93135bd6ce95c8
+ディスカバリーチャンネル,P2p://starvod.xyz:19806/8e82f42c923e4dea95628a15cef59620
+ナショナルジオグラフィック,P2p://starvod.xyz:19806/ea194966cc204e948380676e2f369486
 日テレNEWS 24,P2p://147.135.39.171:9906/6724b127000db1d84c6d488634862dfc
 旅チャンネル,P2p://starvod.xyz:19806/7d7a03deb5b4424dad809fcf07ec87f7
 韩国,#genre#
-Arirang,P2p://starvod.xyz:19806/600a64e27e6b4e87bec25dcd11fc871f
-KBS1,P2p://starvod.xyz:19806/acaa6ec0d1384228a0e87d0b3605f582
-KBS2,P2p://starvod.xyz:19806/291cdc9db497476b945c2e921c82dbe6
-KBS Drama,P2p://starvod.xyz:19806/c8b7df7416094a2f9f05ae04fef83084
-History,P2p://starvod.xyz:19806/22256e86c62d45d4808a3dd0f09e52d8
-SBS,P2p://starvod.xyz:19806/473dba313dd644cd9389a0064ad52528
-SBS Biz,P2p://starvod.xyz:19806/d8afd49922c34ebc8ba5545a4664a6de
-JTBC,P2p://starvod.xyz:19806/83e07ed495574e28a55ea330c781dbff
-EBS,P2p://starvod.xyz:19806/0f89d8cd235649958d9c40b5345c5d3d
-YTN,P2p://starvod.xyz:19806/4004b425c5144fc6a92384918fa9aa52
-Mnet,P2p://starvod.xyz:19806/7eb0c55a98ac4c4fa59952655602ebe2
-OCN,P2p://starvod.xyz:19806/79bcaee808c94cc1bdc2e74f36d51ca1
-TV Chosun,P2p://starvod.xyz:19806/9e0700e5c8ce43e18a8dcec5dda648a1
-MBC,P2p://starvod.xyz:19806/4e752b127afa46f5bcd2392060975f4b
-MBN,P2p://starvod.xyz:19806/df4bf1d5a3fd4d1e8148a976cbf9b0c6
-Tooniverse,P2p://starvod.xyz:19806/b2600c4a7d9e4b56ab7673094d8016fd
-SPOTV,P2p://starvod.xyz:19806/6060f60dfe794355a4001c6a6ba373d2
-JTBC GOLF,P2p://starvod.xyz:19806/138c868d9b224e8dbfa67d9f999b32fb
+Arirang,P2p://starvod.xyz:19806/e57f0c11cb1f41b29405c396a15a8ece
+KBS1,P2p://starvod.xyz:19806/0393e5caba1c49fc8ea30e18f1acc671
+KBS2,P2p://starvod.xyz:19806/7a85a875daa44ac991c795667c9f8d7e
+KBS Drama,P2p://starvod.xyz:19806/09ed2a3f637847af87937dc0467eb74d
+History,P2p://starvod.xyz:19806/bbb79850f09743288be6be208f2a8470
+SBS,P2p://starvod.xyz:19806/0c0fcf479ecb4d028fa445d80a3e35a3
+SBS Biz,P2p://starvod.xyz:19806/06044fb3991c4c928566a72ebc24e9c8
+JTBC,P2p://starvod.xyz:19806/6a88d79bd5174afcb66034750790a2f3
+EBS,P2p://starvod.xyz:19806/997d3ba8fbc945839061a04bd9540934
+YTN,P2p://starvod.xyz:19806/1562060a720144acbdc920b987ca6371
+Mnet,P2p://starvod.xyz:19806/692cd942d79748ce89dcf151650c0389
+OCN,P2p://starvod.xyz:19806/9e64712fef4b41e780168b358487ad05
+TV Chosun,P2p://starvod.xyz:19806/a22d48680f2546afa6f1e30583c3a25a
+MBC,P2p://starvod.xyz:19806/eee065e978d44e28a77227cc8145783f
+MBN,P2p://starvod.xyz:19806/86991df52bca4c0e842f3c9a4815d5c3
+Tooniverse,P2p://starvod.xyz:19806/856744ee8364466f920cd437ae5a65f2
+SPOTV,P2p://starvod.xyz:19806/b7d66d3869dc41f890219b563ab72a7f
+JTBC GOLF,P2p://starvod.xyz:19806/519d5eac0b6a4007838ef0649bbb9a56
 泰国,#genre#
-Channel 5,P2p://starvod.xyz:19806/bda9b2d940084b43b2c89f5409918f10
-NBT,P2p://starvod.xyz:19806/c26c842c610d4b5c9e1d6daf89cb54ef
-TNN 16,P2p://starvod.xyz:19806/aaa59f978a074e5eab8e1d68909548fe
-JKN 18,P2p://starvod.xyz:19806/7944f7973d9f42a38d2685e438b37cea
-Nation TV,P2p://starvod.xyz:19806/f5cdd7ca403c4b14b5a0804e62ca8abe
-Workpoint TV,P2p://starvod.xyz:19806/e95bc5adad2c4e068e94bd902dbebd2e
-true4U,P2p://starvod.xyz:19806/7fcd1d965a024cc58dc313aceb60d79d
-GMM 25,P2p://starvod.xyz:19806/903b018b59bc40d6aa2505eae20c8729
-Channel 8,P2p://starvod.xyz:19806/e0ca1ea39db84021bde823bde68d21b3
-Mono 29,P2p://starvod.xyz:19806/0167af511c2747c4b3dc24ab66861df7
-MCOT,P2p://starvod.xyz:19806/fe49aa8461e64e8286eac0cdee33c3ea
-ONE,P2p://starvod.xyz:19806/54161c49bdbc405681e5d1ce91ccc182
-Thairath TV,P2p://starvod.xyz:19806/0ea0a0a08a474e53849ff94b078134f0
-Channel 3,P2p://starvod.xyz:19806/56ed178f659846fca32dd152d24d9dbd
-Amarin TV,P2p://starvod.xyz:19806/3f3ce2e123d942d4b20e10d576127ce1
-Channel 7,P2p://starvod.xyz:19806/565ee4f9d8574f69867d2e9694a16fc1
-PPTV,P2p://starvod.xyz:19806/2ee32c87866a4a73803602babaad913c
-Thai PBS,P2p://starvod.xyz:19806/41521032acb5461682a04297ad0beb46
-News 1,P2p://starvod.xyz:19806/bd9c0910cc5c419baa4e9b7036cc7caa
-TVB Thai,P2p://starvod.xyz:19806/718e02200aaa4acca4b0bf5728b59870
+Channel 5,P2p://starvod.xyz:19806/ffb289698d524851b96adddea960840c
+NBT,P2p://starvod.xyz:19806/8348bfa50e7d468abc52656a2314de43
+TNN 16,P2p://starvod.xyz:19806/d14897ca2cf44bea83ac554bbb23d07d
+JKN 18,P2p://starvod.xyz:19806/1a8779a19dc647afbd75f6eaf82b3ef4
+Nation TV,P2p://starvod.xyz:19806/c286a12f1070407a956bdd8dc1ad9ee2
+Workpoint TV,P2p://starvod.xyz:19806/ef8092c568cd4d7b9b1c7e64b0e398ac
+true4U,P2p://starvod.xyz:19806/bf9b9fbebf4e4e448082eeda9c36d391
+GMM 25,P2p://starvod.xyz:19806/6554d880071d43bd98af1736624b33a7
+Channel 8,P2p://starvod.xyz:19806/1439cd6678aa4e978d74a1855cf6eef7
+Mono 29,P2p://starvod.xyz:19806/d84578e1a2bf40baa1b7c49b03cff182
+MCOT,P2p://starvod.xyz:19806/9d11dd0a31c94e13941fb9561353999b
+ONE,P2p://starvod.xyz:19806/888ec28084ce4fc2921091dacf57f75d
+Thairath TV,P2p://starvod.xyz:19806/936d4c1beab246a0956651194857b2e7
+Channel 3,P2p://starvod.xyz:19806/94b3ef1ae0b24d04b07f501372f9407a
+Amarin TV,P2p://starvod.xyz:19806/0f4034397a174463af14cebbe7b9aaf1
+Channel 7,P2p://starvod.xyz:19806/b47bb6e71f8a4e27939870a7a176ec34
+PPTV,P2p://starvod.xyz:19806/94ace0b43adb43109d1110df0e1fe831
+Thai PBS,P2p://starvod.xyz:19806/77b948be60d840f9a5c5973d7d4af15f
+News 1,P2p://starvod.xyz:19806/eab37e6ed7304e2f9b8e5c1b86c94b7b
+TVB Thai,P2p://starvod.xyz:19806/25495297220048f6bdbb7ba38722ebf3
 北美,#genre#
-Bloomberg TV,P2p://starvod.xyz:19806/2d3d3948a6d54066bb24731d407c6908
-ESPN,P2p://starvod.xyz:19806/08f1e1f51b0e4bf3a5cb17daaf7558f2
-600TV,P2p://starvod.xyz:19806/61ecbb1610f8429280088cf0950b77e2
-NBA,P2p://starvod.xyz:19806/5cf32fc2a6334a3b9646836169087e46
-新时代1(西部),P2p://starvod.xyz:19806/fa62e4356c5641c5b8c66277520bea57
-新时代2,P2p://starvod.xyz:19806/c27ca2d3935a4bc89f1a19b3e5df7db9
-新时代1(东部),P2p://starvod.xyz:19806/0fbb8bff90534e6d99220babc51bd72e
-城市电视,P2p://starvod.xyz:19806/d71228bb64f34aec90ed474ec32b5d6f
-Fox News,P2p://starvod.xyz:19806/22920c0873da4e9c9371daefe34bf452
-BBC World News,P2p://starvod.xyz:19806/a8a308e792874f3ca31d4e51c6ce2527
-CNN USA,P2p://starvod.xyz:19806/8a44404f14ae416084b7f1667c53b4ff
-CBC News,P2p://starvod.xyz:19806/3a50abafd5c14c47aa5b9a4627b052a6
-MSNBC,P2p://starvod.xyz:19806/4ce41d612523413c80c9967e317762cf
-CTV News,P2p://starvod.xyz:19806/ba39edf3584d4fdd9bdb76b7b92a8731
+Bloomberg TV,P2p://starvod.xyz:19806/712f24e740244820a103847493e77ae8
+ESPN,P2p://starvod.xyz:19806/41db7dbaf6bf412187f30c82d1d5f8c2
+600TV,P2p://starvod.xyz:19806/8e6835572d274da3836dc8a0dfd1d3eb
+NBA,P2p://starvod.xyz:19806/8c639ea13d9d459a901bb2af7037963f
+新时代1(西部),P2p://starvod.xyz:19806/dee5f234ca034ad0b63b7dc3d46fd810
+新时代2,P2p://starvod.xyz:19806/d32dd73816104f77a13e8eb48d9e7fd2
+新时代1(东部),P2p://starvod.xyz:19806/57834b5f0b404db1bda177dfb2dedf7f
+城市电视,P2p://starvod.xyz:19806/5e2f95376297456084d6b9823cfb933f
+Fox News,P2p://starvod.xyz:19806/b347fa544427421cb5291181d4e3e219
+BBC World News,P2p://starvod.xyz:19806/50b4d32d79874853889c37fd53c9e0f3
+CNN USA,P2p://starvod.xyz:19806/8cb563bd2a914e4cb9913f29c5652712
+CBC News,P2p://starvod.xyz:19806/d29892f619784789a71551c0a6042521
+MSNBC,P2p://starvod.xyz:19806/b955d387d74f4e0fbe08cd745d957ba6
+CTV News,P2p://starvod.xyz:19806/a16a952a890c4ee88fbd0ef047c0d002
 Business News Network,P2p://starvod.xyz:19806/7a216e2f25b64869b61d93ac190f23b0
-CP24,P2p://starvod.xyz:19806/2ad6b9dde7b04f53b708ae5c0d5d8a87
-The Weather Network,P2p://starvod.xyz:19806/800e4fbe213749d3911981b05e90526f
-The Weather Channel,P2p://starvod.xyz:19806/9a0c2d8a37664866ba53e144798fab35
-KOMO 4 TV,P2p://starvod.xyz:19806/088477fe19f24a4fb6bae57c252257ef
-CBC Olympic,P2p://starvod.xyz:19806/7d8083aa2eea4c658cfe18be6612760f
+CP24,P2p://starvod.xyz:19806/b8d57c0600494856b2ac460e11ee9cab
+The Weather Network,P2p://starvod.xyz:19806/215d3473963244dda28e6579dca0fc40
+The Weather Channel,P2p://starvod.xyz:19806/f5aabbb3752348629598ef865a4901bd
+KOMO 4 TV,P2p://starvod.xyz:19806/8fab6e2334bc465392ed7cf32f506bc2
+CBC Olympic,P2p://starvod.xyz:19806/ebe7ea083cbd4305a57e44e61ba49806
 新闻,#genre#
-中视新闻台,P2p://starvod.xyz:19806/c4fabeb367b44cf3926454703f69a17a
-寰宇新闻台,P2p://starvod.xyz:19806/52a4ff0cb0f7452f82119dc0b580653d
-华视新闻,P2p://starvod.xyz:19806/c725337b582841a28c53bfab40756111
-NHK新闻资讯台,P2p://starvod.xyz:19806/7ae323b1512f41bdae116a0081de3db0
-无线新闻台(备),P2p://starvod.xyz:19806/d1201eea6f3242f7814bdebe912fb6a7
-无线新闻台,P2p://starvod.xyz:19806/a66874c481794af299aa1226b99cbadb
+中视新闻台,P2p://starvod.xyz:19806/daddc13b4fdb48ed97eb3cff4979c570
+寰宇新闻台,P2p://starvod.xyz:19806/cadbcac691e049b3b0264413a6c24fef
+华视新闻,P2p://starvod.xyz:19806/bec268beeb064f84ad28d2eb07f164e1
+NHK新闻资讯台,P2p://starvod.xyz:19806/d8369af40473434397889cd5c271b3b6
+无线新闻台(备),P2p://starvod.xyz:19806/73007555d75d4f7d86952f03ca2a30ef
+无线新闻台,P2p://starvod.xyz:19806/311b4f8e7844463f9f16cc5e530a6dd4
 CGTN,P2p://147.135.39.171:9906/67401ba5000028f7123586380c484e3a
-BBC World News,P2p://starvod.xyz:19806/afb2542b69eb42f9944956ea02bc8206
-CNBC,P2p://starvod.xyz:19806/f29fcd16e20841a1a34095faf56cbb05
-Bloomberg TV,P2p://starvod.xyz:19806/2d3d3948a6d54066bb24731d407c6908
-CNA,P2p://starvod.xyz:19806/73ad6030035c4d18ae0934becafb4580
-壹电视新闻台,P2p://starvod.xyz:19806/06b92ed63cce422ebaec6757d18b6c61
-东森新闻台,P2p://starvod.xyz:19806/7954fbb364fa4e8eb5d148f0ce27f899
-中天新闻台,P2p://starvod.xyz:19806/5101795d67f342359f9b60be98a6e360
-民视新闻台,P2p://starvod.xyz:19806/e816d53913e84fb78818a5913ab3ba04
-三立新闻台,P2p://starvod.xyz:19806/a1cd648fd7b5443eba7cf43f0da9bc7e
-TVBS新闻台,P2p://starvod.xyz:19806/2d8677ecc37c49819fa2a9a9e663fee5
-东森财经新闻台,P2p://starvod.xyz:19806/361e2ff18be5489d9085014cce64dba7
-非凡新闻台,P2p://starvod.xyz:19806/0464715a85664461bb47ea15ad8b5355
-TNN 16,P2p://starvod.xyz:19806/aaa59f978a074e5eab8e1d68909548fe
-JKN 18,P2p://starvod.xyz:19806/7944f7973d9f42a38d2685e438b37cea
-三立iNEWS,P2p://starvod.xyz:19806/b0b63b81d7bd41e097d1d1c711e786d8
-Sky News,P2p://starvod.xyz:19806/a9fc802bd0504d688b1ebc1b33ffaf11
-Euronews,P2p://starvod.xyz:19806/14833880f61b455fa45f63a7639ae73b
-France24,P2p://starvod.xyz:19806/2b7efe9e4ad942028196deae1cbb81db
-600TV,P2p://starvod.xyz:19806/61ecbb1610f8429280088cf0950b77e2
-非凡商业台,P2p://starvod.xyz:19806/01b2f271b874465699c30992ac8259ed
-Fox News,P2p://starvod.xyz:19806/6740a2b7000777b824bf6cce2fdf25c7
-广州新闻,P2p://starvod.xyz:19806/05ded4130e7a40f6b34dacf8a7e239b4
-ABC Australia,P2p://starvod.xyz:19806/57b60a7de7f34f7faaf1bbaa4a75cca3
-台视新闻台,P2p://starvod.xyz:19806/879a9ce8c43a48f49ed38ad685d7a5bb
-寰宇新闻台湾台,P2p://starvod.xyz:19806/fbf5f4564104482a9504c9ada69ea6e9
-台视财经台,P2p://starvod.xyz:19806/6c06b74ad8ca493fa6c2c05c78e3b545
-CNN,P2p://starvod.xyz:19806/af59ff61a4704baa925bd8318eded77a
-now财经台,P2p://starvod.xyz:19806/b7a2e449c0ea4e558963a5a112fb4756
-镜新闻,P2p://starvod.xyz:19806/e49d9edb1be74375b43138bccc1fd5ed
-now新闻台,P2p://starvod.xyz:19806/30ab8ab546ef4727a5466a2e87a6853f
-Fox News,P2p://starvod.xyz:19806/22920c0873da4e9c9371daefe34bf452
-BBC World News,P2p://starvod.xyz:19806/a8a308e792874f3ca31d4e51c6ce2527
-CNN USA,P2p://starvod.xyz:19806/8a44404f14ae416084b7f1667c53b4ff
-CBC News,P2p://starvod.xyz:19806/3a50abafd5c14c47aa5b9a4627b052a6
-MSNBC,P2p://starvod.xyz:19806/4ce41d612523413c80c9967e317762cf
-CTV News,P2p://starvod.xyz:19806/ba39edf3584d4fdd9bdb76b7b92a8731
+BBC World News,P2p://starvod.xyz:19806/e83e36626974430a8e426edd35ace5f3
+CNBC,P2p://starvod.xyz:19806/8ee887d811ef4fe99906f1a0a26acc93
+Bloomberg TV,P2p://starvod.xyz:19806/712f24e740244820a103847493e77ae8
+CNA,P2p://starvod.xyz:19806/796eca8dc0f94c37b43d78420ed379e6
+壹电视新闻台,P2p://starvod.xyz:19806/7d0175cfd00b434490fadd0669e98c82
+东森新闻台,P2p://starvod.xyz:19806/66292b30096b4454a0f6fd971cf5bf44
+中天新闻台,P2p://starvod.xyz:19806/3d9a34e6a2fc40e994d6c4866d380804
+民视新闻台,P2p://starvod.xyz:19806/926721ae54a84f18a2704749da847df2
+三立新闻台,P2p://starvod.xyz:19806/c24aefac23f1449081118a116630d484
+TVBS新闻台,P2p://starvod.xyz:19806/8d04636e0a7e4a03801641d680b57917
+东森财经新闻台,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
+非凡新闻台,P2p://starvod.xyz:19806/6dd2e2dfddc14417a8e17e09fa560034
+TNN 16,P2p://starvod.xyz:19806/d14897ca2cf44bea83ac554bbb23d07d
+JKN 18,P2p://starvod.xyz:19806/1a8779a19dc647afbd75f6eaf82b3ef4
+三立iNEWS,P2p://starvod.xyz:19806/4adf9f965029490bb58cf8603413c212
+Sky News,P2p://starvod.xyz:19806/bd65bd90cc8a4b4c94ff7f05e93a8752
+Euronews,P2p://starvod.xyz:19806/b83d783e62e54280851f4ce9a7d0b999
+France24,P2p://starvod.xyz:19806/53794c7a8e44448fb9b8463f98eb419a
+600TV,P2p://starvod.xyz:19806/8e6835572d274da3836dc8a0dfd1d3eb
+非凡商业台,P2p://starvod.xyz:19806/ae8ee061dee047da98d4e753e3c31712
+Fox News,P2p://starvod.xyz:19806/22f238c5082a4ba8b7bb1f9d0cf7b8da
+广州新闻,P2p://starvod.xyz:19806/fa252ca3e738423ca06f9d13315a759d
+ABC Australia,P2p://starvod.xyz:19806/6f58c32b75ab424cbc6e4c61c7e474fe
+台视新闻台,P2p://starvod.xyz:19806/08bbe86c8d4148e2b9a58b9d4e1cac4b
+寰宇新闻台湾台,P2p://starvod.xyz:19806/9d323a7c10594e408473082989a087b0
+台视财经台,P2p://starvod.xyz:19806/83dc28880d16492f8be4a34da7ab6537
+CNN,P2p://starvod.xyz:19806/022c83ddd1d74bfebf6b81475af49820
+now财经台,P2p://starvod.xyz:19806/1c0918a85001487cb0c2b0214e5560dd
+镜新闻,P2p://starvod.xyz:19806/1b5e4d624d9c4a06ae73c61d9d354b6b
+now新闻台,P2p://starvod.xyz:19806/6933a4a4e6514a89abaeb70d02b1a712
+Fox News,P2p://starvod.xyz:19806/b347fa544427421cb5291181d4e3e219
+BBC World News,P2p://starvod.xyz:19806/50b4d32d79874853889c37fd53c9e0f3
+CNN USA,P2p://starvod.xyz:19806/8cb563bd2a914e4cb9913f29c5652712
+CBC News,P2p://starvod.xyz:19806/d29892f619784789a71551c0a6042521
+MSNBC,P2p://starvod.xyz:19806/b955d387d74f4e0fbe08cd745d957ba6
+CTV News,P2p://starvod.xyz:19806/a16a952a890c4ee88fbd0ef047c0d002
 Business News Network,P2p://starvod.xyz:19806/7a216e2f25b64869b61d93ac190f23b0
-CP24,P2p://starvod.xyz:19806/2ad6b9dde7b04f53b708ae5c0d5d8a87
-The Weather Network,P2p://starvod.xyz:19806/800e4fbe213749d3911981b05e90526f
-The Weather Channel,P2p://starvod.xyz:19806/9a0c2d8a37664866ba53e144798fab35
-香港国际财经台,P2p://starvod.xyz:19806/25fc1ea0ee6f4da2962c97ac20146863
-年代新闻,P2p://starvod.xyz:19806/fd9796184bb741ef80e20dc404088625
-中天新闻台(备),P2p://starvod.xyz:19806/2e904818dbeb4583b43e3e016a7cf8d9
-东森新闻台(备),P2p://starvod.xyz:19806/a0b6c435056c4071b832f7ce232110ae
+CP24,P2p://starvod.xyz:19806/b8d57c0600494856b2ac460e11ee9cab
+The Weather Network,P2p://starvod.xyz:19806/215d3473963244dda28e6579dca0fc40
+The Weather Channel,P2p://starvod.xyz:19806/f5aabbb3752348629598ef865a4901bd
+香港国际财经台,P2p://starvod.xyz:19806/7a523ec459fd4f6db5f5b16ad3c26666
+年代新闻,P2p://starvod.xyz:19806/57e990049b8e4c27806ae7654afb621c
+中天新闻台(备),P2p://starvod.xyz:19806/e938ce7207b94725920970b72d1db8a5
+东森新闻台(备),P2p://starvod.xyz:19806/ded042b8bc444459b0b2ff357c71c32f
 音乐,#genre#
-Music Japan TV,P2p://starvod.xyz:19806/0e038e39f5144954908e115bb817ca2e
-Mezzo Live,P2p://starvod.xyz:19806/579c60c59cd44a8db25cead2ebcd1daf
-CLASSICA 古典乐,P2p://starvod.xyz:19806/6c795662057d4545ac27e18f809d3bca
-Channel [V],P2p://starvod.xyz:19806/6ad94bee08a8436ab2488e75bf871a08
+Music Japan TV,P2p://starvod.xyz:19806/c2c7eed4e40346b38f3d7b28fbb44c61
+Mezzo Live,P2p://starvod.xyz:19806/69a484234c8a4880bd3977c54743d33e
+CLASSICA 古典乐,P2p://starvod.xyz:19806/2579ea34e7384a3a851e4106db5192a1
+Channel [V],P2p://starvod.xyz:19806/edc83685418a4e4ead0484f13f6439fa
 体育,#genre#
-beIN Sports,P2p://starvod.xyz:19806/a0bab1dbdb354ec99109bd49dee0321b
-CCTV5,P2p://starvod.xyz:19806/c680ec780ff54c4eb1e51253b666f530
-CCTV5+,P2p://starvod.xyz:19806/e0621ccbb3a14ebab8275d7d181b2948
-快乐垂钓,P2p://starvod.xyz:19806/4a29369a5b5444d6b1eb360516cd34f4
-魅力足球,P2p://starvod.xyz:19806/67403d0100002e0323321bf93a4436bb
-新视觉体育,P2p://starvod.xyz:19806/c1a4b5b8b8cb47eba634733dc821c94d
-广东体育,P2p://starvod.xyz:19806/2acfe64553fd41109e24edabf49924c0
-Sky Sports Golf,P2p://starvod.xyz:19806/4162dd771b2048bda649646234354d3b
-Astro Arena 2,P2p://starvod.xyz:19806/2da37af33f0d4f0fb9c685c332a65baa
-Sky Sports Football,P2p://starvod.xyz:19806/77b48513212049cdb6162300c5bee222
-Astro Arena,P2p://starvod.xyz:19806/6c6fbea094b74b2a847fbd9c844101c1
-Astro Premier League,P2p://starvod.xyz:19806/336dda98e688426c91a6a328f3db1661
-Astro Premier League 2,P2p://starvod.xyz:19806/879bc764ea624a12a09ea1ce34c08f0d
-Astro Grandstand,P2p://starvod.xyz:19806/69125085f6cf453e9e7ff163448de51b
-Astro Football,P2p://starvod.xyz:19806/12b65db26e984890bcb99a81cec6de1f
-beIN Sports 3,P2p://starvod.xyz:19806/7fa3195fa8184f93b0b7ebe994aa21ce
-WWE,P2p://starvod.xyz:19806/40c9d6acf787424486bf93e4a0196ba7
-纬来育乐台,P2p://starvod.xyz:19806/3f8d2096eeb34927910142e633e74b3c
-纬来体育台,P2p://starvod.xyz:19806/30a3b2a3966a408baea81859422cf070
-DAZN 1,P2p://starvod.xyz:19806/58405d91a62f498aab4dbe1b22bcdb22
-Z频道,P2p://starvod.xyz:19806/d4c9297b510841e5be2e06f1037d8912
-风云足球,P2p://starvod.xyz:19806/e20d11b8913e4c54a5a4eb33579592d0
-J Sports 1,P2p://starvod.xyz:19806/44abc7a200dd4e50b8b092f14baebfeb
-J Sports 2,P2p://starvod.xyz:19806/dbbd0a1cf397413b8743236548670f6c
-J Sports 3,P2p://starvod.xyz:19806/d2a45f639698489f88b17a6903e45630
-J Sports 4,P2p://starvod.xyz:19806/3835d0f168f34b01a06a9d8bbbb27a10
-Skynet Sports HD,P2p://starvod.xyz:19806/2d08148100fd4813aec63b913afddcba
-Skynet Sports 2,P2p://starvod.xyz:19806/22ce40f824ca434996ce9d744166dc26
-Skynet Sports 5,P2p://starvod.xyz:19806/36e70dd877164ec5a47dc17d7e623ded
-Skynet Sports 6,P2p://starvod.xyz:19806/c6049ac1feaa4e91ad77e1d8cfe0c0f5
-Fight Sports,P2p://starvod.xyz:19806/c00ca72030c7444a910f0817a9bc3e98
-ESPN,P2p://starvod.xyz:19806/08f1e1f51b0e4bf3a5cb17daaf7558f2
-HKC 18,P2p://starvod.xyz:19806/6c5238b068ca4115bbba31d0d3e29fd2
-爱尔达体育1台(备),P2p://starvod.xyz:19806/37c379e252234844aa42f95e9866a959
-爱尔达体育2台,P2p://starvod.xyz:19806/b5d4ef8309684058b3013ff510ae7fc5
-TRACE Sport Stars,P2p://starvod.xyz:19806/81e836eade1442338fe63f679dbcfcde
-博斯高球,P2p://starvod.xyz:19806/20a1ef236547406e8a012f43abb672a5
-博斯高球二台,P2p://starvod.xyz:19806/621564410f8646bd8a443ee42c6f2053
-博斯网球台,P2p://starvod.xyz:19806/34eebcbccfa44763a28afa6f55a64395
-博斯魅力网,P2p://starvod.xyz:19806/3845c54b10aa43dea99f3edd7da7febb
-博斯无限台,P2p://starvod.xyz:19806/882ac6b6dc434433bc775a88053ff3d3
-博斯无限二台,P2p://starvod.xyz:19806/b7e3a978655240d0a5fa2b0d4c7f762b
-SPOTV,P2p://starvod.xyz:19806/afae7193d7e64b9f944cb5f5a2d10894
-博斯运动,P2p://starvod.xyz:19806/f823fb8641af4f9cac59f59529c8fd53
-DAZN 2,P2p://starvod.xyz:19806/b78c4a54a9cf47629cad693ff087331f
-智林体育台,P2p://starvod.xyz:19806/3002f2b00d31470182395bf58242d97d
-博斯运动二台,P2p://starvod.xyz:19806/17e150217d5a46ffbf8e3a37b0845d55
-Eurosport HD,P2p://starvod.xyz:19806/ecb150246417471f9e313154d93b2e93
-FOX Sports,P2p://starvod.xyz:19806/d58e9d589e85466d9604a59152349a2b
-NBA,P2p://starvod.xyz:19806/5cf32fc2a6334a3b9646836169087e46
-beIN Sports 2,P2p://starvod.xyz:19806/d8590775327e4524a13a5b9e177b034a
-爱尔达体育1台,P2p://starvod.xyz:19806/02c482b5dc18454fa60e8cbdc995b1f9
-爱尔达体育3台,P2p://starvod.xyz:19806/df8a12732c4f41a985c78c30524e311a
-爱尔达体育4台,P2p://starvod.xyz:19806/2510822fe6314729aa0475e475abf7fd
-Sky Sports F1,P2p://starvod.xyz:19806/e56ee47fa7aa4a43ac623f3a60b5a555
-Sky Sports Arena,P2p://starvod.xyz:19806/ea71cec146f8497590aa1242a3b67f56
-Sky Sports Main Event,P2p://starvod.xyz:19806/d1c12965b3a543e690849ab5fa5f94f2
-Sky Sports Cricket,P2p://starvod.xyz:19806/95d7cdf9bcdf41c18c22fd6850db3e7d
-Sky Sports Mix,P2p://starvod.xyz:19806/9f5d618901984f9683322cb968bfe8cf
-Golf Channel,P2p://starvod.xyz:19806/fd5fe8249a114b3b95ace8877ffb86d0
-五星体育,P2p://starvod.xyz:19806/9f40a95a3c534f3db49e13576c27fad4
+beIN Sports,P2p://starvod.xyz:19806/61cbf448494144ada3f75f4ab099f128
+CCTV5,P2p://starvod.xyz:19806/75ea87ba60d44befa39571a56cb7c759
+CCTV5+,P2p://starvod.xyz:19806/0287cdee4ad24d9f8ded436cce0b0e0b
+快乐垂钓,P2p://starvod.xyz:19806/a7e27ad037af4ed0a424de1fe4c7bbaa
+魅力足球,P2p://starvod.xyz:19806/50e970cc587c4cb5bb910b1d255bb1d0
+新视觉体育,P2p://starvod.xyz:19806/556b6ade571940f9a5f0f824d93a3b57
+广东体育,P2p://starvod.xyz:19806/a65b1740e49747d6ac675765eb4ee0d2
+Sky Sports Golf,P2p://starvod.xyz:19806/827d1f1c09ec49a9953983650d269f48
+Astro Arena 2,P2p://starvod.xyz:19806/f481b29d428b416190d440987e2783b2
+Sky Sports Football,P2p://starvod.xyz:19806/5e07a457b0664bd2bdb38365cb146d0e
+Astro Arena,P2p://starvod.xyz:19806/812e36d5b4784adda7327bf8924035a2
+Astro Premier League,P2p://starvod.xyz:19806/a5b66fedb9304aa0ab9a6484da8d4fba
+Astro Premier League 2,P2p://starvod.xyz:19806/8c7b103d31434042b04004fb0ba977b2
+Astro Grandstand,P2p://starvod.xyz:19806/7ba22f9bd2594ac5b962fafd9e44035a
+Astro Football,P2p://starvod.xyz:19806/1eed23ce952940969e68e1bb4a97fd50
+beIN Sports 3,P2p://starvod.xyz:19806/8f493633d3c74184a9c1247d669331da
+WWE,P2p://starvod.xyz:19806/c39f543ae00843cc99f05a92e7f05b7b
+纬来育乐台,P2p://starvod.xyz:19806/0210b5121f1b4e84a025f357bfa1e7db
+纬来体育台,P2p://starvod.xyz:19806/cb745d56b29746389196e8a9d70aa713
+DAZN 1,P2p://starvod.xyz:19806/41934b50bf4c4257a8aeeaf3dec9993a
+Z频道,P2p://starvod.xyz:19806/4c5efc113a1e45f981a451621fa850d9
+风云足球,P2p://starvod.xyz:19806/5a2bb8458dbb4f5aaa5af0e1d2c4018e
+J Sports 1,P2p://starvod.xyz:19806/1ce4ee35da9e41c6b10b29b2ecfea9f7
+J Sports 2,P2p://starvod.xyz:19806/59ce0e9ed54d4c1e9fb83d6e73738eef
+J Sports 3,P2p://starvod.xyz:19806/79d96d19318f4596b2c14a785b11e6d6
+J Sports 4,P2p://starvod.xyz:19806/77374a63fca04b3aae6c0ccf6dd7166e
+Skynet Sports HD,P2p://starvod.xyz:19806/f2423695d17b43c789dc3517216dc586
+Skynet Sports 2,P2p://starvod.xyz:19806/bb8e863cab8146f0aced4a59006300e6
+Skynet Sports 5,P2p://starvod.xyz:19806/32e50619124c4ba2843d3681f75a133e
+Skynet Sports 6,P2p://starvod.xyz:19806/4e6ca435766a4ccea003bab7eaca39c9
+Fight Sports,P2p://starvod.xyz:19806/157b2288ec054863ac3449ffe224ccfd
+ESPN,P2p://starvod.xyz:19806/41db7dbaf6bf412187f30c82d1d5f8c2
+HKC 18,P2p://starvod.xyz:19806/35cf3456625848e28bf00522601e88ba
+爱尔达体育1台(备),P2p://starvod.xyz:19806/609def8d0f114476830f4d0fbf9232fa
+爱尔达体育2台,P2p://starvod.xyz:19806/b8016431fa4149bba983243dc1bc93bd
+TRACE Sport Stars,P2p://starvod.xyz:19806/da2cea39b9c5401fb0e667429acb1423
+博斯高球,P2p://starvod.xyz:19806/555435039c85446db7e6a6dd0412139a
+博斯高球二台,P2p://starvod.xyz:19806/78d1bfbf2e694df39fcfd2671732257a
+博斯网球台,P2p://starvod.xyz:19806/5840f4001425418fb95b857be4062c9e
+博斯魅力网,P2p://starvod.xyz:19806/140dc1a23c914b9eaa69a5e59da8d8d6
+博斯无限台,P2p://starvod.xyz:19806/c27117ba47a54497b21a3e87d128d18a
+博斯无限二台,P2p://starvod.xyz:19806/dab27ef8334d45aaa23ed36bf71e0238
+SPOTV,P2p://starvod.xyz:19806/2041f4ee5cec41d79ca86574d3ca30f5
+博斯运动,P2p://starvod.xyz:19806/c35478967e7c482a8b71974e2ea837e8
+DAZN 2,P2p://starvod.xyz:19806/1872d7245447487788babe62db52ee45
+智林体育台,P2p://starvod.xyz:19806/b1f593f9121b47f6afcb7bd48fba64de
+博斯运动二台,P2p://starvod.xyz:19806/76b2c9ef9ffb4a818122bbf843ed1dc1
+Eurosport HD,P2p://starvod.xyz:19806/7f7952b0a583400592c40a007e31e986
+FOX Sports,P2p://starvod.xyz:19806/019b5c498b72441fba6772f07bfc8d82
+NBA,P2p://starvod.xyz:19806/8c639ea13d9d459a901bb2af7037963f
+beIN Sports 2,P2p://starvod.xyz:19806/170089b08d9446eb8a094a043f5f6b40
+爱尔达体育1台,P2p://starvod.xyz:19806/aa5aa81fbe7d4c7daae116a35c321948
+爱尔达体育3台,P2p://starvod.xyz:19806/9e665630abc0455a87e23f321d47af0e
+爱尔达体育4台,P2p://starvod.xyz:19806/8d0b0ffee633497d986144d7d636fe3d
+Sky Sports F1,P2p://starvod.xyz:19806/818a4a80d9de46fa92f3f89955fa0d90
+Sky Sports Arena,P2p://starvod.xyz:19806/c96c06d2e29c4d92b22d56b8f58c6fe5
+Sky Sports Main Event,P2p://starvod.xyz:19806/43f657c4a1e34ae78f6d5fa887eae6dc
+Sky Sports Cricket,P2p://starvod.xyz:19806/a7176e52eacf42b19f7e5e2de2f69dab
+Golf Channel,P2p://starvod.xyz:19806/7447b6d520db49119510134f47206b20
+五星体育,P2p://starvod.xyz:19806/34f5c73f6f4649249cb608ab704d7b1f
 TechStorm,P2p://starvod.xyz:19806/3ecd80281514495bbc4adb297da6fe6a
-Astro Badminton,P2p://starvod.xyz:19806/7382234ebfc74873a2f339699e17c099
-爱尔达体育2台(备),P2p://starvod.xyz:19806/64e8429912474474a4f78017a88b7abc
-爱尔达体育3台(备),P2p://starvod.xyz:19806/d28eb80eb7dc4fe691b4327d7984b7e5
-TSN1,P2p://starvod.xyz:19806/64530cfedb5c4adfa2a8c5c6c8574861
-TSN2,P2p://starvod.xyz:19806/b1e418875f8c4d818d4b21a63c1aafb7
-TSN3,P2p://starvod.xyz:19806/6d1059d617cb444b8dc53215fe606b46
-TSN4,P2p://starvod.xyz:19806/fb3a3d3eab1e4897a31e23d3711f086d
-TSN5,P2p://starvod.xyz:19806/22c3588acd6c4034bd184d03a9e95670
-FOX Sports 2,P2p://starvod.xyz:19806/8af541941d7e45b78fc68c1fd6b3004a
+Astro Badminton,P2p://starvod.xyz:19806/00eda22491524502abda5efdfb7e747f
+爱尔达体育2台(备),P2p://starvod.xyz:19806/0453a412e18545ffa1694fb136335069
+爱尔达体育3台(备),P2p://starvod.xyz:19806/661615a74d454268923b4125bad4195d
+TSN1,P2p://starvod.xyz:19806/9cbef7986bf4437895b228b6df44729d
+TSN2,P2p://starvod.xyz:19806/7f1699723dcb46e58849939621fe2902
+TSN3,P2p://starvod.xyz:19806/fe66582bb0974a85819ee13db9651977
+TSN4,P2p://starvod.xyz:19806/75f0ed71ea08411585675ac49701488b
+TSN5,P2p://starvod.xyz:19806/eb61b5ff758e492bb2605a70df21c922
+FOX Sports 2,P2p://starvod.xyz:19806/019e8f75a1384e1a94819c9e2831c356
 知识,#genre#
-BBC Lifestyle,P2p://starvod.xyz:19806/6be00168ff204724a2e90ac0e5776d4f
-Lifetime,P2p://starvod.xyz:19806/bf267c69754941cab169e38f370a996b
-KLT-靖天国际台,P2p://starvod.xyz:19806/e71f70338fc54d06beed350f6784ed81
-HGTV居家乐活频道,P2p://starvod.xyz:19806/67404d29000bfcbf23713b472f3642f5
-Love Nature,P2p://starvod.xyz:19806/8d5f8fce07b346648e7f5083f10b5cf0
-美食星球,P2p://starvod.xyz:19806/84ef5c4283df4784bb1fb01ba466627f
-亚洲美食频道,P2p://starvod.xyz:19806/8e79d973d3cc46c0984d7710bd7f8677
-亚洲旅游台,P2p://starvod.xyz:19806/8947b18c8a3e43249a05817840e71049
-EYE TV旅游台,P2p://starvod.xyz:19806/fdc32e24ae824449aca65043435a72e5
-CCTV9,P2p://starvod.xyz:19806/6432e45689f44151ad3e783f66f0ce75
-探索频道,P2p://starvod.xyz:19806/0114387eb4ff442eb7bf650fb87e5ac7
-TLC旅游生活,P2p://starvod.xyz:19806/185bd5201e774858a0111560082db07b
-动物星球,P2p://starvod.xyz:19806/68b6ed5382b84c7e9fe6f412174f506c
-ELTV生活英语台,P2p://starvod.xyz:19806/9578e78d85304ad692a5463e76b5e830
-BBC Earth,P2p://starvod.xyz:19806/4c1787f2c8fa4b7eb12a492b55eef37b
-Discovery Asia,P2p://starvod.xyz:19806/ad1c8a9c17094acdaa2b4ba81d82a1e8
-Discovery科学频道,P2p://starvod.xyz:19806/ddbf07a5349c4273809f63824771e212
-DMAX,P2p://starvod.xyz:19806/1630c9fe054343c993c8f934a27604f2
-EVE,P2p://starvod.xyz:19806/ef743b41cc2c4381821f0df839db8b47
-历史频道,P2p://starvod.xyz:19806/14fe755fa76042dcb78b036004806cb2
-罪案侦缉频道,P2p://starvod.xyz:19806/207f68a4fd0142a3851c3f943aa4556c
+BBC Lifestyle,P2p://starvod.xyz:19806/27347d1bc804406482a87d2bab2669c9
+Lifetime,P2p://starvod.xyz:19806/aa88bec22a9c492285d5767d3d18ad16
+KLT-靖天国际台,P2p://starvod.xyz:19806/8d39d7cfe6d74224bc839477118b0675
+HGTV居家乐活频道,P2p://starvod.xyz:19806/757d2271d10a46eba1301b5883f27cff
+Love Nature,P2p://starvod.xyz:19806/d624948eccc54d84895767aaf7fda7e7
+美食星球,P2p://starvod.xyz:19806/810a4aeb30374147bb7c8c34ad663d2c
+亚洲美食频道,P2p://starvod.xyz:19806/599768848e21404ea43b2e2687427383
+亚洲旅游台,P2p://starvod.xyz:19806/9655708b3d9b449c8d5ade6b2aa430db
+EYE TV旅游台,P2p://starvod.xyz:19806/df2b42398f4043edba6e11ab10e2d837
+CCTV9,P2p://starvod.xyz:19806/f739319fda194167867fdfce3f5bc0c0
+探索频道,P2p://starvod.xyz:19806/6bf686a8e3514b75b38fe7a4dbb813af
+TLC旅游生活,P2p://starvod.xyz:19806/2505b704672a424aa9355f15c11e7596
+动物星球,P2p://starvod.xyz:19806/e1b236b5a086437e9c190716425bd94e
+ELTV生活英语台,P2p://starvod.xyz:19806/961fbccf107640299c0d771384d72203
+BBC Earth,P2p://starvod.xyz:19806/3971cd0f3c7a4e8f8cf180a28c32db74
+Discovery Asia,P2p://starvod.xyz:19806/d07aa520d12d4998acf7f0483453fd94
+Discovery科学频道,P2p://starvod.xyz:19806/568dd96a990d41eb882e444e886548ad
+DMAX,P2p://starvod.xyz:19806/3609a24123ad423aa2af1149262a0334
+EVE,P2p://starvod.xyz:19806/a793ed8cc9d947be8e27bcf870747daa
+历史频道,P2p://starvod.xyz:19806/af5f9d7165964b1396cae33aa32e8371
+罪案侦缉频道,P2p://starvod.xyz:19806/e7ee71b7e20b41f0bedd86fb81ca3c69
 儿少,#genre#
-CCTV14,P2p://starvod.xyz:19806/f52d68e9411b433ca7bf0a2c305ec0a8
-达文西频道,P2p://starvod.xyz:19806/39f52db815944fb5b710d43ac22c2be7
-CN卡通频道,P2p://starvod.xyz:19806/6bcb86ec8518457bba89c19283c2b929
-MOMO亲子台,P2p://starvod.xyz:19806/7fe32a4efe7c46008d320434ca22ebd7
-Astro Ceria,P2p://starvod.xyz:19806/46e55b6ce85647d5996810d24e71916a
-Boomerang,P2p://starvod.xyz:19806/ff9e043016c2480aad5de16fc7a7cf15
-Animax,P2p://starvod.xyz:19806/9230a656fd6245adbd2f74e9498e6d0c
-尼克儿童频道,P2p://starvod.xyz:19806/619967c39165486d9c43cac7632be0c8
-靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/b0de3ee659e748058943003ed12aa674
+CCTV14,P2p://starvod.xyz:19806/78ca5fe33cbd44b6853f6ecb15b7b9e9
+达文西频道,P2p://starvod.xyz:19806/856e50e9a7c249c0b3829cc952d7a04e
+CN卡通频道,P2p://starvod.xyz:19806/7bb3d3e11e994c76a04b865e0aa939c1
+MOMO亲子台,P2p://starvod.xyz:19806/b5c3d6a78d3e4d1c9d55bc898c06c297
+Astro Ceria,P2p://starvod.xyz:19806/555e31688aa14801bbfe82eba4c2547b
+Boomerang,P2p://starvod.xyz:19806/5e53fa85030546de928bae0d6fb2e495
+Animax,P2p://starvod.xyz:19806/0010b46e0a6f44ac9cfcd38d8a5c4051
+尼克儿童频道,P2p://starvod.xyz:19806/6338ff418737400890c8ed76771b23e7
+靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/cea23629d2be4b57a0a6bd7bd41cef25
 靖天卡通台,P2p://starvod.xyz:19806/0198c0e2e5364fa2a1b7505b3b88d52d
-Nick Jr.,P2p://starvod.xyz:19806/6c9e4d4d1f424ab58037f4d605c57fa4
-SUPER Kids,P2p://starvod.xyz:19806/1b634eb546ad4513bd6f84a0d179920e
+Nick Jr.,P2p://starvod.xyz:19806/0f5b1be36f394e1faf807e113b0d1d5e
+SUPER Kids,P2p://starvod.xyz:19806/d4c220d6cdf140678603378ca48cf050
 电影,#genre#
-CCTV6,P2p://starvod.xyz:19806/4d59650a21c74de69b6d9029c90b938a
-美亚电影台HD,P2p://starvod.xyz:19806/d1175643ed8547a089ff04eac30f8fb7
-龙华电影,P2p://starvod.xyz:19806/49aa099e0d6e4acda17fd7b4b21180f8
-Smart知识台,P2p://starvod.xyz:19806/1c881a6eefb04834b843098c7beab57e
-靖天映画,P2p://starvod.xyz:19806/02d53d73f3f448209ad9ef894e306701
-靖天电影台,P2p://starvod.xyz:19806/25482b37459944f4b17ca4415dc6598b
-WARNER TV,P2p://starvod.xyz:19806/037cd313675943049373c7e16318e669
-amc电影台,P2p://starvod.xyz:19806/cd374528271b481b93d5f946ad801284
-HBO Family,P2p://starvod.xyz:19806/741fb45c3c3c45ee9342501a46b3fa03
-CatchPlay电影台,P2p://starvod.xyz:19806/f92ea797a53d413787bdcd14e6eb184b
-CinemaWorld,P2p://starvod.xyz:19806/c15af256226347ac889af4ad329958f1
-壹电视电影台,P2p://starvod.xyz:19806/423c530a8d8e406b9e5ff5f84bb4717a
-采昌影剧台,P2p://starvod.xyz:19806/99653a96f1c24099aebcd1e5eea8bb34
-天映频道,P2p://starvod.xyz:19806/de35dcefd74244ae9bbbb83566d6222c
-天映经典,P2p://starvod.xyz:19806/1f10286d7bb14bcda455836cb9e4c5e9
-tvN Movies HD,P2p://starvod.xyz:19806/32516a348c3c4adfa5122d975368efa6
-私人影院,P2p://starvod.xyz:19806/e470af6cc237474192f90c44042d46dc
-东森电影台,P2p://starvod.xyz:19806/6ea3540369244d86a78a408fab7734de
-纬来电影台,P2p://starvod.xyz:19806/8d1e10e984d4494aab703ac006faf941
-龙祥电影,P2p://starvod.xyz:19806/a4cf0bd50e0e4c399cf5bc7f10d8b147
-HBO,P2p://starvod.xyz:19806/56bf3141615743a5b55585b4413790dd
-东森洋片台,P2p://starvod.xyz:19806/c96fcc121115445bbcb115f24d2a0a1a
-AXN,P2p://starvod.xyz:19806/fccae3ecae554287914ba7bd8b09e3c7
-好莱坞电影台,P2p://starvod.xyz:19806/b64cbaff0f5148d4a83e5001f023bd79
-CINEMAX,P2p://starvod.xyz:19806/5be82fe8dd954f35a6fa4f85e9c32b95
+CCTV6,P2p://starvod.xyz:19806/312db12514924cde944294871e5a7cf0
+美亚电影台HD,P2p://starvod.xyz:19806/c160feecc40d442b8ab7d78e36fa32bd
+龙华电影,P2p://starvod.xyz:19806/dee6cc2dcb05467490c3ea5fa5335f6b
+Smart知识台,P2p://starvod.xyz:19806/7011a97983e74739a72c0b5259dd62a7
+靖天映画,P2p://starvod.xyz:19806/d7458b40801b4e09b10863b4e5b738c6
+靖天电影台,P2p://starvod.xyz:19806/84b05eb1eedd4403adf456b9f21e10cc
+WARNER TV,P2p://starvod.xyz:19806/beac9d55fe9e4cde8c311c1f4ddc9722
+amc电影台,P2p://starvod.xyz:19806/b1a9ce70773442a09a7d48086cc87c36
+HBO Family,P2p://starvod.xyz:19806/550a15f859854dde86c5e0eb8f59aab6
+CatchPlay电影台,P2p://starvod.xyz:19806/35ccbbfe058f49d8a8797b8626751283
+CinemaWorld,P2p://starvod.xyz:19806/d99fc28633cc48abb18753c7b669b35d
+壹电视电影台,P2p://starvod.xyz:19806/0651dd087dde4e379add5f6e4e508f7c
+采昌影剧台,P2p://starvod.xyz:19806/826843b6efa4482f8dfbf23f0c46403e
+天映频道,P2p://starvod.xyz:19806/d42eb59a701444d8b0d804f475682092
+天映经典,P2p://starvod.xyz:19806/103e7ffb39794fc0b2b15f6bb2b0051d
+tvN Movies HD,P2p://starvod.xyz:19806/f400835a12764b11be20a0702c661a1b
+私人影院,P2p://starvod.xyz:19806/3c441307542940208f361c935501e643
+东森电影台,P2p://starvod.xyz:19806/b59a828c6615442f8e84a92f98f2a639
+纬来电影台,P2p://starvod.xyz:19806/1fe860684a4a4bdba10241a0d875cec2
+龙祥电影,P2p://starvod.xyz:19806/28d63cf498464e80b5878ccf7c27f9ed
+HBO,P2p://starvod.xyz:19806/8001ad8f9cef4014b5a42c3565b94d5a
+东森洋片台,P2p://starvod.xyz:19806/a1cff1d8503f49dfbc5c69dbbe56ac3d
+AXN,P2p://starvod.xyz:19806/24b68d9ea90c45f0bb479d94a6cd864a
+好莱坞电影台,P2p://starvod.xyz:19806/d8cb07c40ca0491a8df79a4ff8d8f240
+CINEMAX,P2p://starvod.xyz:19806/a42505fa7901405f9840d25bf596f626
 HBO强档巨献,P2p://starvod.xyz:19806/0e1f3763c81b4129abbe07590c4c8e17
 HBO原创巨献,P2p://starvod.xyz:19806/d99641dc9e24460ab5209a760947b893
-BOO,P2p://starvod.xyz:19806/040d9d48c4964e4088dd073a6c71c25b
-Thrill,P2p://starvod.xyz:19806/f53f968579c1414ba1eb7c5f3eb775dc
-HITS Movies,P2p://starvod.xyz:19806/e55c2251c67b48d0a69e2b8da225e4e8
-影迷数位电影台,P2p://starvod.xyz:19806/d613d16093fa446382be58edde88eeba
-美亚电影台(粤语),P2p://starvod.xyz:19806/6515a7376fd64cadb0e420fce5699870
-CHC动作电影,P2p://starvod.xyz:19806/d6ba9841c8cc4447b529627c683d97e3
-CHC高清电影,P2p://starvod.xyz:19806/506c22b29f21447faf2da37aebcaeabd
-CHC家庭影院,P2p://starvod.xyz:19806/757359b5a8df43f3b8a8ffa9335517f9
-MOViE MOViE,P2p://starvod.xyz:19806/ed518ce71ed449fb9ea53ce1c9f0c564
+BOO,P2p://starvod.xyz:19806/af177f79c24440c5b22a1982240fc9a3
+Thrill,P2p://starvod.xyz:19806/223c78877367436a917585523b400765
+HITS Movies,P2p://starvod.xyz:19806/953cb313c8ac49a7a55fd9873597f455
+影迷数位电影台,P2p://starvod.xyz:19806/fef728c9e1c548e2ac126b37cda494b1
+美亚电影台(粤语),P2p://starvod.xyz:19806/96d0682c8ff847729b749930385aa521
+CHC动作电影,P2p://starvod.xyz:19806/f26cea79629640ab93ea728d6fbcf383
+CHC高清电影,P2p://starvod.xyz:19806/78bcfd70e99742caa9cbe9a5d0068a30
+CHC家庭影院,P2p://starvod.xyz:19806/fa9f578c3c094a1b9a17102f1889fadf
+MOViE MOViE,P2p://starvod.xyz:19806/43c03c874cfd4cf5bbf31ed09e31f30f
 戏剧,#genre#
-三立戏剧台,P2p://starvod.xyz:19806/f16f8870bf0a439f9c67baee200b2066
-龙华戏剧,P2p://starvod.xyz:19806/5498586f87cf4e28a2e02f3349536bf9
-靖天戏剧台,P2p://starvod.xyz:19806/d545395a5309407a9c9e06aefc7273d1
-靖洋戏剧台,P2p://starvod.xyz:19806/f6e466bc96234d1e9633c10ff0f8bc42
-东森戏剧台,P2p://starvod.xyz:19806/cbe5f31727e84388807399c889aad1d3
-八大戏剧台,P2p://starvod.xyz:19806/62e59596c15a4e92a9b8c1c91e53a103
-纬来戏剧台,P2p://starvod.xyz:19806/2396ccb765774068bf00937cb2fd7bc8
-深圳电视剧,P2p://starvod.xyz:19806/5d4912a1925749e386720076372ead5d
-EYE TV戏剧台,P2p://starvod.xyz:19806/be468864a87a45d5b5427d2dd44022c1
-爱尔达影剧台,P2p://starvod.xyz:19806/219618e8e4864ea3bc02e066a53e77d5
-亚洲剧台,P2p://starvod.xyz:19806/1f266b46f7244970898dcf1315dc0080
+三立戏剧台,P2p://starvod.xyz:19806/77b3538a8215427497b3129f4373b81d
+龙华戏剧,P2p://starvod.xyz:19806/d194f3a991764a108841750dc81457ef
+靖天戏剧台,P2p://starvod.xyz:19806/4228fbd2137245b88e3d7062f2558322
+靖洋戏剧台,P2p://starvod.xyz:19806/515748f902854ef59250c303ebbdec12
+东森戏剧台,P2p://starvod.xyz:19806/3ec8e0d8b6404523951bb824aefa1e30
+八大戏剧台,P2p://starvod.xyz:19806/5831732de21640f68bf8dcb35e4fc6b6
+纬来戏剧台,P2p://starvod.xyz:19806/50b222848a47400098b820c6fa619abd
+深圳电视剧,P2p://starvod.xyz:19806/23fd527ab5484a22b456efeb613defd1
+EYE TV戏剧台,P2p://starvod.xyz:19806/48d5552976144f7c8d43075cbb55f0fe
+爱尔达影剧台,P2p://starvod.xyz:19806/2c2af02e0d5a4fdab3e93a55baf0cf48
+亚洲剧台,P2p://starvod.xyz:19806/623350e53f034ed28ff3cf504379d104
+
 
 
 
@@ -6591,6 +6828,7 @@ TechStorm,https://pxtv.koyeb.app/4gtv/181
 智林體育台,https://pxtv.koyeb.app/litv/4gtv-4gtv101
 TraceSports,https://pxtv.koyeb.app/litv/4gtv-4gtv077
 
+
 央视,#genre#
 CCTV 1,https://pxtv.koyeb.app/itv/wasusyt/6000000001000029752
 CCTV 1 50 FPS,https://pxtv.koyeb.app/itv/bestzb/5000000004000002226
@@ -6794,208 +7032,109 @@ iHOT 爱悬疑,https://pxtv.koyeb.app/itv/wasusyt/6000000006000050630
 iHOT 爱幼教,https://pxtv.koyeb.app/itv/wasusyt/6000000006000180630
 iHOT 爱院线,https://pxtv.koyeb.app/itv/wasusyt/6000000006000030630
 
+
 央视A,#genre#
-CCTV1,https://aio.koyeb.app/tptv/G_CCTV-1-AVS-4K264.m3u8
-cctv2,https://aio.koyeb.app/tptv/G_CCTV-2-HD-265-8M.m3u8
-cctv3,https://aio.koyeb.app/tptv/G_CCTV-3-AVS-4K264.m3u8
-cctv4,https://aio.koyeb.app/tptv/G_CCTV-4-HD-265-8M.m3u8
-cctv5,https://aio.koyeb.app/tptv/G_CCTV-5-AVS-4K264.m3u8
-cctv5+,https://aio.koyeb.app/tptv/G_CCTV-5PLUS-HD-265-8M.m3u8
-cctv6,https://aio.koyeb.app/tptv/G_CCTV-6-AVS-4K264.m3u8
-CCTV7,https://aio.koyeb.app/tptv/G_CCTV-7-HD-265-8M.m3u8
-cctv8,https://aio.koyeb.app/tptv/G_CCTV-8-AVS-4K264.m3u8
-cctv9,https://aio.koyeb.app/tptv/G_CCTV-9-HQ.m3u8
-cctv10,https://aio.koyeb.app/tptv/G_CCTV-10-HD-265-8M.m3u8
-cctv11,https://aio.koyeb.app/tptv/H265-5500k-1080P-cctv11.m3u8
-cctv12,https://aio.koyeb.app/tptv/G_CCTV-12-HD-265-8M.m3u8
-cctv13,https://aio.koyeb.app/tptv/G_CCTV-13-HQ.m3u8
-cctv14,https://aio.koyeb.app/tptv/G_CCTV-14-CQ.m3u8
-cctv15,https://aio.koyeb.app/tptv/H265-5500k-1080P-cctv15.m3u8
-cctv16,https://aio.koyeb.app/tptv/G_CCTV-16-CQ.m3u8
-cctv16,https://aio.koyeb.app/tptv/G_CCTV-16-4K.m3u8
-cctv17,https://aio.koyeb.app/tptv/G_CCTV-17-CQ.m3u8
-cctv4k,https://aio.koyeb.app/tptv/G_CCTV-4K-HD.m3u8
-世界地理,https://aio.koyeb.app/tptv/G_SHIJIEDL-CQ.m3u8
-风云剧场,https://aio.koyeb.app/tptv/G_FENGYUNJC-CQ.m3u8
-风云足球,https://aio.koyeb.app/tptv/G_FENGSHANGZQ-CQ.m3u8
-风云音乐,https://aio.koyeb.app/tptv/G_FENGYUNYY-CQ.m3u8
-兵器科技,https://aio.koyeb.app/tptv/G_BINGQIKJ-CQ.m3u8
-央视台球,https://aio.koyeb.app/tptv/G_TAIQIU-CQ.m3u8
-高尔夫网球,https://aio.koyeb.app/tptv/G_CCTV-GOLF-CQ.m3u8
-女性时尚,https://aio.koyeb.app/tptv/G_NVXINGSS-CQ.m3u8
-电视指南,https://aio.koyeb.app/tptv/G_DIANSHIZN-CQ.m3u8
-第一剧场,https://aio.koyeb.app/tptv/G_DIYIJC-CQ.m3u8
-怀旧剧场,https://aio.koyeb.app/tptv/G_HUAIJIUJC-CQ.m3u8
-央视文化精品,https://aio.koyeb.app/tptv/G_CCTV-WENHUA-CQ.m3u8
+CQ.m3u8
+cctv15,http://aio.koyeb.app/tptv/H265-5500k-1080P-cctv15.m3u8
+cctv16,http://aio.koyeb.app/tptv/G_CCTV-16-CQ.m3u8
+cctv16,http://aio.koyeb.app/tptv/G_CCTV-16-4K.m3u8
+cctv17,http://aio.koyeb.app/tptv/G_CCTV-17-CQ.m3u8
+cctv4k,http://aio.koyeb.app/tptv/G_CCTV-4K-HD.m3u8
+世界地理,http://aio.koyeb.app/tptv/G_SHIJIEDL-CQ.m3u8
+风云剧场,http://aio.koyeb.app/tptv/G_FENGYUNJC-CQ.m3u8
+风云足球,http://aio.koyeb.app/tptv/G_FENGSHANGZQ-CQ.m3u8
+风云音乐,http://aio.koyeb.app/tptv/G_FENGYUNYY-CQ.m3u8
+兵器科技,http://aio.koyeb.app/tptv/G_BINGQIKJ-CQ.m3u8
+央视台球,http://aio.koyeb.app/tptv/G_TAIQIU-CQ.m3u8
+高尔夫网球,http://aio.koyeb.app/tptv/G_CCTV-GOLF-CQ.m3u8
+女性时尚,http://aio.koyeb.app/tptv/G_NVXINGSS-CQ.m3u8
+电视指南,http://aio.koyeb.app/tptv/G_DIANSHIZN-CQ.m3u8
+第一剧场,http://aio.koyeb.app/tptv/G_DIYIJC-CQ.m3u8
+怀旧剧场,http://aio.koyeb.app/tptv/G_HUAIJIUJC-CQ.m3u8
+央视文化精品,http://aio.koyeb.app/tptv/G_CCTV-WENHUA-CQ.m3u8
+
 
 其他A,#genre#
-CETV早期教育,https://aio.koyeb.app/tptv/G_CETV-ZQJY-CQ.m3u8
-纯享4K,https://aio.koyeb.app/tptv/HD-20M-2160P-chunxiang4k.m3u8
-4k超高清,https://aio.koyeb.app/tptv/miguaoyun01-AVS-4K01.m3u8
-睛彩篮球,https://aio.koyeb.app/tptv/HD-8000k-1080P-miguaoyun1.m3u8
-4k超高清,https://aio.koyeb.app/tptv/miguaoyun1-AVS.m3u8
-睛彩竞技,https://aio.koyeb.app/tptv/HD-8000k-1080P-miguaoyun2.m3u8
-H睛彩中原,https://aio.koyeb.app/tptv/HD-8000k-1080P-quanminrl.m3u8
-黑莓电影,https://aio.koyeb.app/tptv/HD-8000k-1080P-Supermovie.m3u8
-南京新闻综合,https://aio.koyeb.app/tptv/G_NJXW.m3u8
-南京影视,https://aio.koyeb.app/tptv/G_NJYS.m3u8
-南京少儿,https://aio.koyeb.app/tptv/G_NJSE.m3u8
-南京生活,https://aio.koyeb.app/tptv/G_NJSH.m3u8
-南京信息,https://aio.koyeb.app/tptv/G_NJXX.m3u8
-南京娱乐,https://aio.koyeb.app/tptv/G_NJYL.m3u8
-南京教科,https://aio.koyeb.app/tptv/G_NJJK.m3u8
-南京十八,https://aio.koyeb.app/tptv/G_NJSB.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzxwzh.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzjjsh.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzwyys.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzgg.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/G_XZXYTV-3.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzpxxwzh.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzpxzy.m3u8
-徐州电视台,https://aio.koyeb.app/tptv/xzpxsh.m3u8
-常州新闻,https://aio.koyeb.app/tptv/jsczxinwen.m3u8
-常州都市,https://aio.koyeb.app/tptv/jsczdushi.m3u8
-常州生活,https://aio.koyeb.app/tptv/jsczshenghuo.m3u8
-常州公共,https://aio.koyeb.app/tptv/jsczgonggong.m3u8
-睢宁综合,https://aio.koyeb.app/tptv/xzsnzh.m3u8
-睢宁资讯,https://aio.koyeb.app/tptv/xzsnzx.m3u8
-睢宁三农,https://aio.koyeb.app/tptv/xzsnsn.m3u8
-南通电视台,https://aio.koyeb.app/tptv/jsntyitao.m3u8
-南通电视台,https://aio.koyeb.app/tptv/jsntertao.m3u8
-伊春公共,https://aio.koyeb.app/tptv/jsntsantao.m3u8
-镇江新闻综合,https://aio.koyeb.app/tptv/G_ZHENJIANGTV-1.m3u8
-镇江新闻综合,https://aio.koyeb.app/tptv/G_ZHENJIANGTV-2.m3u8
-镇江新闻综合,https://aio.koyeb.app/tptv/G_ZHENJIANGTV-3.m3u8
-宿豫综合,https://aio.koyeb.app/tptv/G_SQZH.m3u8
-宿豫综合,https://aio.koyeb.app/tptv/G_SQGG.m3u8
-未知频道,https://aio.koyeb.app/tptv/pzzonghe.m3u8
-未知频道,https://aio.koyeb.app/tptv/pzzongyi.m3u8
-赣榆电视台,https://aio.koyeb.app/tptv/HD-2500k-1080P-ganyutv.m3u8
-IHOT爱猎奇,https://aio.koyeb.app/tptv/cos-liebing.m3u8
-四川叙永,https://aio.koyeb.app/tptv/cos-yonganmeng.m3u8
-bestv青春动漫,https://aio.koyeb.app/tptv/manchangdjj.m3u8
-梦幻,https://aio.koyeb.app/tptv/mengzhongdnph.m3u8
-未知频道,https://aio.koyeb.app/tptv/fanhua.m3u8
-庆元电视台,https://aio.koyeb.app/tptv/zhifouzf.m3u8
-百姓生活,https://aio.koyeb.app/tptv/baixingsh.m3u8
-NEWTV黑莓动画,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-htwy.m3u8
-未知频道,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-wenxin.m3u8
-未知频道,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-fbdry.m3u8
-未知频道,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-fczx.m3u8
-Astro小太阳,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-xiaorizi.m3u8
-未知频道,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-xxnwnw.m3u8
-未知频道,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-dncss.m3u8
-梨园,https://aio.koyeb.app/tptv/COSHD-4000k-1080P-lyjdhc.m3u8
-IPTV影视剧,https://aio.koyeb.app/tptv/GITV-JS-1.m3u8
-cctv-第一剧场,https://aio.koyeb.app/tptv/GITV-JS-2.m3u8
-HGTV居家乐活,https://aio.koyeb.app/tptv/GITV-JS-4.m3u8
-电视剧频道,https://aio.koyeb.app/tptv/GITV-JS-6.m3u8
-[TW-II]503戲劇二台,https://aio.koyeb.app/tptv/GITV-JS-7.m3u8
-DW德国之声,https://aio.koyeb.app/tptv/GITV-JS-9.m3u8
-NEWTV熊猫生活,https://aio.koyeb.app/tptv/GITV-JS-10.m3u8
-newtv超级体育,https://aio.koyeb.app/tptv/GITV-JS-11.m3u8
-小猪佩奇,https://aio.koyeb.app/tptv/GITV-JS-12.m3u8
-贾汪新闻,https://aio.koyeb.app/tptv/GITV-JS-13.m3u8
-4k超高清,https://aio.koyeb.app/tptv/GITV-JS-14.m3u8
-中国乡村之声,https://aio.koyeb.app/tptv/GITV-JS-15.m3u8
-热门综艺高清专区,https://aio.koyeb.app/tptv/GITV-JS-16.m3u8
-ASIANFOODNETWORK亚洲美食,https://aio.koyeb.app/tptv/GITV-JS-17.m3u8
-爱自然,https://aio.koyeb.app/tptv/GITV-JS-18.m3u8
-动物世界,https://aio.koyeb.app/tptv/GITV-JS-19.m3u8
-书画,https://aio.koyeb.app/tptv/GITV-JS-20.m3u8
-MOMO亲子,https://aio.koyeb.app/tptv/GITV-JS-21.m3u8
-晴彩广场舞,https://aio.koyeb.app/tptv/GITV-JS-22.m3u8
-CCTV-11戏曲,https://aio.koyeb.app/tptv/GITV-JS-23.m3u8
-IPTV相声小品,https://aio.koyeb.app/tptv/GITV-JS-24.m3u8
-bestv青春动漫,https://aio.koyeb.app/tptv/GITV-JS-25.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-26.m3u8
-NEWTV完美游戏,https://aio.koyeb.app/tptv/GITV-JS-27.m3u8
-哈尔滨娱乐A,https://aio.koyeb.app/tptv/GITV-JS-28.m3u8
-CCTV-7军事,https://aio.koyeb.app/tptv/GITV-JS-29.m3u8
-IHOT爱科幻,https://aio.koyeb.app/tptv/GITV-JS-30.m3u8
-NICKELODEONASIA(尼克儿童),https://aio.koyeb.app/tptv/GITV-JS-31.m3u8
-纪录片,https://aio.koyeb.app/tptv/GITV-JS-32.m3u8
-cctv15音乐,https://aio.koyeb.app/tptv/GITV-JS-33.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-34.m3u8
-BTV体育休闲,https://aio.koyeb.app/tptv/GITV-JS-35.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-36.m3u8
-cctv-怀旧剧场,https://aio.koyeb.app/tptv/GITV-JS-37.m3u8
-cctv-电视指南,https://aio.koyeb.app/tptv/GITV-JS-39.m3u8
-AKC狗狗宠物,https://aio.koyeb.app/tptv/GITV-JS-40.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-41.m3u8
-021新唐人亞太台,https://aio.koyeb.app/tptv/GITV-JS-42.m3u8
-bestv全球大片,https://aio.koyeb.app/tptv/GITV-JS-43.m3u8
-NewTV山东,https://aio.koyeb.app/tptv/GITV-JS-44.m3u8
-冰火,https://aio.koyeb.app/tptv/GITV-JS-45.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-46.m3u8
-newtv炫舞未来,https://aio.koyeb.app/tptv/GITV-JS-47.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-48.m3u8
-Astro小太阳,https://aio.koyeb.app/tptv/GITV-JS-49.m3u8
-未知频道,https://aio.koyeb.app/tptv/GITV-JS-50.m3u8
+IHOT爱科幻,http://aio.koyeb.app/tptv/GITV-JS-30.m3u8
+NICKELODEONASIA(尼克儿童),http://aio.koyeb.app/tptv/GITV-JS-31.m3u8
+纪录片,http://aio.koyeb.app/tptv/GITV-JS-32.m3u8
+cctv15音乐,http://aio.koyeb.app/tptv/GITV-JS-33.m3u8
+未知频道,http://aio.koyeb.app/tptv/GITV-JS-34.m3u8
+BTV体育休闲,http://aio.koyeb.app/tptv/GITV-JS-35.m3u8
+未知频道,http://aio.koyeb.app/tptv/GITV-JS-36.m3u8
+cctv-怀旧剧场,http://aio.koyeb.app/tptv/GITV-JS-37.m3u8
+cctv-电视指南,http://aio.koyeb.app/tptv/GITV-JS-39.m3u8
+AKC狗狗宠物,http://aio.koyeb.app/tptv/GITV-JS-40.m3u8
+未知频道,http://aio.koyeb.app/tptv/GITV-JS-41.m3u8
+021新唐人亞太台,http://aio.koyeb.app/tptv/GITV-JS-42.m3u8
+bestv全球大片,http://aio.koyeb.app/tptv/GITV-JS-43.m3u8
+NewTV山东,http://aio.koyeb.app/tptv/GITV-JS-44.m3u8
+冰火,http://aio.koyeb.app/tptv/GITV-JS-45.m3u8
+未知频道,http://aio.koyeb.app/tptv/GITV-JS-46.m3u8
+newtv炫舞未来,http://aio.koyeb.app/tptv/GITV-JS-47.m3u8
+未知频道,http://aio.koyeb.app/tptv/GITV-JS-48.m3u8
+Astro小太阳,http://aio.koyeb.app/tptv/GITV-JS-49.m3u8
+未知频道,http://aio.koyeb.app/tptv/GITV-JS-50.m3u8
 
 AKTV,#genre#
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
 
 
@@ -7087,3 +7226,4 @@ Virgin 3,https://pxtv.koyeb.app/beesport/UK_Virgin_3
 新聞資訊,#genre#
 CNBC,https://pxtv.koyeb.app/beesport/CNBC_Live_TV
 FOX News,https://pxtv.koyeb.app/beesport/FOX_NEWS_Live_TV
+
